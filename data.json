@@ -19770,7 +19770,24 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Manchester City",
+              "scorer": "Erling Haaland",
+              "assist": "",
+              "minute": "65'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester City",
+              "scorer": "Jérémy Doku",
+              "assist": "",
+              "minute": "68'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879264"
         },
         {
@@ -87489,18 +87506,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-11T15:49:58.337207+00:00",
-  "fingerprint": "f394d3de49e21dcad5ec7e0c7de013ae7e27b50d922285fc4209cc33c8acaecf",
+  "generatedAt": "2026-10-11T16:58:45.948733+00:00",
+  "fingerprint": "ff62721310cc29aae41e1425d83fc1f9d0f5ba69acac151d363ae0501db30b30",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-11T15:49:58.337948+00:00",
-    "lastDataChangeAt": "2026-10-11T15:49:58.337207+00:00",
-    "fingerprint": "f394d3de49e21dcad5ec7e0c7de013ae7e27b50d922285fc4209cc33c8acaecf",
+    "lastSuccessfulRunAt": "2026-10-11T16:58:45.949315+00:00",
+    "lastDataChangeAt": "2026-10-11T16:58:45.948733+00:00",
+    "fingerprint": "ff62721310cc29aae41e1425d83fc1f9d0f5ba69acac151d363ae0501db30b30",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-11T15:49:13.414536+00:00",
+      "footballFetchedAt": "2026-10-11T16:57:57.730022+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-11T15:49:12.167Z"
+      "whatsappFetchedAt": "2026-10-11T16:57:56.484Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
