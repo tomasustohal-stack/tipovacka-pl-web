@@ -19690,6 +19690,14 @@
               "minute": "3'",
               "ownGoal": false,
               "penalty": false
+            },
+            {
+              "team": "Crystal Palace",
+              "scorer": "Daichi Kamada",
+              "assist": "Quinten Timber",
+              "minute": "41'",
+              "ownGoal": false,
+              "penalty": false
             }
           ],
           "providerId": "401879266"
@@ -87425,18 +87433,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-11T13:21:45.975630+00:00",
-  "fingerprint": "6ab31292cb2b2284e22c8dd64b2c9e5ef864c054448edf9b83e7546464ffa7a3",
+  "generatedAt": "2026-10-11T13:49:56.789013+00:00",
+  "fingerprint": "8cd6d05eb8b1cccb877a99aba1e4d849c77e7590c5636996a15ba2737790cd7e",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-11T13:21:45.976171+00:00",
-    "lastDataChangeAt": "2026-10-11T13:21:45.975630+00:00",
-    "fingerprint": "6ab31292cb2b2284e22c8dd64b2c9e5ef864c054448edf9b83e7546464ffa7a3",
+    "lastSuccessfulRunAt": "2026-10-11T13:49:56.789611+00:00",
+    "lastDataChangeAt": "2026-10-11T13:49:56.789013+00:00",
+    "fingerprint": "8cd6d05eb8b1cccb877a99aba1e4d849c77e7590c5636996a15ba2737790cd7e",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-11T13:21:13.788476+00:00",
+      "footballFetchedAt": "2026-10-11T13:49:19.625750+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-11T13:21:12.020Z"
+      "whatsappFetchedAt": "2026-10-11T13:49:08.840Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
