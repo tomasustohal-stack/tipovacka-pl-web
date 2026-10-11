@@ -19682,7 +19682,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Nottingham",
+              "scorer": "Dan Ndoye",
+              "assist": "",
+              "minute": "3'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879266"
         },
         {
@@ -87416,18 +87425,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-11T12:55:37.463820+00:00",
-  "fingerprint": "c1f159fe23db713f6692a8998120e9ab94ed6c070c63b73c10220b49ab4507f6",
+  "generatedAt": "2026-10-11T13:21:45.975630+00:00",
+  "fingerprint": "6ab31292cb2b2284e22c8dd64b2c9e5ef864c054448edf9b83e7546464ffa7a3",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-11T12:55:37.464558+00:00",
-    "lastDataChangeAt": "2026-10-11T12:55:37.463820+00:00",
-    "fingerprint": "c1f159fe23db713f6692a8998120e9ab94ed6c070c63b73c10220b49ab4507f6",
+    "lastSuccessfulRunAt": "2026-10-11T13:21:45.976171+00:00",
+    "lastDataChangeAt": "2026-10-11T13:21:45.975630+00:00",
+    "fingerprint": "6ab31292cb2b2284e22c8dd64b2c9e5ef864c054448edf9b83e7546464ffa7a3",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-11T12:55:04.942424+00:00",
+      "footballFetchedAt": "2026-10-11T13:21:13.788476+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-11T12:55:03.018Z"
+      "whatsappFetchedAt": "2026-10-11T13:21:12.020Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
