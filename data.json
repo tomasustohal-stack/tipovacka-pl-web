@@ -19819,9 +19819,9 @@
           "away": "Newcastle",
           "id": "coventry-newcastle",
           "kickoff": "2026-10-12T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 4,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
           "goals": [
@@ -19832,6 +19832,38 @@
               "minute": "6'",
               "ownGoal": false,
               "penalty": true
+            },
+            {
+              "team": "Coventry",
+              "scorer": "Sidiki Cherif",
+              "assist": "",
+              "minute": "48'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Newcastle",
+              "scorer": "Sven Botman",
+              "assist": "Nico González",
+              "minute": "70'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Coventry",
+              "scorer": "Ellis Simms",
+              "assist": "Brandon Thomas-Asante",
+              "minute": "81'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Coventry",
+              "scorer": "Stephen Mfuni",
+              "assist": "Jay Da Silva",
+              "minute": "86'",
+              "ownGoal": false,
+              "penalty": false
             }
           ],
           "providerId": "401879267"
@@ -20273,11 +20305,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            1,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -20286,7 +20318,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Newcastle United",
@@ -20304,9 +20336,16 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
               "status": "resolved",
@@ -20314,7 +20353,7 @@
               "total": 0
             }
           ],
-          "total": 89,
+          "total": 90,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -20737,7 +20776,7 @@
             13,
             4,
             11,
-            0
+            3
           ],
           "playerPoints": [
             6,
@@ -20801,9 +20840,9 @@
               "total": 0.5
             }
           ],
-          "total": 111.5,
+          "total": 114.5,
           "exactDouble": 1,
-          "roundWinner": false,
+          "roundWinner": true,
           "submitted": true
         },
         {
@@ -22501,8 +22540,8 @@
           "submitted": true
         }
       ],
-      "complete": false,
-      "max": 111.5,
+      "complete": true,
+      "max": 114.5,
       "tipsRevealed": true
     },
     {
@@ -87309,10 +87348,10 @@
   "standings": [
     {
       "alias": "Dvorek",
-      "roundWins": 0,
+      "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 42.5,
-      "total": 569.5,
+      "total": 572.5,
       "rank": 1,
       "finance": 20000
     },
@@ -87389,20 +87428,20 @@
       "finance": -1500
     },
     {
+      "alias": "Giorgio",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 33,
+      "total": 485,
+      "rank": 10,
+      "finance": -1750
+    },
+    {
       "alias": "Peloš",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 39.5,
       "total": 484.5,
-      "rank": 10,
-      "finance": -1750
-    },
-    {
-      "alias": "Giorgio",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 32,
-      "total": 484,
       "rank": 11,
       "finance": -2000
     },
@@ -87563,18 +87602,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-12T19:50:55.491028+00:00",
-  "fingerprint": "f6914c27aef45a281f79fef586771a144955776861451a8a1e16cad381496db8",
+  "generatedAt": "2026-10-12T21:49:57.731654+00:00",
+  "fingerprint": "1ddec1d67e384f6bdd450d9462895f5f81317174e1ec8f94de18fad79fcce423",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-12T19:50:55.491813+00:00",
-    "lastDataChangeAt": "2026-10-12T19:50:55.491028+00:00",
-    "fingerprint": "f6914c27aef45a281f79fef586771a144955776861451a8a1e16cad381496db8",
+    "lastSuccessfulRunAt": "2026-10-12T21:49:57.732435+00:00",
+    "lastDataChangeAt": "2026-10-12T21:49:57.731654+00:00",
+    "fingerprint": "1ddec1d67e384f6bdd450d9462895f5f81317174e1ec8f94de18fad79fcce423",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-12T19:49:20.134453+00:00",
+      "footballFetchedAt": "2026-10-12T21:49:15.773902+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-12T19:49:19.365Z"
+      "whatsappFetchedAt": "2026-10-12T21:49:14.479Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -87597,8 +87636,7 @@
         "statuses": {
           "did_not_play": 4,
           "manual_override": 7,
-          "pending": 1,
-          "resolved": 312
+          "resolved": 313
         },
         "methods": {
           "exact": 155,
