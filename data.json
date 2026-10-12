@@ -19824,7 +19824,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Coventry",
+              "scorer": "Jack Rudoni",
+              "assist": "",
+              "minute": "6'",
+              "ownGoal": false,
+              "penalty": true
+            }
+          ],
           "providerId": "401879267"
         }
       ],
@@ -87554,18 +87563,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-12T18:55:40.178985+00:00",
-  "fingerprint": "d74eb986e7afec508ad10dbedcc08e282f1c4e6afc1fcfe3537c0c8cd12c64be",
+  "generatedAt": "2026-10-12T19:24:50.532566+00:00",
+  "fingerprint": "f6914c27aef45a281f79fef586771a144955776861451a8a1e16cad381496db8",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-12T18:55:40.179762+00:00",
-    "lastDataChangeAt": "2026-10-12T18:55:40.178985+00:00",
-    "fingerprint": "d74eb986e7afec508ad10dbedcc08e282f1c4e6afc1fcfe3537c0c8cd12c64be",
+    "lastSuccessfulRunAt": "2026-10-12T19:24:50.533265+00:00",
+    "lastDataChangeAt": "2026-10-12T19:24:50.532566+00:00",
+    "fingerprint": "f6914c27aef45a281f79fef586771a144955776861451a8a1e16cad381496db8",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-12T18:55:02.516740+00:00",
+      "footballFetchedAt": "2026-10-12T19:24:04.260037+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-12T18:55:01.778Z"
+      "whatsappFetchedAt": "2026-10-12T19:24:03.257Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
