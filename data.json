@@ -87591,29 +87591,29 @@
     }
   ],
   "news": {
-    "round": 5,
+    "round": 6,
     "groupMoment": {
-      "nick": "Usťa",
-      "submittedAt": "2026-05-15T06:41:45.000Z",
-      "text": "Tak to svoji ucast menim na NE, kdyz jsem jeste navic fanousek United To nevim co by me potkalo…😀😀",
+      "nick": "Dvorek",
+      "submittedAt": "2026-01-17T14:01:24.000Z",
+      "text": "No jako nemělo to kam uhnout hlavně",
       "reactions": 24,
-      "comments": 10
+      "comments": 11
     }
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-12T21:49:57.731654+00:00",
-  "fingerprint": "1ddec1d67e384f6bdd450d9462895f5f81317174e1ec8f94de18fad79fcce423",
+  "generatedAt": "2026-10-13T02:26:53.937779+00:00",
+  "fingerprint": "975a0ea29723f43d8278085bc6f2514ebe427f46fc9dd21f7fbee2580da7fb23",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-12T21:49:57.732435+00:00",
-    "lastDataChangeAt": "2026-10-12T21:49:57.731654+00:00",
-    "fingerprint": "1ddec1d67e384f6bdd450d9462895f5f81317174e1ec8f94de18fad79fcce423",
+    "lastSuccessfulRunAt": "2026-10-13T02:26:53.938521+00:00",
+    "lastDataChangeAt": "2026-10-13T02:26:53.937779+00:00",
+    "fingerprint": "975a0ea29723f43d8278085bc6f2514ebe427f46fc9dd21f7fbee2580da7fb23",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-12T21:49:15.773902+00:00",
+      "footballFetchedAt": "2026-10-13T02:25:24.297668+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-12T21:49:14.479Z"
+      "whatsappFetchedAt": "2026-10-13T02:25:23.553Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
