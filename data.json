@@ -23048,7 +23048,7 @@
         },
         {
           "alias": "Mudras",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -24290,7 +24290,7 @@
         },
         {
           "alias": "Mráva",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -24428,7 +24428,7 @@
         },
         {
           "alias": "Aleš M.",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -87602,18 +87602,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-13T18:13:00.585404+00:00",
-  "fingerprint": "28b6eb80825919b9adbbdcb0b6e2669606f5234d50f8eed8181126def0b162ea",
+  "generatedAt": "2026-10-14T18:33:53.703903+00:00",
+  "fingerprint": "51ea6f4591ac5029bca2d5633ba63b6be57003f81b598478980a493ca2e8ce0a",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-13T18:13:00.586232+00:00",
-    "lastDataChangeAt": "2026-10-13T18:13:00.585404+00:00",
-    "fingerprint": "28b6eb80825919b9adbbdcb0b6e2669606f5234d50f8eed8181126def0b162ea",
+    "lastSuccessfulRunAt": "2026-10-14T18:33:53.704439+00:00",
+    "lastDataChangeAt": "2026-10-14T18:33:53.703903+00:00",
+    "fingerprint": "51ea6f4591ac5029bca2d5633ba63b6be57003f81b598478980a493ca2e8ce0a",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-13T18:12:07.171934+00:00",
+      "footballFetchedAt": "2026-10-14T18:33:14.262220+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-13T18:12:06.639Z"
+      "whatsappFetchedAt": "2026-10-14T18:33:13.796Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
