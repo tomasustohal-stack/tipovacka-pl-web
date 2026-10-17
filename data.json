@@ -22772,7 +22772,7 @@
         },
         {
           "alias": "Pospec",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -23186,7 +23186,7 @@
         },
         {
           "alias": "Pavel",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -23255,7 +23255,7 @@
         },
         {
           "alias": "Richi",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -23807,7 +23807,7 @@
         },
         {
           "alias": "Hasťa",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -23876,7 +23876,7 @@
         },
         {
           "alias": "Peloš",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -24014,7 +24014,7 @@
         },
         {
           "alias": "Pelix",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -24497,7 +24497,7 @@
         },
         {
           "alias": "Škardis",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -87602,18 +87602,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-16T12:22:48.121340+00:00",
-  "fingerprint": "30898b45c803b5cbdaa631d7ae1a75a90bc87f2ed723477823b12e05e02ba667",
+  "generatedAt": "2026-10-17T06:53:44.005359+00:00",
+  "fingerprint": "55e41b12cbf34053db3b3694426ba43b78ba9bb002417f8836788852275f00eb",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-16T12:22:48.122399+00:00",
-    "lastDataChangeAt": "2026-10-16T12:22:48.121340+00:00",
-    "fingerprint": "30898b45c803b5cbdaa631d7ae1a75a90bc87f2ed723477823b12e05e02ba667",
+    "lastSuccessfulRunAt": "2026-10-17T06:53:44.005749+00:00",
+    "lastDataChangeAt": "2026-10-17T06:53:44.005359+00:00",
+    "fingerprint": "55e41b12cbf34053db3b3694426ba43b78ba9bb002417f8836788852275f00eb",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-16T12:21:25.812585+00:00",
+      "footballFetchedAt": "2026-10-17T06:53:03.286016+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-16T12:21:25.275Z"
+      "whatsappFetchedAt": "2026-10-17T06:53:01.259Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
