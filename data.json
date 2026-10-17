@@ -388,6 +388,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "401451",
+      "catalogId": "espn:401451",
+      "name": "Brian Madjo",
+      "team": "Aston Villa",
+      "position": "Substitute"
+    },
+    {
       "providerId": "214375",
       "catalogId": "espn:214375",
       "name": "Emiliano Buendía",
@@ -447,6 +454,13 @@
       "providerId": "310607",
       "catalogId": "espn:310607",
       "name": "Lamare Bogarde",
+      "team": "Aston Villa",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "174550",
+      "catalogId": "espn:174550",
+      "name": "Leon Goretzka",
       "team": "Aston Villa",
       "position": "Substitute"
     },
@@ -707,7 +721,7 @@
       "catalogId": "espn:270507",
       "name": "Sepp van den Berg",
       "team": "Brentford",
-      "position": "Substitute"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "225564",
@@ -1828,6 +1842,13 @@
       "name": "Timothy Castagne",
       "team": "Fulham",
       "position": "Right Back"
+    },
+    {
+      "providerId": "140033",
+      "catalogId": "espn:140033",
+      "name": "Tom Cairney",
+      "team": "Fulham",
+      "position": "Substitute"
     },
     {
       "providerId": "311173",
@@ -22556,12 +22577,29 @@
           "away": "Chelsea",
           "id": "everton-chelsea",
           "kickoff": "2026-10-17T11:30Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Chelsea",
+              "scorer": "Pedro Neto",
+              "assist": "",
+              "minute": "46'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Chelsea",
+              "scorer": "Pedro Neto",
+              "assist": "",
+              "minute": "90'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401878771"
         },
         {
@@ -22571,12 +22609,21 @@
           "away": "Hull",
           "id": "fulham-hull",
           "kickoff": "2026-10-17T14:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Fulham",
+              "scorer": "Alex Iwobi",
+              "assist": "Sander Berge",
+              "minute": "33'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401878770"
         },
         {
@@ -22586,12 +22633,53 @@
           "away": "Ipswich",
           "id": "manchestercity-ipswich",
           "kickoff": "2026-10-17T14:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Manchester City",
+              "scorer": "Phil Foden",
+              "assist": "Jérémy Doku",
+              "minute": "19'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Ipswich",
+              "scorer": "Daizen Maeda",
+              "assist": "Abdoul Ouattara",
+              "minute": "21'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester City",
+              "scorer": "Erling Haaland",
+              "assist": "Mateo Kovacic",
+              "minute": "34'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester City",
+              "scorer": "Erling Haaland",
+              "assist": "Iliman Ndiaye",
+              "minute": "69'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Ipswich",
+              "scorer": "Zian Flemming",
+              "assist": "",
+              "minute": "90'",
+              "ownGoal": false,
+              "penalty": true
+            }
+          ],
           "providerId": "401879259"
         },
         {
@@ -22601,12 +22689,37 @@
           "away": "Liverpool",
           "id": "brentford-liverpool",
           "kickoff": "2026-10-17T14:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Brentford",
+              "scorer": "Keane Lewis-Potter",
+              "assist": "Igor Thiago",
+              "minute": "44'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Liverpool",
+              "scorer": "Víctor Muñoz",
+              "assist": "Florian Wirtz",
+              "minute": "62'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Liverpool",
+              "scorer": "Alexander Isak",
+              "assist": "Bradley Barcola",
+              "minute": "70'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879262"
         },
         {
@@ -22616,12 +22729,21 @@
           "away": "Aston Villa",
           "id": "newcastle-astonvilla",
           "kickoff": "2026-10-17T16:30Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Aston Villa",
+              "scorer": "Johan Manzambi",
+              "assist": "João Gomes",
+              "minute": "36'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879258"
         },
         {
@@ -22722,10 +22844,10 @@
             "Morgan Rogers"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            11,
+            11,
+            22,
+            15,
             0,
             0,
             0,
@@ -22734,12 +22856,12 @@
             0
           ],
           "playerPoints": [
-            0,
+            1,
             0
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -22747,7 +22869,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -22755,7 +22877,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -22765,17 +22887,37 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
-              "status": "pending",
-              "components": [],
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -0.5,
+                  "points": -0.5
+                }
+              ],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 60,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -22801,10 +22943,10 @@
             "Rayan Cherki"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            4,
+            11,
+            22,
+            15,
             0,
             0,
             0,
@@ -22813,12 +22955,12 @@
             0
           ],
           "playerPoints": [
-            0,
+            1,
             0
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -22826,7 +22968,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -22834,7 +22976,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -22844,17 +22986,24 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 53,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -22880,10 +23029,10 @@
             "Jérémy Doku"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            12,
+            12,
+            22,
+            15,
             0,
             0,
             0,
@@ -22893,11 +23042,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            2
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -22905,7 +23054,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -22913,7 +23062,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -22923,17 +23072,30 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 2
             }
           ],
-          "total": 0,
+          "total": 63,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -22960,8 +23122,8 @@
           ],
           "matchPoints": [
             0,
-            0,
-            0,
+            5,
+            20,
             0,
             0,
             0,
@@ -22975,7 +23137,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -22984,7 +23146,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23002,7 +23164,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -23012,7 +23174,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 25,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23038,10 +23200,10 @@
             "Kai Havertz"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            12,
+            11,
+            24,
+            15,
             0,
             0,
             0,
@@ -23054,7 +23216,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -23063,7 +23225,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23081,7 +23243,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -23091,7 +23253,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 62,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23117,11 +23279,11 @@
             "Morgan Rogers"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            5,
+            24,
+            5,
+            5,
             0,
             0,
             0,
@@ -23133,8 +23295,8 @@
             0
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -23142,7 +23304,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23150,7 +23312,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -23160,17 +23322,30 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -0.5,
+                  "points": -0.5
+                }
+              ],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 51,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23196,11 +23371,11 @@
             "Dominic Solanke"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            11,
+            24,
+            15,
+            11,
             0,
             0,
             0,
@@ -23212,7 +23387,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -23221,7 +23396,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23239,7 +23414,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -23249,7 +23424,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 73,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23275,10 +23450,10 @@
             "Rayan Cherki"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            12,
+            5,
+            22,
+            5,
             0,
             0,
             0,
@@ -23292,7 +23467,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -23308,7 +23483,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23323,12 +23498,12 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 44,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23354,10 +23529,10 @@
             "Pascal Gross"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            2,
+            15,
+            22,
+            5,
             0,
             0,
             0,
@@ -23370,7 +23545,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -23379,7 +23554,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23397,7 +23572,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -23407,7 +23582,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 44,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23433,10 +23608,10 @@
             "Bryan Mbeumo"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            2,
+            11,
+            22,
+            5,
             0,
             0,
             0,
@@ -23486,7 +23661,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 40,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23512,11 +23687,11 @@
             "Bukayo Saka"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            2,
+            5,
+            20,
+            5,
+            5,
             0,
             0,
             0,
@@ -23528,7 +23703,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -23537,7 +23712,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23555,7 +23730,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -23565,7 +23740,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 37,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23591,9 +23766,9 @@
             "Pascal Gross"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
+            12,
+            12,
+            22,
             0,
             0,
             0,
@@ -23607,7 +23782,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -23616,7 +23791,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23634,7 +23809,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -23644,7 +23819,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 46,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23670,11 +23845,11 @@
             "Bukayo Saka"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            5,
+            22,
+            5,
+            10,
             0,
             0,
             0,
@@ -23686,7 +23861,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -23695,7 +23870,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23713,7 +23888,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -23723,7 +23898,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 54,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23749,11 +23924,11 @@
             "João Pedro"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            11,
+            22,
+            5,
+            11,
             0,
             0,
             0,
@@ -23762,11 +23937,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -23774,7 +23949,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23782,7 +23957,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -23792,17 +23967,24 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 53.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23828,10 +24010,10 @@
             "Marcus Tavernier"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            12,
+            5,
+            22,
+            15,
             0,
             0,
             0,
@@ -23844,7 +24026,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -23853,7 +24035,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -23871,7 +24053,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -23881,7 +24063,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 54,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23907,10 +24089,10 @@
             "Gonzalo García"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            2,
+            11,
+            22,
+            5,
             0,
             0,
             0,
@@ -23920,11 +24102,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -23932,7 +24114,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -23940,7 +24122,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Fulham",
@@ -23950,17 +24132,24 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 40.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23986,10 +24175,10 @@
             "Bryan Mbeumo"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            11,
+            12,
+            22,
+            15,
             0,
             0,
             0,
@@ -24039,7 +24228,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 60,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24065,11 +24254,11 @@
             "Nicolas Jackson"
           ],
           "matchPoints": [
+            12,
+            11,
+            24,
             0,
-            0,
-            0,
-            0,
-            0,
+            11,
             0,
             0,
             0,
@@ -24077,12 +24266,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            1,
+            0.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24090,7 +24279,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -24098,7 +24287,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Aston Villa",
@@ -24108,17 +24297,31 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 59.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24144,11 +24347,11 @@
             "Bukayo Saka"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            15,
+            22,
+            5,
+            11,
             0,
             0,
             0,
@@ -24160,7 +24363,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -24169,7 +24372,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -24187,7 +24390,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -24197,7 +24400,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 65,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24223,10 +24426,10 @@
             "João Pedro"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            12,
+            11,
+            22,
+            5,
             0,
             0,
             0,
@@ -24236,11 +24439,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24248,7 +24451,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -24256,7 +24459,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -24266,17 +24469,24 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 50.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24302,11 +24512,11 @@
             "João Pedro"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            2,
+            11,
+            24,
+            5,
+            5,
             0,
             0,
             0,
@@ -24315,11 +24525,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24327,7 +24537,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -24335,7 +24545,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -24345,17 +24555,24 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 47.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24381,10 +24598,10 @@
             "Bukayo Saka"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            12,
+            11,
+            11,
+            5,
             0,
             0,
             0,
@@ -24393,11 +24610,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            1,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -24406,7 +24623,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -24424,9 +24641,16 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
               "status": "pending",
@@ -24434,7 +24658,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 40,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24460,10 +24684,10 @@
             "Bruno Fernandes"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            12,
+            12,
+            20,
+            15,
             0,
             0,
             0,
@@ -24476,7 +24700,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -24485,7 +24709,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -24503,7 +24727,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -24513,7 +24737,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 59,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24539,11 +24763,11 @@
             "Enzo Fernández"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            12,
+            22,
+            15,
+            5,
             0,
             0,
             0,
@@ -24556,7 +24780,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24572,7 +24796,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -24587,12 +24811,12 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 66,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24618,10 +24842,10 @@
             "João Pedro"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
+            4,
+            5,
+            22,
+            15,
             0,
             0,
             0,
@@ -24631,11 +24855,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24643,7 +24867,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -24651,7 +24875,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -24661,17 +24885,24 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 46.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24697,11 +24928,11 @@
             "Rayan Cherki"
           ],
           "matchPoints": [
+            11,
             0,
-            0,
-            0,
-            0,
-            0,
+            22,
+            5,
+            5,
             0,
             0,
             0,
@@ -24713,8 +24944,8 @@
             0
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24722,7 +24953,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -24730,7 +24961,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -24740,17 +24971,30 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -1,
+                  "points": -1
+                }
+              ],
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 43,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24776,11 +25020,11 @@
             "João Pedro"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            5,
+            22,
+            5,
+            11,
             0,
             0,
             0,
@@ -24788,12 +25032,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            1,
+            0.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24801,7 +25045,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Aston Villa",
@@ -24809,7 +25053,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -24819,24 +25063,38 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 56.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 0,
+      "max": 73,
       "tipsRevealed": true
     },
     {
@@ -87621,7 +87879,7 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 42.5,
-      "total": 572.5,
+      "total": 612.5,
       "rank": 1,
       "finance": 20000
     },
@@ -87630,88 +87888,88 @@
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 20,
-      "total": 520,
+      "total": 563,
       "rank": 2,
       "finance": 15750
+    },
+    {
+      "alias": "RossoNero",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 35,
+      "total": 552,
+      "rank": 3,
+      "finance": 12250
     },
     {
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 45,
-      "total": 512,
-      "rank": 3,
-      "finance": 12250
-    },
-    {
-      "alias": "Grubis",
-      "roundWins": 2,
-      "exactDoubles": 0,
-      "playerPoints": 38.5,
-      "total": 506.5,
+      "total": 549,
       "rank": 4,
       "finance": 9250
-    },
-    {
-      "alias": "RossoNero",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 34.5,
-      "total": 505.5,
-      "rank": 5,
-      "finance": 6500
-    },
-    {
-      "alias": "Richi",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 32.5,
-      "total": 497.5,
-      "rank": 6,
-      "finance": 3750
-    },
-    {
-      "alias": "Bajgi",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 56,
-      "total": 490,
-      "rank": 7,
-      "finance": 2500
-    },
-    {
-      "alias": "Mudras",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 40.5,
-      "total": 488.5,
-      "rank": 8,
-      "finance": 1250
     },
     {
       "alias": "Andy",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 27.5,
-      "total": 487.5,
-      "rank": 9,
-      "finance": -1500
+      "playerPoints": 28.5,
+      "total": 547.5,
+      "rank": 5,
+      "finance": 6500
+    },
+    {
+      "alias": "Grubis",
+      "roundWins": 2,
+      "exactDoubles": 0,
+      "playerPoints": 39,
+      "total": 547,
+      "rank": 6,
+      "finance": 3750
     },
     {
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 33,
-      "total": 485,
-      "rank": 10,
-      "finance": -1750
+      "total": 547,
+      "rank": 7,
+      "finance": 2500
     },
     {
       "alias": "Peloš",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 39.5,
-      "total": 484.5,
+      "playerPoints": 41,
+      "total": 544,
+      "rank": 8,
+      "finance": 1250
+    },
+    {
+      "alias": "Richi",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 32.5,
+      "total": 541.5,
+      "rank": 9,
+      "finance": -1500
+    },
+    {
+      "alias": "Mudras",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 40.5,
+      "total": 539.5,
+      "rank": 10,
+      "finance": -1750
+    },
+    {
+      "alias": "Dufec",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 32.5,
+      "total": 538.5,
       "rank": 11,
       "finance": -2000
     },
@@ -87719,17 +87977,17 @@
       "alias": "Pospec",
       "roundWins": 1,
       "exactDoubles": 0,
-      "playerPoints": 40,
-      "total": 480,
+      "playerPoints": 41,
+      "total": 533,
       "rank": 12,
       "finance": -2250
     },
     {
-      "alias": "Usťa",
+      "alias": "Bajgi",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 42.5,
-      "total": 479,
+      "playerPoints": 57,
+      "total": 530,
       "rank": 13,
       "finance": -2500
     },
@@ -87737,62 +87995,62 @@
       "alias": "Pelix",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 30,
-      "total": 478,
+      "playerPoints": 30.5,
+      "total": 528.5,
       "rank": 14,
       "finance": -2750
-    },
-    {
-      "alias": "Dufec",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 32.5,
-      "total": 473.5,
-      "rank": 15,
-      "finance": -3000
     },
     {
       "alias": "Dominick Z.",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 36,
-      "total": 468,
-      "rank": 16,
-      "finance": -3250
+      "playerPoints": 36.5,
+      "total": 515.5,
+      "rank": 15,
+      "finance": -3000
     },
     {
       "alias": "Rommmik26",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 40,
-      "total": 457,
-      "rank": 17,
-      "finance": -3500
-    },
-    {
-      "alias": "JR",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 41,
-      "total": 454,
-      "rank": 18,
-      "finance": -3750
+      "playerPoints": 40.5,
+      "total": 510.5,
+      "rank": 16,
+      "finance": -3250
     },
     {
       "alias": "Luke",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 27.5,
-      "total": 453.5,
-      "rank": 19,
-      "finance": -4000
+      "total": 507.5,
+      "rank": 17,
+      "finance": -3500
     },
     {
       "alias": "Kašpec",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 19,
-      "total": 451,
+      "total": 505,
+      "rank": 18,
+      "finance": -3750
+    },
+    {
+      "alias": "Usťa",
+      "roundWins": 0,
+      "exactDoubles": 2,
+      "playerPoints": 42.5,
+      "total": 504,
+      "rank": 19,
+      "finance": -4000
+    },
+    {
+      "alias": "Závodka",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 25,
+      "total": 503,
       "rank": 20,
       "finance": -4250
     },
@@ -87800,17 +88058,17 @@
       "alias": "Maara",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 20,
-      "total": 439,
+      "playerPoints": 22,
+      "total": 502,
       "rank": 21,
       "finance": -4500
     },
     {
-      "alias": "Závodka",
+      "alias": "JR",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 25,
-      "total": 430,
+      "playerPoints": 41,
+      "total": 500,
       "rank": 22,
       "finance": -4750
     },
@@ -87819,25 +88077,25 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 33.5,
-      "total": 424,
+      "total": 490,
       "rank": 23,
       "finance": -5000
-    },
-    {
-      "alias": "Škardis",
-      "roundWins": 1,
-      "exactDoubles": 1,
-      "playerPoints": 26.5,
-      "total": 419.5,
-      "rank": 24,
-      "finance": -5250
     },
     {
       "alias": "Mezňa",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 34,
-      "total": 419,
+      "total": 478,
+      "rank": 24,
+      "finance": -5250
+    },
+    {
+      "alias": "Škardis",
+      "roundWins": 1,
+      "exactDoubles": 1,
+      "playerPoints": 28,
+      "total": 476,
       "rank": 25,
       "finance": -5500
     },
@@ -87846,7 +88104,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 51.5,
-      "total": 401.5,
+      "total": 461.5,
       "rank": 26,
       "finance": -5750
     },
@@ -87855,7 +88113,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 36,
-      "total": 400,
+      "total": 444,
       "rank": 27,
       "finance": -6000
     }
@@ -87872,18 +88130,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-17T11:46:46.716498+00:00",
-  "fingerprint": "7bd0c0e90bc6c6f9637ff6b67be1e2d8b2f0de6af21e27022e8864974ca8891e",
+  "generatedAt": "2026-10-17T19:05:44.078126+00:00",
+  "fingerprint": "38b60597b826727d846facfdb22a81542ccb21cd6ade57e886d1d8397cfe4bf7",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-17T11:46:46.717362+00:00",
-    "lastDataChangeAt": "2026-10-17T11:46:46.716498+00:00",
-    "fingerprint": "7bd0c0e90bc6c6f9637ff6b67be1e2d8b2f0de6af21e27022e8864974ca8891e",
+    "lastSuccessfulRunAt": "2026-10-17T19:05:44.078774+00:00",
+    "lastDataChangeAt": "2026-10-17T19:05:44.078126+00:00",
+    "fingerprint": "38b60597b826727d846facfdb22a81542ccb21cd6ade57e886d1d8397cfe4bf7",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-17T11:45:25.989398+00:00",
+      "footballFetchedAt": "2026-10-17T19:05:08.161772+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-17T11:45:24.761Z"
+      "whatsappFetchedAt": "2026-10-17T19:05:05.739Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -87904,10 +88162,10 @@
       },
       "playerResolution": {
         "statuses": {
-          "did_not_play": 4,
+          "did_not_play": 6,
           "manual_override": 7,
-          "pending": 54,
-          "resolved": 313
+          "pending": 17,
+          "resolved": 348
         },
         "methods": {
           "exact": 155,
