@@ -22908,12 +22908,21 @@
           "away": "Arsenal",
           "id": "nottingham-arsenal",
           "kickoff": "2026-10-18T15:30Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Arsenal",
+              "scorer": "Noni Madueke",
+              "assist": "Declan Rice",
+              "minute": "80'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401878769"
         },
         {
@@ -22962,7 +22971,7 @@
             13,
             10,
             12,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -23027,7 +23036,7 @@
               "total": 0
             }
           ],
-          "total": 95,
+          "total": 106,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23061,7 +23070,7 @@
             5,
             9,
             15,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -23113,7 +23122,7 @@
               "total": 0
             }
           ],
-          "total": 82,
+          "total": 93,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23147,7 +23156,7 @@
             5,
             9,
             2,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -23205,7 +23214,7 @@
               "total": 2
             }
           ],
-          "total": 79,
+          "total": 91,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23239,7 +23248,7 @@
             13,
             10,
             12,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -23284,7 +23293,7 @@
               "total": 0
             }
           ],
-          "total": 60,
+          "total": 71,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23318,16 +23327,16 @@
             5,
             9,
             12,
-            0,
+            11,
             0
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -23343,7 +23352,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -23358,12 +23367,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 88,
+          "total": 99.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23397,7 +23413,7 @@
             5,
             10,
             12,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -23455,7 +23471,7 @@
               "total": 0
             }
           ],
-          "total": 78,
+          "total": 90,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23489,7 +23505,7 @@
             5,
             10,
             2,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -23534,7 +23550,7 @@
               "total": 0
             }
           ],
-          "total": 90,
+          "total": 102,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23568,7 +23584,7 @@
             5,
             10,
             12,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -23632,7 +23648,7 @@
               "total": 0
             }
           ],
-          "total": 80,
+          "total": 91,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23666,7 +23682,7 @@
             15,
             10,
             15,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -23724,7 +23740,7 @@
               "total": 0
             }
           ],
-          "total": 84,
+          "total": 96,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23758,15 +23774,15 @@
             15,
             9,
             12,
-            0,
+            11,
             0
           ],
           "playerPoints": [
-            0,
+            1,
             3.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -23775,7 +23791,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -23793,9 +23809,16 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
               "status": "resolved",
@@ -23816,7 +23839,7 @@
               "total": 3.5
             }
           ],
-          "total": 79.5,
+          "total": 91.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23850,16 +23873,16 @@
             15,
             9,
             2,
-            0,
+            15,
             0
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -23875,7 +23898,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -23890,12 +23913,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 63,
+          "total": 78.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23929,7 +23959,7 @@
             5,
             11,
             12,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -23987,7 +24017,7 @@
               "total": 0
             }
           ],
-          "total": 74,
+          "total": 86,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24021,16 +24051,16 @@
             5,
             10,
             2,
-            0,
+            12,
             0
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24046,7 +24076,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -24061,12 +24091,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 71,
+          "total": 83.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24100,7 +24137,7 @@
             15,
             10,
             12,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -24152,7 +24189,7 @@
               "total": 0.5
             }
           ],
-          "total": 90.5,
+          "total": 102.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24186,7 +24223,7 @@
             15,
             9,
             12,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -24244,7 +24281,7 @@
               "total": 3.5
             }
           ],
-          "total": 93.5,
+          "total": 105.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24278,7 +24315,7 @@
             5,
             9,
             2,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -24330,7 +24367,7 @@
               "total": 0.5
             }
           ],
-          "total": 56.5,
+          "total": 67.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24364,7 +24401,7 @@
             4,
             10,
             12,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -24422,7 +24459,7 @@
               "total": 3.5
             }
           ],
-          "total": 89.5,
+          "total": 100.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24456,7 +24493,7 @@
             5,
             9,
             12,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -24515,7 +24552,7 @@
               "total": 0.5
             }
           ],
-          "total": 85.5,
+          "total": 96.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24549,16 +24586,16 @@
             4,
             10,
             2,
-            0,
+            12,
             0
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24574,7 +24611,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -24589,12 +24626,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 81,
+          "total": 93.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24628,7 +24672,7 @@
             5,
             10,
             12,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -24680,7 +24724,7 @@
               "total": 0.5
             }
           ],
-          "total": 77.5,
+          "total": 89.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24714,7 +24758,7 @@
             5,
             10,
             2,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -24766,7 +24810,7 @@
               "total": 0.5
             }
           ],
-          "total": 64.5,
+          "total": 75.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24800,16 +24844,16 @@
             5,
             20,
             2,
-            0,
+            12,
             0
           ],
           "playerPoints": [
             1,
-            0
+            0.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -24825,7 +24869,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -24847,12 +24891,19 @@
               "total": 1
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 67,
+          "total": 79.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24886,7 +24937,7 @@
             2,
             9,
             2,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -24944,7 +24995,7 @@
               "total": 0
             }
           ],
-          "total": 72,
+          "total": 83,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24978,7 +25029,7 @@
             5,
             10,
             11,
-            0,
+            5,
             0
           ],
           "playerPoints": [
@@ -25042,7 +25093,7 @@
               "total": 0
             }
           ],
-          "total": 101,
+          "total": 106,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25076,7 +25127,7 @@
             5,
             10,
             15,
-            0,
+            11,
             0
           ],
           "playerPoints": [
@@ -25128,7 +25179,7 @@
               "total": 0.5
             }
           ],
-          "total": 76.5,
+          "total": 87.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25162,7 +25213,7 @@
             5,
             9,
             12,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -25220,7 +25271,7 @@
               "total": 0
             }
           ],
-          "total": 69,
+          "total": 81,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25254,7 +25305,7 @@
             15,
             9,
             0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -25313,14 +25364,14 @@
               "total": 0.5
             }
           ],
-          "total": 80.5,
+          "total": 92.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 101,
+      "max": 106,
       "tipsRevealed": true
     },
     {
@@ -88104,8 +88155,8 @@
       "alias": "Dvorek",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 46,
-      "total": 652,
+      "playerPoints": 47,
+      "total": 664,
       "rank": 1,
       "finance": 20000
     },
@@ -88114,34 +88165,34 @@
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 20,
-      "total": 589,
+      "total": 601,
       "rank": 2,
       "finance": 15750
-    },
-    {
-      "alias": "Andy",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 28.5,
-      "total": 582.5,
-      "rank": 3,
-      "finance": 12250
-    },
-    {
-      "alias": "RossoNero",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 35,
-      "total": 582,
-      "rank": 4,
-      "finance": 9250
     },
     {
       "alias": "Richi",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 32.5,
-      "total": 581.5,
+      "total": 593.5,
+      "rank": 3,
+      "finance": 12250
+    },
+    {
+      "alias": "Andy",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 28.5,
+      "total": 593.5,
+      "rank": 4,
+      "finance": 9250
+    },
+    {
+      "alias": "RossoNero",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 35,
+      "total": 593,
       "rank": 5,
       "finance": 6500
     },
@@ -88149,8 +88200,8 @@
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 45,
-      "total": 575,
+      "playerPoints": 45.5,
+      "total": 590.5,
       "rank": 6,
       "finance": 3750
     },
@@ -88158,8 +88209,8 @@
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 33,
-      "total": 573,
+      "playerPoints": 33.5,
+      "total": 584.5,
       "rank": 7,
       "finance": 2500
     },
@@ -88168,7 +88219,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 41,
-      "total": 570,
+      "total": 581,
       "rank": 8,
       "finance": 1250
     },
@@ -88177,7 +88228,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 40.5,
-      "total": 566.5,
+      "total": 578.5,
       "rank": 9,
       "finance": -1500
     },
@@ -88186,7 +88237,7 @@
       "roundWins": 2,
       "exactDoubles": 0,
       "playerPoints": 39,
-      "total": 563,
+      "total": 574,
       "rank": 10,
       "finance": -1750
     },
@@ -88195,7 +88246,7 @@
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 41,
-      "total": 562,
+      "total": 573,
       "rank": 11,
       "finance": -2000
     },
@@ -88203,8 +88254,8 @@
       "alias": "Bajgi",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 57,
-      "total": 557,
+      "playerPoints": 57.5,
+      "total": 569.5,
       "rank": 12,
       "finance": -2250
     },
@@ -88213,7 +88264,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 30.5,
-      "total": 555.5,
+      "total": 567.5,
       "rank": 13,
       "finance": -2500
     },
@@ -88221,8 +88272,8 @@
       "alias": "Dufec",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 32.5,
-      "total": 554.5,
+      "playerPoints": 33,
+      "total": 567,
       "rank": 14,
       "finance": -2750
     },
@@ -88231,7 +88282,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 40.5,
-      "total": 547.5,
+      "total": 559.5,
       "rank": 15,
       "finance": -3000
     },
@@ -88240,7 +88291,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 31,
-      "total": 547,
+      "total": 559,
       "rank": 16,
       "finance": -3250
     },
@@ -88249,7 +88300,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 42.5,
-      "total": 539,
+      "total": 550,
       "rank": 17,
       "finance": -3500
     },
@@ -88258,7 +88309,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 36.5,
-      "total": 532.5,
+      "total": 543.5,
       "rank": 18,
       "finance": -3750
     },
@@ -88267,43 +88318,43 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 41,
-      "total": 528,
+      "total": 540,
       "rank": 19,
       "finance": -4000
-    },
-    {
-      "alias": "Mráva",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 42.5,
-      "total": 525,
-      "rank": 20,
-      "finance": -4250
     },
     {
       "alias": "Kašpec",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 19,
-      "total": 522,
-      "rank": 21,
-      "finance": -4500
+      "playerPoints": 19.5,
+      "total": 534.5,
+      "rank": 20,
+      "finance": -4250
     },
     {
       "alias": "Závodka",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 25,
-      "total": 520,
-      "rank": 22,
-      "finance": -4750
+      "total": 532,
+      "rank": 21,
+      "finance": -4500
     },
     {
       "alias": "Maara",
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 22,
-      "total": 518,
+      "total": 530,
+      "rank": 22,
+      "finance": -4750
+    },
+    {
+      "alias": "Mráva",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 42.5,
+      "total": 530,
       "rank": 23,
       "finance": -5000
     },
@@ -88312,7 +88363,7 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 28,
-      "total": 500,
+      "total": 512,
       "rank": 24,
       "finance": -5250
     },
@@ -88321,7 +88372,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 55,
-      "total": 491,
+      "total": 502,
       "rank": 25,
       "finance": -5500
     },
@@ -88330,7 +88381,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 34,
-      "total": 491,
+      "total": 502,
       "rank": 26,
       "finance": -5750
     },
@@ -88339,7 +88390,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 45,
-      "total": 480,
+      "total": 491,
       "rank": 27,
       "finance": -6000
     }
@@ -88356,18 +88407,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-18T16:08:54.214984+00:00",
-  "fingerprint": "661d4edac4869c231e929dc499b3887c081caaa18d561c8c6e18450fa6b47b1c",
+  "generatedAt": "2026-10-18T18:53:51.157291+00:00",
+  "fingerprint": "1f562ba3740acb924095d48c1396dd7d939140955e10b689b37e1845fc6b60ba",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-18T16:08:54.215787+00:00",
-    "lastDataChangeAt": "2026-10-18T16:08:54.214984+00:00",
-    "fingerprint": "661d4edac4869c231e929dc499b3887c081caaa18d561c8c6e18450fa6b47b1c",
+    "lastSuccessfulRunAt": "2026-10-18T18:53:51.158069+00:00",
+    "lastDataChangeAt": "2026-10-18T18:53:51.157291+00:00",
+    "fingerprint": "1f562ba3740acb924095d48c1396dd7d939140955e10b689b37e1845fc6b60ba",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-18T16:08:08.790966+00:00",
+      "footballFetchedAt": "2026-10-18T18:52:20.979757+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-18T16:08:06.221Z"
+      "whatsappFetchedAt": "2026-10-18T18:52:19.399Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -88390,8 +88441,8 @@
         "statuses": {
           "did_not_play": 6,
           "manual_override": 7,
-          "pending": 9,
-          "resolved": 356
+          "pending": 3,
+          "resolved": 362
         },
         "methods": {
           "exact": 155,
