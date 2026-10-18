@@ -66,6 +66,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "291613",
+      "catalogId": "espn:291613",
+      "name": "Amine Adli",
+      "team": "AFC Bournemouth",
+      "position": "Substitute"
+    },
+    {
       "providerId": "346588",
       "catalogId": "espn:346588",
       "name": "António Silva",
@@ -2758,7 +2765,7 @@
       "catalogId": "espn:291630",
       "name": "Amad Diallo",
       "team": "Manchester United",
-      "position": "Attacking Midfielder Right"
+      "position": "Midfielder"
     },
     {
       "providerId": "314858",
@@ -2800,12 +2807,19 @@
       "catalogId": "espn:338814",
       "name": "Carlos Baleba",
       "team": "Manchester United",
-      "position": "Substitute"
+      "position": "Midfielder"
     },
     {
       "providerId": "238902",
       "catalogId": "espn:238902",
       "name": "Diogo Dalot",
+      "team": "Manchester United",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "356940",
+      "catalogId": "espn:356940",
+      "name": "Harry Amass",
       "team": "Manchester United",
       "position": "Substitute"
     },
@@ -2878,6 +2892,13 @@
       "name": "Matheus Cunha",
       "team": "Manchester United",
       "position": "Forward"
+    },
+    {
+      "providerId": "239349",
+      "catalogId": "espn:239349",
+      "name": "Matthijs de Ligt",
+      "team": "Manchester United",
+      "position": "Substitute"
     },
     {
       "providerId": "239350",
@@ -3438,6 +3459,13 @@
       "name": "Trai Hume",
       "team": "Sunderland",
       "position": "Attacking Midfielder Right"
+    },
+    {
+      "providerId": "387460",
+      "catalogId": "espn:387460",
+      "name": "Tymur Tutierov",
+      "team": "Sunderland",
+      "position": "Forward"
     },
     {
       "providerId": "265915",
@@ -88130,18 +88158,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-18T11:39:51.382739+00:00",
-  "fingerprint": "38b60597b826727d846facfdb22a81542ccb21cd6ade57e886d1d8397cfe4bf7",
+  "generatedAt": "2026-10-18T12:37:48.057916+00:00",
+  "fingerprint": "60d880e8eb42baa1651f0b9901562f00495827d13dc718edb0ce1938c5475812",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-18T11:39:51.383604+00:00",
-    "lastDataChangeAt": "2026-10-18T11:39:51.382739+00:00",
-    "fingerprint": "38b60597b826727d846facfdb22a81542ccb21cd6ade57e886d1d8397cfe4bf7",
+    "lastSuccessfulRunAt": "2026-10-18T12:37:48.058737+00:00",
+    "lastDataChangeAt": "2026-10-18T12:37:48.057916+00:00",
+    "fingerprint": "60d880e8eb42baa1651f0b9901562f00495827d13dc718edb0ce1938c5475812",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-18T11:38:18.823245+00:00",
+      "footballFetchedAt": "2026-10-18T12:36:26.413368+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-18T11:38:17.422Z"
+      "whatsappFetchedAt": "2026-10-18T12:36:25.028Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
