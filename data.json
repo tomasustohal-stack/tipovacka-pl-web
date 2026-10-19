@@ -147,21 +147,21 @@
       "catalogId": "espn:245916",
       "name": "Justin Kluivert",
       "team": "AFC Bournemouth",
-      "position": "Attacking Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "223452",
       "catalogId": "espn:223452",
       "name": "Lewis Cook",
       "team": "AFC Bournemouth",
-      "position": "Right Midfielder"
+      "position": "Center Left Midfielder"
     },
     {
       "providerId": "243364",
       "catalogId": "espn:243364",
       "name": "Marcus Tavernier",
       "team": "AFC Bournemouth",
-      "position": "Attacking Midfielder Left"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "240055",
@@ -175,21 +175,21 @@
       "catalogId": "espn:357719",
       "name": "Rayan",
       "team": "AFC Bournemouth",
-      "position": "Attacking Midfielder Right"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "93435",
       "catalogId": "espn:93435",
       "name": "Ryan Christie",
       "team": "AFC Bournemouth",
-      "position": "Substitute"
+      "position": "Center Right Midfielder"
     },
     {
       "providerId": "222776",
       "catalogId": "espn:222776",
       "name": "Tyler Adams",
       "team": "AFC Bournemouth",
-      "position": "Substitute"
+      "position": "Defensive Midfielder"
     },
     {
       "providerId": "291269",
@@ -210,7 +210,7 @@
       "catalogId": "espn:218522",
       "name": "Bruno Guimarães",
       "team": "Arsenal",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "280555",
@@ -231,7 +231,7 @@
       "catalogId": "espn:328497",
       "name": "Cristhian Mosquera",
       "team": "Arsenal",
-      "position": "Center Right Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "196176",
@@ -245,14 +245,14 @@
       "catalogId": "espn:238262",
       "name": "Declan Rice",
       "team": "Arsenal",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "251400",
       "catalogId": "espn:251400",
       "name": "Eberechi Eze",
       "team": "Arsenal",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "349733",
@@ -266,7 +266,7 @@
       "catalogId": "espn:231859",
       "name": "Ezri Konsa",
       "team": "Arsenal",
-      "position": "Substitute"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "236322",
@@ -287,7 +287,7 @@
       "catalogId": "espn:282716",
       "name": "Jurriën Timber",
       "team": "Arsenal",
-      "position": "Right Back"
+      "position": "Substitute"
     },
     {
       "providerId": "231182",
@@ -336,7 +336,7 @@
       "catalogId": "espn:352758",
       "name": "Myles Lewis-Skelly",
       "team": "Arsenal",
-      "position": "Right Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "293236",
@@ -371,7 +371,7 @@
       "catalogId": "espn:250945",
       "name": "Aaron Wan-Bissaka",
       "team": "Aston Villa",
-      "position": "Substitute"
+      "position": "Left Back"
     },
     {
       "providerId": "325555",
@@ -385,7 +385,7 @@
       "catalogId": "espn:382839",
       "name": "Alysson",
       "team": "Aston Villa",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "250936",
@@ -413,14 +413,14 @@
       "catalogId": "espn:214375",
       "name": "Emiliano Buendía",
       "team": "Aston Villa",
-      "position": "Forward"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "366248",
       "catalogId": "espn:366248",
       "name": "George Hemmings",
       "team": "Aston Villa",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
     },
     {
       "providerId": "281125",
@@ -455,14 +455,14 @@
       "catalogId": "espn:386992",
       "name": "Johan Manzambi",
       "team": "Aston Villa",
-      "position": "Substitute"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "162843",
       "catalogId": "espn:162843",
       "name": "John McGinn",
       "team": "Aston Villa",
-      "position": "Attacking Midfielder Right"
+      "position": "Substitute"
     },
     {
       "providerId": "310607",
@@ -490,14 +490,14 @@
       "catalogId": "espn:132233",
       "name": "Marco Bizot",
       "team": "Aston Villa",
-      "position": "Goalkeeper"
+      "position": "Substitute"
     },
     {
       "providerId": "297229",
       "catalogId": "espn:297229",
       "name": "Matteo Ruggeri",
       "team": "Aston Villa",
-      "position": "Substitute"
+      "position": "Left Back"
     },
     {
       "providerId": "234698",
@@ -518,14 +518,14 @@
       "catalogId": "espn:251100",
       "name": "Pau Torres",
       "team": "Aston Villa",
-      "position": "Center Left Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "152469",
       "catalogId": "espn:152469",
       "name": "Ross Barkley",
       "team": "Aston Villa",
-      "position": "Attacking Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "236209",
@@ -553,7 +553,7 @@
       "catalogId": "espn:181312",
       "name": "Tyrone Mings",
       "team": "Aston Villa",
-      "position": "Substitute"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "204679",
@@ -567,7 +567,7 @@
       "catalogId": "espn:265958",
       "name": "Zion Suzuki",
       "team": "Aston Villa",
-      "position": "Substitute"
+      "position": "Goalkeeper"
     },
     {
       "providerId": "283940",
@@ -619,13 +619,6 @@
       "position": "Substitute"
     },
     {
-      "providerId": "241093",
-      "catalogId": "espn:241093",
-      "name": "Ethan Pinnock",
-      "team": "Brentford",
-      "position": "Substitute"
-    },
-    {
       "providerId": "231049",
       "catalogId": "espn:231049",
       "name": "Fábio Carvalho",
@@ -658,14 +651,14 @@
       "catalogId": "espn:307657",
       "name": "Jaidon Anthony",
       "team": "Brentford",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "376683",
       "catalogId": "espn:376683",
       "name": "Jannik Schuster",
       "team": "Brentford",
-      "position": "Substitute"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "284490",
@@ -679,21 +672,21 @@
       "catalogId": "espn:310958",
       "name": "Kevin Schade",
       "team": "Brentford",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
     },
     {
       "providerId": "206173",
       "catalogId": "espn:206173",
       "name": "Kristoffer Ajer",
       "team": "Brentford",
-      "position": "Center Right Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "228547",
       "catalogId": "espn:228547",
       "name": "Mamadou Sangare",
       "team": "Brentford",
-      "position": "Left Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "227472",
@@ -721,7 +714,7 @@
       "catalogId": "espn:279780",
       "name": "Nathan Collins",
       "team": "Brentford",
-      "position": "Center Left Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "206761",
@@ -742,14 +735,14 @@
       "catalogId": "espn:225564",
       "name": "Vitaly Janelt",
       "team": "Brentford",
-      "position": "Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "342029",
       "catalogId": "espn:342029",
       "name": "Yehor Yarmoliuk",
       "team": "Brentford",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "327170",
@@ -777,7 +770,7 @@
       "catalogId": "espn:387489",
       "name": "Chema Andrés",
       "team": "Brighton & Hove Albion",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "274285",
@@ -798,14 +791,14 @@
       "catalogId": "espn:238318",
       "name": "Ferdi Kadioglu",
       "team": "Brighton & Hove Albion",
-      "position": "Left Back"
+      "position": "Right Back"
     },
     {
       "providerId": "278061",
       "catalogId": "espn:278061",
       "name": "Georginio Rutter",
       "team": "Brighton & Hove Albion",
-      "position": "Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "359400",
@@ -819,7 +812,7 @@
       "catalogId": "espn:328011",
       "name": "Jack Hinshelwood",
       "team": "Brighton & Hove Albion",
-      "position": "Attacking Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "306033",
@@ -854,7 +847,7 @@
       "catalogId": "espn:359097",
       "name": "Malick Yalcouyé",
       "team": "Brighton & Hove Albion",
-      "position": "Attacking Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "282186",
@@ -896,7 +889,7 @@
       "catalogId": "espn:216017",
       "name": "Olivier Boscagli",
       "team": "Brighton & Hove Albion",
-      "position": "Left Midfielder"
+      "position": "Left Back"
     },
     {
       "providerId": "132659",
@@ -910,7 +903,7 @@
       "catalogId": "espn:246771",
       "name": "Pascal Struijk",
       "team": "Brighton & Hove Albion",
-      "position": "Substitute"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "318522",
@@ -924,7 +917,7 @@
       "catalogId": "espn:304242",
       "name": "Yasin Ayari",
       "team": "Brighton & Hove Albion",
-      "position": "Left Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "413274",
@@ -945,7 +938,7 @@
       "catalogId": "espn:296395",
       "name": "Cole Palmer",
       "team": "Chelsea",
-      "position": "Center Right Forward"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "115271",
@@ -960,13 +953,6 @@
       "name": "Emiliano Martínez",
       "team": "Chelsea",
       "position": "Goalkeeper"
-    },
-    {
-      "providerId": "285450",
-      "catalogId": "espn:285450",
-      "name": "Enzo Fernández",
-      "team": "Chelsea",
-      "position": "Substitute"
     },
     {
       "providerId": "376481",
@@ -1001,21 +987,21 @@
       "catalogId": "espn:127262",
       "name": "Jordan Henderson",
       "team": "Chelsea",
-      "position": "Center Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "353951",
       "catalogId": "espn:353951",
       "name": "Jorrel Hato",
       "team": "Chelsea",
-      "position": "Left Midfielder"
+      "position": "Left Back"
     },
     {
       "providerId": "368317",
       "catalogId": "espn:368317",
       "name": "Josh Acheampong",
       "team": "Chelsea",
-      "position": "Center Right Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "296410",
@@ -1036,7 +1022,7 @@
       "catalogId": "espn:308947",
       "name": "Malo Gusto",
       "team": "Chelsea",
-      "position": "Right Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "362486",
@@ -1050,7 +1036,7 @@
       "catalogId": "espn:265918",
       "name": "Maxence Lacroix",
       "team": "Chelsea",
-      "position": "Center Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "332343",
@@ -1064,35 +1050,35 @@
       "catalogId": "espn:289877",
       "name": "Moisés Caicedo",
       "team": "Chelsea",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "265653",
       "catalogId": "espn:265653",
       "name": "Morgan Rogers",
       "team": "Chelsea",
-      "position": "Center Left Forward"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "256115",
       "catalogId": "espn:256115",
       "name": "Pedro Neto",
       "team": "Chelsea",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "300331",
       "catalogId": "espn:300331",
       "name": "Pep Chavarría",
       "team": "Chelsea",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "189007",
       "catalogId": "espn:189007",
       "name": "Reece James",
       "team": "Chelsea",
-      "position": "Center Right Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "108662",
@@ -1106,7 +1092,7 @@
       "catalogId": "espn:308217",
       "name": "Romeo Lavia",
       "team": "Chelsea",
-      "position": "Center Left Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "320760",
@@ -1120,14 +1106,14 @@
       "catalogId": "espn:270190",
       "name": "Wesley Fofana",
       "team": "Chelsea",
-      "position": "Center Right Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "319404",
       "catalogId": "espn:319404",
       "name": "Aurèle Amenda",
       "team": "Coventry City",
-      "position": "Center Left Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "169619",
@@ -1148,7 +1134,7 @@
       "catalogId": "espn:240495",
       "name": "Brandon Thomas-Asante",
       "team": "Coventry City",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "387659",
@@ -1183,14 +1169,21 @@
       "catalogId": "espn:246954",
       "name": "Ephron Mason-Clark",
       "team": "Coventry City",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
+    },
+    {
+      "providerId": "241093",
+      "catalogId": "espn:241093",
+      "name": "Ethan Pinnock",
+      "team": "Coventry City",
+      "position": "Center Left Defender"
     },
     {
       "providerId": "258491",
       "catalogId": "espn:258491",
       "name": "Frank Onyeka",
       "team": "Coventry City",
-      "position": "Center Left Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "236912",
@@ -1228,6 +1221,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "294308",
+      "catalogId": "espn:294308",
+      "name": "Kaine Kesler Hayden",
+      "team": "Coventry City",
+      "position": "Substitute"
+    },
+    {
       "providerId": "269341",
       "catalogId": "espn:269341",
       "name": "Liam Kitching",
@@ -1239,7 +1239,7 @@
       "catalogId": "espn:324541",
       "name": "Loum Tchaouna",
       "team": "Coventry City",
-      "position": "Attacking Midfielder Right"
+      "position": "Substitute"
     },
     {
       "providerId": "191337",
@@ -1260,7 +1260,7 @@
       "catalogId": "espn:366817",
       "name": "Sidiki Cherif",
       "team": "Coventry City",
-      "position": "Substitute"
+      "position": "Forward"
     },
     {
       "providerId": "374220",
@@ -1274,14 +1274,14 @@
       "catalogId": "espn:194686",
       "name": "Taiwo Awoniyi",
       "team": "Coventry City",
-      "position": "Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "302002",
       "catalogId": "espn:302002",
       "name": "Tatsuhiro Sakamoto",
       "team": "Coventry City",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "256015",
@@ -1309,14 +1309,14 @@
       "catalogId": "espn:332648",
       "name": "Anan Khalaili",
       "team": "Crystal Palace",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "231718",
       "catalogId": "espn:231718",
       "name": "Axel Disasi",
       "team": "Crystal Palace",
-      "position": "Substitute"
+      "position": "Center Defender"
     },
     {
       "providerId": "225426",
@@ -1358,14 +1358,7 @@
       "catalogId": "espn:219362",
       "name": "Daichi Kamada",
       "team": "Crystal Palace",
-      "position": "Center Left Midfielder"
-    },
-    {
-      "providerId": "146679",
-      "catalogId": "espn:146679",
-      "name": "Daniel Muñoz",
-      "team": "Crystal Palace",
-      "position": "Right Midfielder"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "315668",
@@ -1386,14 +1379,14 @@
       "catalogId": "espn:273495",
       "name": "Dwight McNeil",
       "team": "Crystal Palace",
-      "position": "Center Right Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "259486",
       "catalogId": "espn:259486",
       "name": "Eddie Nketiah",
       "team": "Crystal Palace",
-      "position": "Center Left Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "288924",
@@ -1428,7 +1421,7 @@
       "catalogId": "espn:241187",
       "name": "Jean-Philippe Mateta",
       "team": "Crystal Palace",
-      "position": "Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "197399",
@@ -1442,7 +1435,7 @@
       "catalogId": "espn:252747",
       "name": "Jørgen Strand Larsen",
       "team": "Crystal Palace",
-      "position": "Substitute"
+      "position": "Forward"
     },
     {
       "providerId": "276546",
@@ -1456,7 +1449,7 @@
       "catalogId": "espn:282230",
       "name": "Quinten Timber",
       "team": "Crystal Palace",
-      "position": "Center Right Midfielder"
+      "position": "Center Left Midfielder"
     },
     {
       "providerId": "205981",
@@ -1470,7 +1463,7 @@
       "catalogId": "espn:238004",
       "name": "Takehiro Tomiyasu",
       "team": "Crystal Palace",
-      "position": "Substitute"
+      "position": "Center Defender"
     },
     {
       "providerId": "300853",
@@ -1484,7 +1477,7 @@
       "catalogId": "espn:195738",
       "name": "Walter Benítez",
       "team": "Crystal Palace",
-      "position": "Substitute"
+      "position": "Goalkeeper"
     },
     {
       "providerId": "168421",
@@ -1498,7 +1491,7 @@
       "catalogId": "espn:297370",
       "name": "Yéremy Pino",
       "team": "Crystal Palace",
-      "position": "Substitute"
+      "position": "Center Left Forward"
     },
     {
       "providerId": "374519",
@@ -1512,7 +1505,7 @@
       "catalogId": "espn:214402",
       "name": "Ainsley Maitland-Niles",
       "team": "Everton",
-      "position": "Substitute"
+      "position": "Right Back"
     },
     {
       "providerId": "289511",
@@ -1561,14 +1554,14 @@
       "catalogId": "espn:282978",
       "name": "Hayden Hackney",
       "team": "Everton",
-      "position": "Left Midfielder"
+      "position": "Substitute"
     },
     {
-      "providerId": "268641",
-      "catalogId": "espn:268641",
-      "name": "Iliman Ndiaye",
+      "providerId": "172850",
+      "catalogId": "espn:172850",
+      "name": "Jack Grealish",
       "team": "Everton",
-      "position": "Attacking Midfielder Right"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "283586",
@@ -1582,7 +1575,7 @@
       "catalogId": "espn:276220",
       "name": "James Garner",
       "team": "Everton",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "155226",
@@ -1624,14 +1617,14 @@
       "catalogId": "espn:311963",
       "name": "Merlin Röhl",
       "team": "Everton",
-      "position": "Right Back"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "4946",
       "catalogId": "espn:4946",
       "name": "Michael Keane",
       "team": "Everton",
-      "position": "Substitute"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "271191",
@@ -1646,13 +1639,6 @@
       "name": "Thierno Barry",
       "team": "Everton",
       "position": "Forward"
-    },
-    {
-      "providerId": "310599",
-      "catalogId": "espn:310599",
-      "name": "Tim Iroegbunam",
-      "team": "Everton",
-      "position": "Substitute"
     },
     {
       "providerId": "148515",
@@ -1673,7 +1659,7 @@
       "catalogId": "espn:368864",
       "name": "Tyrique George",
       "team": "Everton",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
     },
     {
       "providerId": "262594",
@@ -1687,7 +1673,7 @@
       "catalogId": "espn:175063",
       "name": "Alex Iwobi",
       "team": "Fulham",
-      "position": "Left Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "222396",
@@ -1715,21 +1701,21 @@
       "catalogId": "espn:263110",
       "name": "Calvin Bassey",
       "team": "Fulham",
-      "position": "Center Right Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "12172",
       "catalogId": "espn:12172",
       "name": "César Palacios",
       "team": "Fulham",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
     },
     {
       "providerId": "313230",
       "catalogId": "espn:313230",
       "name": "David Affengruber",
       "team": "Fulham",
-      "position": "Substitute"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "266697",
@@ -1764,14 +1750,14 @@
       "catalogId": "espn:196081",
       "name": "Joachim Andersen",
       "team": "Fulham",
-      "position": "Center Right Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "252031",
       "catalogId": "espn:252031",
       "name": "Jorge Cuenca",
       "team": "Fulham",
-      "position": "Center Left Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "409541",
@@ -1848,7 +1834,7 @@
       "catalogId": "espn:324164",
       "name": "Shea Charles",
       "team": "Fulham",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "197163",
@@ -1869,7 +1855,7 @@
       "catalogId": "espn:311173",
       "name": "Brooke Norton-Cuffy",
       "team": "Hull City",
-      "position": "Substitute"
+      "position": "Left Back"
     },
     {
       "providerId": "387657",
@@ -1897,14 +1883,14 @@
       "catalogId": "espn:357145",
       "name": "Elliot Stroud",
       "team": "Hull City",
-      "position": "Left Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "270752",
       "catalogId": "espn:270752",
       "name": "Hidemasa Morita",
       "team": "Hull City",
-      "position": "Center Left Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "354149",
@@ -1967,7 +1953,7 @@
       "catalogId": "espn:392320",
       "name": "Lucas Herrington",
       "team": "Hull City",
-      "position": "Substitute"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "153613",
@@ -2037,7 +2023,7 @@
       "catalogId": "espn:243576",
       "name": "Ryan Giles",
       "team": "Hull City",
-      "position": "Left Back"
+      "position": "Substitute"
     },
     {
       "providerId": "178051",
@@ -2051,6 +2037,13 @@
       "catalogId": "espn:250478",
       "name": "Sorba Thomas",
       "team": "Hull City",
+      "position": "Left Midfielder"
+    },
+    {
+      "providerId": "310599",
+      "catalogId": "espn:310599",
+      "name": "Tim Iroegbunam",
+      "team": "Hull City",
       "position": "Substitute"
     },
     {
@@ -2058,7 +2051,7 @@
       "catalogId": "espn:336794",
       "name": "Abdoul Ouattara",
       "team": "Ipswich Town",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "246825",
@@ -2086,7 +2079,7 @@
       "catalogId": "espn:168746",
       "name": "Christian Walton",
       "team": "Ipswich Town",
-      "position": "Substitute"
+      "position": "Goalkeeper"
     },
     {
       "providerId": "181092",
@@ -2100,14 +2093,14 @@
       "catalogId": "espn:286347",
       "name": "Daizen Maeda",
       "team": "Ipswich Town",
-      "position": "Attacking Midfielder Left"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "243440",
       "catalogId": "espn:243440",
       "name": "Dara O'Shea",
       "team": "Ipswich Town",
-      "position": "Right Back"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "215075",
@@ -2128,28 +2121,28 @@
       "catalogId": "espn:228393",
       "name": "Exequiel Palacios",
       "team": "Ipswich Town",
-      "position": "Substitute"
+      "position": "Center Left Midfielder"
     },
     {
       "providerId": "318680",
       "catalogId": "espn:318680",
       "name": "Fatawu Issahaku",
       "team": "Ipswich Town",
-      "position": "Attacking Midfielder Right"
+      "position": "Substitute"
     },
     {
       "providerId": "256607",
       "catalogId": "espn:256607",
       "name": "Florentino",
       "team": "Ipswich Town",
-      "position": "Substitute"
+      "position": "Center Right Midfielder"
     },
     {
       "providerId": "230963",
       "catalogId": "espn:230963",
       "name": "Issa Diop",
       "team": "Ipswich Town",
-      "position": "Center Right Defender"
+      "position": "Center Defender"
     },
     {
       "providerId": "269343",
@@ -2177,7 +2170,7 @@
       "catalogId": "espn:20975",
       "name": "Julio Enciso",
       "team": "Ipswich Town",
-      "position": "Attacking Midfielder"
+      "position": "Center Left Forward"
     },
     {
       "providerId": "307073",
@@ -2191,28 +2184,28 @@
       "catalogId": "espn:246244",
       "name": "Kjell Scherpen",
       "team": "Ipswich Town",
-      "position": "Goalkeeper"
+      "position": "Substitute"
     },
     {
       "providerId": "283086",
       "catalogId": "espn:283086",
       "name": "Leif Davis",
       "team": "Ipswich Town",
-      "position": "Left Back"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "301554",
       "catalogId": "espn:301554",
       "name": "Marcelino Núñez",
       "team": "Ipswich Town",
-      "position": "Right Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "222300",
       "catalogId": "espn:222300",
       "name": "Sasa Lukic",
       "team": "Ipswich Town",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "330045",
@@ -2247,21 +2240,21 @@
       "catalogId": "espn:304802",
       "name": "Anton Stach",
       "team": "Leeds United",
-      "position": "Center Left Midfielder"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "253173",
       "catalogId": "espn:253173",
       "name": "Ao Tanaka",
       "team": "Leeds United",
-      "position": "Substitute"
+      "position": "Center Left Midfielder"
     },
     {
       "providerId": "259653",
       "catalogId": "espn:259653",
       "name": "Brenden Aaronson",
       "team": "Leeds United",
-      "position": "Center Right Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "203072",
@@ -2289,7 +2282,7 @@
       "catalogId": "espn:250166",
       "name": "Gabriel Gudmundsson",
       "team": "Leeds United",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "194801",
@@ -2310,14 +2303,14 @@
       "catalogId": "espn:274649",
       "name": "Jaka Bijol",
       "team": "Leeds United",
-      "position": "Center Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "231863",
       "catalogId": "espn:231863",
       "name": "James Justin",
       "team": "Leeds United",
-      "position": "Left Midfielder"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "307118",
@@ -2387,7 +2380,7 @@
       "catalogId": "espn:212237",
       "name": "Nico Elvedi",
       "team": "Leeds United",
-      "position": "Substitute"
+      "position": "Center Defender"
     },
     {
       "providerId": "270641",
@@ -2429,7 +2422,7 @@
       "catalogId": "espn:249299",
       "name": "Alexis Mac Allister",
       "team": "Liverpool",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "196876",
@@ -2443,21 +2436,21 @@
       "catalogId": "espn:328238",
       "name": "Bradley Barcola",
       "team": "Liverpool",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "249524",
       "catalogId": "espn:249524",
       "name": "Cody Gakpo",
       "team": "Liverpool",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
     },
     {
       "providerId": "257206",
       "catalogId": "espn:257206",
       "name": "Dominik Szoboszlai",
       "team": "Liverpool",
-      "position": "Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "234306",
@@ -2492,7 +2485,7 @@
       "catalogId": "espn:281119",
       "name": "Jeremie Frimpong",
       "team": "Liverpool",
-      "position": "Right Back"
+      "position": "Substitute"
     },
     {
       "providerId": "355980",
@@ -2534,21 +2527,21 @@
       "catalogId": "espn:379588",
       "name": "Rio Ngumoha",
       "team": "Liverpool",
-      "position": "Attacking Midfielder Right"
+      "position": "Substitute"
     },
     {
       "providerId": "270821",
       "catalogId": "espn:270821",
       "name": "Ronald Araújo",
       "team": "Liverpool",
-      "position": "Substitute"
+      "position": "Right Back"
     },
     {
       "providerId": "274632",
       "catalogId": "espn:274632",
       "name": "Ryan Gravenberch",
       "team": "Liverpool",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "356075",
@@ -2562,7 +2555,7 @@
       "catalogId": "espn:397545",
       "name": "Víctor Muñoz",
       "team": "Liverpool",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "157892",
@@ -2583,7 +2576,7 @@
       "catalogId": "espn:362211",
       "name": "Abdukodir Khusanov",
       "team": "Manchester City",
-      "position": "Center Right Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "382966",
@@ -2597,14 +2590,14 @@
       "catalogId": "espn:273292",
       "name": "Antoine Semenyo",
       "team": "Manchester City",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
     },
     {
       "providerId": "373927",
       "catalogId": "espn:373927",
       "name": "Ayyoub Bouaddi",
       "team": "Manchester City",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "361355",
@@ -2618,7 +2611,14 @@
       "catalogId": "espn:238472",
       "name": "Elliot Anderson",
       "team": "Manchester City",
-      "position": "Right Midfielder"
+      "position": "Substitute"
+    },
+    {
+      "providerId": "285450",
+      "catalogId": "espn:285450",
+      "name": "Enzo Fernández",
+      "team": "Manchester City",
+      "position": "Substitute"
     },
     {
       "providerId": "253989",
@@ -2649,25 +2649,25 @@
       "position": "Goalkeeper"
     },
     {
-      "providerId": "172850",
-      "catalogId": "espn:172850",
-      "name": "Jack Grealish",
+      "providerId": "268641",
+      "catalogId": "espn:268641",
+      "name": "Iliman Ndiaye",
       "team": "Manchester City",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "283672",
       "catalogId": "espn:283672",
       "name": "Jérémy Doku",
       "team": "Manchester City",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "299910",
       "catalogId": "espn:299910",
       "name": "Josko Gvardiol",
       "team": "Manchester City",
-      "position": "Left Back"
+      "position": "Substitute"
     },
     {
       "providerId": "390094",
@@ -2681,49 +2681,35 @@
       "catalogId": "espn:265907",
       "name": "Marc Guéhi",
       "team": "Manchester City",
-      "position": "Left Midfielder"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "154595",
       "catalogId": "espn:154595",
       "name": "Mateo Kovacic",
       "team": "Manchester City",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "303785",
       "catalogId": "espn:303785",
       "name": "Matheus Nunes",
       "team": "Manchester City",
-      "position": "Substitute"
-    },
-    {
-      "providerId": "323986",
-      "catalogId": "espn:323986",
-      "name": "Nico González",
-      "team": "Manchester City",
-      "position": "Substitute"
+      "position": "Right Back"
     },
     {
       "providerId": "328464",
       "catalogId": "espn:328464",
       "name": "Nico O'Reilly",
       "team": "Manchester City",
-      "position": "Attacking Midfielder"
-    },
-    {
-      "providerId": "303745",
-      "catalogId": "espn:303745",
-      "name": "Omar Marmoush",
-      "team": "Manchester City",
-      "position": "Substitute"
+      "position": "Left Back"
     },
     {
       "providerId": "250787",
       "catalogId": "espn:250787",
       "name": "Phil Foden",
       "team": "Manchester City",
-      "position": "Attacking Midfielder Right"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "272512",
@@ -2744,14 +2730,14 @@
       "catalogId": "espn:325564",
       "name": "Rico Lewis",
       "team": "Manchester City",
-      "position": "Right Back"
+      "position": "Substitute"
     },
     {
       "providerId": "234878",
       "catalogId": "espn:234878",
       "name": "Rúben Dias",
       "team": "Manchester City",
-      "position": "Center Left Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "395463",
@@ -2779,14 +2765,14 @@
       "catalogId": "espn:314858",
       "name": "Andrey Santos",
       "team": "Manchester United",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "356044",
       "catalogId": "espn:356044",
       "name": "Ayden Heaven",
       "team": "Manchester United",
-      "position": "Center Left Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "289155",
@@ -2800,14 +2786,14 @@
       "catalogId": "espn:124091",
       "name": "Bruno Fernandes",
       "team": "Manchester United",
-      "position": "Attacking Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "271170",
       "catalogId": "espn:271170",
       "name": "Bryan Mbeumo",
       "team": "Manchester United",
-      "position": "Attacking Midfielder Right"
+      "position": "Forward"
     },
     {
       "providerId": "338814",
@@ -2821,7 +2807,7 @@
       "catalogId": "espn:238902",
       "name": "Diogo Dalot",
       "team": "Manchester United",
-      "position": "Substitute"
+      "position": "Left Back"
     },
     {
       "providerId": "356940",
@@ -2856,21 +2842,21 @@
       "catalogId": "espn:328466",
       "name": "Kobbie Mainoo",
       "team": "Manchester United",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "340206",
       "catalogId": "espn:340206",
       "name": "Leny Yoro",
       "team": "Manchester United",
-      "position": "Substitute"
+      "position": "Right Back"
     },
     {
       "providerId": "233937",
       "catalogId": "espn:233937",
       "name": "Lisandro Martínez",
       "team": "Manchester United",
-      "position": "Substitute"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "167127",
@@ -2898,7 +2884,7 @@
       "catalogId": "espn:259902",
       "name": "Matheus Cunha",
       "team": "Manchester United",
-      "position": "Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "239349",
@@ -2912,14 +2898,14 @@
       "catalogId": "espn:239350",
       "name": "Noussair Mazraoui",
       "team": "Manchester United",
-      "position": "Right Back"
+      "position": "Substitute"
     },
     {
       "providerId": "366781",
       "catalogId": "espn:366781",
       "name": "Patrick Dorgu",
       "team": "Manchester United",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
     },
     {
       "providerId": "301425",
@@ -2940,7 +2926,7 @@
       "catalogId": "espn:193297",
       "name": "Youri Tielemans",
       "team": "Manchester United",
-      "position": "Right Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "396630",
@@ -2954,7 +2940,7 @@
       "catalogId": "espn:308979",
       "name": "Amar Dedic",
       "team": "Newcastle United",
-      "position": "Right Back"
+      "position": "Substitute"
     },
     {
       "providerId": "296622",
@@ -3017,14 +3003,14 @@
       "catalogId": "espn:259517",
       "name": "Joe Willock",
       "team": "Newcastle United",
-      "position": "Substitute"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "202232",
       "catalogId": "espn:202232",
       "name": "Joelinton",
       "team": "Newcastle United",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "414116",
@@ -3052,7 +3038,7 @@
       "catalogId": "espn:349078",
       "name": "Lewis Miley",
       "team": "Newcastle United",
-      "position": "Left Midfielder"
+      "position": "Right Back"
     },
     {
       "providerId": "319267",
@@ -3080,7 +3066,7 @@
       "catalogId": "espn:359651",
       "name": "Matias Fernandez-Pardo",
       "team": "Newcastle United",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "418769",
@@ -3111,11 +3097,18 @@
       "position": "Substitute"
     },
     {
+      "providerId": "323986",
+      "catalogId": "espn:323986",
+      "name": "Nico González",
+      "team": "Newcastle United",
+      "position": "Left Midfielder"
+    },
+    {
       "providerId": "384372",
       "catalogId": "espn:384372",
       "name": "Sean Steur",
       "team": "Newcastle United",
-      "position": "Right Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "274633",
@@ -3143,14 +3136,14 @@
       "catalogId": "espn:319431",
       "name": "William Osula",
       "team": "Newcastle United",
-      "position": "Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "224077",
       "catalogId": "espn:224077",
       "name": "Yoane Wissa",
       "team": "Newcastle United",
-      "position": "Attacking Midfielder"
+      "position": "Forward"
     },
     {
       "providerId": "296321",
@@ -3178,21 +3171,28 @@
       "catalogId": "espn:275842",
       "name": "Dan Ndoye",
       "team": "Nottingham Forest",
-      "position": "Center Right Forward"
+      "position": "Center Left Forward"
+    },
+    {
+      "providerId": "146679",
+      "catalogId": "espn:146679",
+      "name": "Daniel Muñoz",
+      "team": "Nottingham Forest",
+      "position": "Right Midfielder"
     },
     {
       "providerId": "213718",
       "catalogId": "espn:213718",
       "name": "Ibrahim Sangaré",
       "team": "Nottingham Forest",
-      "position": "Center Left Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "287869",
       "catalogId": "espn:287869",
       "name": "Igor Jesus",
       "team": "Nottingham Forest",
-      "position": "Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "338876",
@@ -3206,7 +3206,7 @@
       "catalogId": "espn:298518",
       "name": "James McAtee",
       "team": "Nottingham Forest",
-      "position": "Center Left Midfielder"
+      "position": "Center Right Midfielder"
     },
     {
       "providerId": "233241",
@@ -3220,7 +3220,7 @@
       "catalogId": "espn:307114",
       "name": "Liam Delap",
       "team": "Nottingham Forest",
-      "position": "Substitute"
+      "position": "Forward"
     },
     {
       "providerId": "303765",
@@ -3241,7 +3241,7 @@
       "catalogId": "espn:243396",
       "name": "Morgan Gibbs-White",
       "team": "Nottingham Forest",
-      "position": "Center Left Forward"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "338894",
@@ -3262,28 +3262,28 @@
       "catalogId": "espn:254118",
       "name": "Nicolás Domínguez",
       "team": "Nottingham Forest",
-      "position": "Substitute"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "238990",
       "catalogId": "espn:238990",
       "name": "Nikola Milenkovic",
       "team": "Nottingham Forest",
-      "position": "Center Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "206227",
       "catalogId": "espn:206227",
       "name": "Ola Aina",
       "team": "Nottingham Forest",
-      "position": "Right Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "343964",
       "catalogId": "espn:343964",
       "name": "Ousmane Diomande",
       "team": "Nottingham Forest",
-      "position": "Substitute"
+      "position": "Center Defender"
     },
     {
       "providerId": "241253",
@@ -3297,7 +3297,7 @@
       "catalogId": "espn:238886",
       "name": "Xaver Schlager",
       "team": "Nottingham Forest",
-      "position": "Center Right Midfielder"
+      "position": "Center Left Midfielder"
     },
     {
       "providerId": "348303",
@@ -3325,7 +3325,7 @@
       "catalogId": "espn:356295",
       "name": "Chris Rigg",
       "team": "Sunderland",
-      "position": "Substitute"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "282645",
@@ -3346,7 +3346,7 @@
       "catalogId": "espn:288340",
       "name": "Enzo Le Fée",
       "team": "Sunderland",
-      "position": "Attacking Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "149981",
@@ -3384,6 +3384,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "250543",
+      "catalogId": "espn:250543",
+      "name": "Kevin Danso",
+      "team": "Sunderland",
+      "position": "Center Right Defender"
+    },
+    {
       "providerId": "191574",
       "catalogId": "espn:191574",
       "name": "Luke O'Nien",
@@ -3409,7 +3416,7 @@
       "catalogId": "espn:318090",
       "name": "Nilson Angulo",
       "team": "Sunderland",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
     },
     {
       "providerId": "340240",
@@ -3423,14 +3430,14 @@
       "catalogId": "espn:214188",
       "name": "Nordi Mukiele",
       "team": "Sunderland",
-      "position": "Center Right Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "215401",
       "catalogId": "espn:215401",
       "name": "Omar Alderete",
       "team": "Sunderland",
-      "position": "Substitute"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "230081",
@@ -3458,7 +3465,7 @@
       "catalogId": "espn:166473",
       "name": "Thomas Meunier",
       "team": "Sunderland",
-      "position": "Right Back"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "290207",
@@ -3479,14 +3486,14 @@
       "catalogId": "espn:265915",
       "name": "Wilson Isidor",
       "team": "Sunderland",
-      "position": "Substitute"
+      "position": "Forward"
     },
     {
       "providerId": "104943",
       "catalogId": "espn:104943",
       "name": "Andy Robertson",
       "team": "Tottenham Hotspur",
-      "position": "Left Back"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "324393",
@@ -3500,42 +3507,56 @@
       "catalogId": "espn:328050",
       "name": "Archie Gray",
       "team": "Tottenham Hotspur",
-      "position": "Right Back"
+      "position": "Center Right Midfielder"
     },
     {
       "providerId": "6327",
       "catalogId": "espn:6327",
       "name": "Ben Davies",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": ""
+    },
+    {
+      "providerId": "372016",
+      "catalogId": "espn:372016",
+      "name": "Callum Olusesi",
+      "team": "Tottenham Hotspur",
+      "position": ""
     },
     {
       "providerId": "266696",
       "catalogId": "espn:266696",
       "name": "Conor Gallagher",
       "team": "Tottenham Hotspur",
-      "position": "Attacking Midfielder"
+      "position": ""
+    },
+    {
+      "providerId": "272695",
+      "catalogId": "espn:272695",
+      "name": "Dejan Kulusevski",
+      "team": "Tottenham Hotspur",
+      "position": ""
     },
     {
       "providerId": "290076",
       "catalogId": "espn:290076",
       "name": "Destiny Udogie",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": "Left Back"
     },
     {
       "providerId": "194115",
       "catalogId": "espn:194115",
       "name": "Dominic Solanke",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "194450",
       "catalogId": "espn:194450",
       "name": "James Maddison",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": "Center Left Midfielder"
     },
     {
       "providerId": "282583",
@@ -3545,53 +3566,46 @@
       "position": "Center Right Defender"
     },
     {
-      "providerId": "250543",
-      "catalogId": "espn:250543",
-      "name": "Kevin Danso",
-      "team": "Tottenham Hotspur",
-      "position": "Substitute"
-    },
-    {
       "providerId": "395939",
       "catalogId": "espn:395939",
       "name": "Luca Williams-Barnett",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": ""
     },
     {
       "providerId": "356379",
       "catalogId": "espn:356379",
       "name": "Lucas Bergvall",
       "team": "Tottenham Hotspur",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "233945",
       "catalogId": "espn:233945",
       "name": "Marcos Senesi",
       "team": "Tottenham Hotspur",
-      "position": "Center Left Defender"
+      "position": ""
     },
     {
       "providerId": "126703",
       "catalogId": "espn:126703",
       "name": "Martin Dúbravka",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": ""
     },
     {
       "providerId": "346820",
       "catalogId": "espn:346820",
       "name": "Mateus Fernandes",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": ""
     },
     {
       "providerId": "325042",
       "catalogId": "espn:325042",
       "name": "Mathys Tel",
       "team": "Tottenham Hotspur",
-      "position": "Attacking Midfielder Left"
+      "position": ""
     },
     {
       "providerId": "296512",
@@ -3605,14 +3619,14 @@
       "catalogId": "espn:365332",
       "name": "Mikey Moore",
       "team": "Tottenham Hotspur",
-      "position": "Attacking Midfielder Right"
+      "position": "Substitute"
     },
     {
       "providerId": "266599",
       "catalogId": "espn:266599",
       "name": "Mohammed Kudus",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "299911",
@@ -3622,11 +3636,18 @@
       "position": "Substitute"
     },
     {
+      "providerId": "303745",
+      "catalogId": "espn:303745",
+      "name": "Omar Marmoush",
+      "team": "Tottenham Hotspur",
+      "position": "Center Left Forward"
+    },
+    {
       "providerId": "268533",
       "catalogId": "espn:268533",
       "name": "Pedro Porro",
       "team": "Tottenham Hotspur",
-      "position": "Attacking Midfielder Right"
+      "position": "Right Back"
     },
     {
       "providerId": "156799",
@@ -3647,21 +3668,21 @@
       "catalogId": "espn:261047",
       "name": "Sandro Tonali",
       "team": "Tottenham Hotspur",
-      "position": "Right Midfielder"
+      "position": "Sweeper"
     },
     {
       "providerId": "304470",
       "catalogId": "espn:304470",
       "name": "Sávio",
       "team": "Tottenham Hotspur",
-      "position": "Attacking Midfielder Right"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "231198",
       "catalogId": "espn:231198",
       "name": "Tosin Adarabioyo",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": "Center Defender"
     }
   ],
   "rounds": [
@@ -12006,7 +12027,7 @@
           ],
           "playerPoints": [
             1,
-            0
+            0.5
           ],
           "playerCompleted": [
             true,
@@ -12026,10 +12047,10 @@
               "suggestions": []
             },
             {
-              "status": "did_not_play",
+              "status": "resolved",
               "resolution": "unique_name_token",
               "confidence": 0.96,
-              "team": "Manchester City",
+              "team": "Tottenham Hotspur",
               "sourceName": "Omar Marmoush",
               "suggestions": []
             }
@@ -12048,12 +12069,19 @@
               "total": 1
             },
             {
-              "status": "did_not_play",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 73,
+          "total": 73.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -22937,7 +22965,32 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Tottenham",
+              "scorer": "James Maddison",
+              "assist": "Mohammed Kudus",
+              "minute": "14'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Coventry",
+              "scorer": "Jack Rudoni",
+              "assist": "Brandon Thomas-Asante",
+              "minute": "49'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Tottenham",
+              "scorer": "Omar Marmoush",
+              "assist": "Andy Robertson",
+              "minute": "58'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879257"
         }
       ],
@@ -24319,7 +24372,7 @@
             0
           ],
           "playerPoints": [
-            0,
+            4,
             0.5
           ],
           "playerCompleted": [
@@ -24332,10 +24385,10 @@
           ],
           "playerStatuses": [
             {
-              "status": "did_not_play",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
-              "team": "Everton",
+              "team": "Manchester City",
               "sourceName": "Iliman Ndiaye",
               "suggestions": []
             },
@@ -24350,9 +24403,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "did_not_play",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 4
             },
             {
               "status": "resolved",
@@ -24367,7 +24433,7 @@
               "total": 0.5
             }
           ],
-          "total": 67.5,
+          "total": 71.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25054,10 +25120,10 @@
               "suggestions": []
             },
             {
-              "status": "did_not_play",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
-              "team": "Chelsea",
+              "team": "Manchester City",
               "sourceName": "Enzo Fernández",
               "suggestions": []
             }
@@ -25088,7 +25154,7 @@
               "total": 9
             },
             {
-              "status": "did_not_play",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
@@ -35501,8 +35567,8 @@
     },
     {
       "round": 13,
-      "heading": "13. kolo - 2.12.2026",
-      "nominalDate": "2026-12-02",
+      "heading": "13. kolo - 1.12.2026",
+      "nominalDate": "2026-12-01",
       "matches": [
         {
           "index": 0,
@@ -88236,8 +88302,8 @@
       "alias": "Grubis",
       "roundWins": 2,
       "exactDoubles": 0,
-      "playerPoints": 39,
-      "total": 574,
+      "playerPoints": 43,
+      "total": 578,
       "rank": 10,
       "finance": -1750
     },
@@ -88278,20 +88344,20 @@
       "finance": -2750
     },
     {
-      "alias": "Rommmik26",
+      "alias": "Luke",
       "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 40.5,
+      "exactDoubles": 1,
+      "playerPoints": 31.5,
       "total": 559.5,
       "rank": 15,
       "finance": -3000
     },
     {
-      "alias": "Luke",
+      "alias": "Rommmik26",
       "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 31,
-      "total": 559,
+      "exactDoubles": 0,
+      "playerPoints": 40.5,
+      "total": 559.5,
       "rank": 16,
       "finance": -3250
     },
@@ -88407,18 +88473,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-19T15:34:46.890754+00:00",
-  "fingerprint": "ce971f05c18f41d2a7f3a0faede9ff7f768c5a63ea58c6fd4311e33bdaff50a1",
+  "generatedAt": "2026-10-19T20:46:49.647446+00:00",
+  "fingerprint": "a4c2e77c3d267d5363a88c47668a51ca951b4dc6ea6553f524ffab9cb78bbaeb",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-19T15:34:46.891483+00:00",
-    "lastDataChangeAt": "2026-10-19T15:34:46.890754+00:00",
-    "fingerprint": "ce971f05c18f41d2a7f3a0faede9ff7f768c5a63ea58c6fd4311e33bdaff50a1",
+    "lastSuccessfulRunAt": "2026-10-19T20:46:49.648496+00:00",
+    "lastDataChangeAt": "2026-10-19T20:46:49.647446+00:00",
+    "fingerprint": "a4c2e77c3d267d5363a88c47668a51ca951b4dc6ea6553f524ffab9cb78bbaeb",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-19T15:33:14.309065+00:00",
+      "footballFetchedAt": "2026-10-19T20:45:26.181358+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-19T15:33:13.407Z"
+      "whatsappFetchedAt": "2026-10-19T20:45:25.441Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -88439,10 +88505,10 @@
       },
       "playerResolution": {
         "statuses": {
-          "did_not_play": 6,
+          "did_not_play": 3,
           "manual_override": 7,
           "pending": 3,
-          "resolved": 362
+          "resolved": 365
         },
         "methods": {
           "exact": 155,
