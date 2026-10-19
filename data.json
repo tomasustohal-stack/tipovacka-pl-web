@@ -22960,9 +22960,9 @@
           "away": "Coventry",
           "id": "tottenham-coventry",
           "kickoff": "2026-10-19T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
           "goals": [
@@ -22987,6 +22987,14 @@
               "scorer": "Omar Marmoush",
               "assist": "Andy Robertson",
               "minute": "58'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Tottenham",
+              "scorer": "Ben Davies",
+              "assist": "Dominic Solanke",
+              "minute": "90'+6'",
               "ownGoal": false,
               "penalty": false
             }
@@ -23025,7 +23033,7 @@
             10,
             12,
             11,
-            0
+            12
           ],
           "playerPoints": [
             1,
@@ -23089,7 +23097,7 @@
               "total": 0
             }
           ],
-          "total": 106,
+          "total": 118,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23124,7 +23132,7 @@
             9,
             15,
             11,
-            0
+            12
           ],
           "playerPoints": [
             1,
@@ -23175,7 +23183,7 @@
               "total": 0
             }
           ],
-          "total": 93,
+          "total": 105,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23210,7 +23218,7 @@
             9,
             2,
             12,
-            0
+            11
           ],
           "playerPoints": [
             0,
@@ -23267,7 +23275,7 @@
               "total": 2
             }
           ],
-          "total": 91,
+          "total": 102,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23302,15 +23310,15 @@
             10,
             12,
             11,
-            0
+            12
           ],
           "playerPoints": [
             0,
-            0
+            1.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -23326,7 +23334,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Tottenham Hotspur",
@@ -23341,12 +23349,31 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -0.5,
+                  "points": -0.5
+                }
+              ],
+              "total": 1.5
             }
           ],
-          "total": 71,
+          "total": 84.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23381,7 +23408,7 @@
             9,
             12,
             11,
-            0
+            12
           ],
           "playerPoints": [
             0,
@@ -23432,7 +23459,7 @@
               "total": 0.5
             }
           ],
-          "total": 99.5,
+          "total": 111.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23467,7 +23494,7 @@
             10,
             12,
             12,
-            0
+            12
           ],
           "playerPoints": [
             0,
@@ -23524,7 +23551,7 @@
               "total": 0
             }
           ],
-          "total": 90,
+          "total": 102,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23559,15 +23586,15 @@
             10,
             2,
             12,
-            0
+            12
           ],
           "playerPoints": [
             0,
-            0
+            1.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -23583,7 +23610,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Tottenham Hotspur",
@@ -23598,12 +23625,31 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -0.5,
+                  "points": -0.5
+                }
+              ],
+              "total": 1.5
             }
           ],
-          "total": 102,
+          "total": 115.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23638,7 +23684,7 @@
             10,
             12,
             11,
-            0
+            12
           ],
           "playerPoints": [
             9,
@@ -23701,7 +23747,7 @@
               "total": 0
             }
           ],
-          "total": 91,
+          "total": 103,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23736,7 +23782,7 @@
             10,
             15,
             12,
-            0
+            11
           ],
           "playerPoints": [
             0,
@@ -23793,7 +23839,7 @@
               "total": 0
             }
           ],
-          "total": 96,
+          "total": 107,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23828,7 +23874,7 @@
             9,
             12,
             11,
-            0
+            12
           ],
           "playerPoints": [
             1,
@@ -23892,7 +23938,7 @@
               "total": 3.5
             }
           ],
-          "total": 91.5,
+          "total": 103.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -23927,7 +23973,7 @@
             9,
             2,
             15,
-            0
+            12
           ],
           "playerPoints": [
             0,
@@ -23978,7 +24024,7 @@
               "total": 0.5
             }
           ],
-          "total": 78.5,
+          "total": 90.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24013,7 +24059,7 @@
             11,
             12,
             12,
-            0
+            11
           ],
           "playerPoints": [
             0,
@@ -24070,7 +24116,7 @@
               "total": 0
             }
           ],
-          "total": 86,
+          "total": 97,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24191,7 +24237,7 @@
             10,
             12,
             12,
-            0
+            12
           ],
           "playerPoints": [
             0,
@@ -24242,7 +24288,7 @@
               "total": 0.5
             }
           ],
-          "total": 102.5,
+          "total": 114.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24277,7 +24323,7 @@
             9,
             12,
             12,
-            0
+            12
           ],
           "playerPoints": [
             0,
@@ -24334,7 +24380,7 @@
               "total": 3.5
             }
           ],
-          "total": 105.5,
+          "total": 117.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24369,7 +24415,7 @@
             9,
             2,
             11,
-            0
+            12
           ],
           "playerPoints": [
             4,
@@ -24433,7 +24479,7 @@
               "total": 0.5
             }
           ],
-          "total": 71.5,
+          "total": 83.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24468,14 +24514,14 @@
             10,
             12,
             11,
-            0
+            12
           ],
           "playerPoints": [
-            0,
+            3,
             3.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -24484,7 +24530,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Tottenham Hotspur",
@@ -24502,9 +24548,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -1,
+                  "points": -1
+                }
+              ],
+              "total": 3
             },
             {
               "status": "resolved",
@@ -24525,7 +24590,7 @@
               "total": 3.5
             }
           ],
-          "total": 100.5,
+          "total": 115.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24560,7 +24625,7 @@
             9,
             12,
             11,
-            0
+            12
           ],
           "playerPoints": [
             1,
@@ -24618,7 +24683,7 @@
               "total": 0.5
             }
           ],
-          "total": 96.5,
+          "total": 108.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24653,7 +24718,7 @@
             10,
             2,
             12,
-            0
+            12
           ],
           "playerPoints": [
             0,
@@ -24704,7 +24769,7 @@
               "total": 0.5
             }
           ],
-          "total": 93.5,
+          "total": 105.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24739,7 +24804,7 @@
             10,
             12,
             12,
-            0
+            12
           ],
           "playerPoints": [
             0,
@@ -24790,7 +24855,7 @@
               "total": 0.5
             }
           ],
-          "total": 89.5,
+          "total": 101.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24825,7 +24890,7 @@
             10,
             2,
             11,
-            0
+            4
           ],
           "playerPoints": [
             0,
@@ -24876,7 +24941,7 @@
               "total": 0.5
             }
           ],
-          "total": 75.5,
+          "total": 79.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -24911,7 +24976,7 @@
             20,
             2,
             12,
-            0
+            12
           ],
           "playerPoints": [
             1,
@@ -24969,7 +25034,7 @@
               "total": 0.5
             }
           ],
-          "total": 79.5,
+          "total": 91.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25004,7 +25069,7 @@
             9,
             2,
             11,
-            0
+            15
           ],
           "playerPoints": [
             0,
@@ -25061,7 +25126,7 @@
               "total": 0
             }
           ],
-          "total": 83,
+          "total": 98,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25096,7 +25161,7 @@
             10,
             11,
             5,
-            0
+            15
           ],
           "playerPoints": [
             9,
@@ -25159,9 +25224,9 @@
               "total": 0
             }
           ],
-          "total": 106,
+          "total": 121,
           "exactDouble": 0,
-          "roundWinner": false,
+          "roundWinner": true,
           "submitted": true
         },
         {
@@ -25194,7 +25259,7 @@
             10,
             15,
             11,
-            0
+            12
           ],
           "playerPoints": [
             0,
@@ -25245,7 +25310,7 @@
               "total": 0.5
             }
           ],
-          "total": 87.5,
+          "total": 99.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25372,7 +25437,7 @@
             9,
             0,
             12,
-            0
+            12
           ],
           "playerPoints": [
             1,
@@ -25430,14 +25495,14 @@
               "total": 0.5
             }
           ],
-          "total": 92.5,
+          "total": 104.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
-      "complete": false,
-      "max": 106,
+      "complete": true,
+      "max": 121,
       "tipsRevealed": true
     },
     {
@@ -26013,7 +26078,7 @@
         },
         {
           "alias": "Závodka",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -88222,9 +88287,45 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 47,
-      "total": 664,
+      "total": 676,
       "rank": 1,
       "finance": 20000
+    },
+    {
+      "alias": "Andy",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 28.5,
+      "total": 605.5,
+      "rank": 2,
+      "finance": 15750
+    },
+    {
+      "alias": "RossoNero",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 35,
+      "total": 605,
+      "rank": 3,
+      "finance": 12250
+    },
+    {
+      "alias": "Richi",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 32.5,
+      "total": 604.5,
+      "rank": 4,
+      "finance": 9250
+    },
+    {
+      "alias": "Jayda",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 45.5,
+      "total": 602.5,
+      "rank": 5,
+      "finance": 6500
     },
     {
       "alias": "Aleš M.",
@@ -88232,42 +88333,6 @@
       "exactDoubles": 2,
       "playerPoints": 20,
       "total": 601,
-      "rank": 2,
-      "finance": 15750
-    },
-    {
-      "alias": "Richi",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 32.5,
-      "total": 593.5,
-      "rank": 3,
-      "finance": 12250
-    },
-    {
-      "alias": "Andy",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 28.5,
-      "total": 593.5,
-      "rank": 4,
-      "finance": 9250
-    },
-    {
-      "alias": "RossoNero",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 35,
-      "total": 593,
-      "rank": 5,
-      "finance": 6500
-    },
-    {
-      "alias": "Jayda",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 45.5,
-      "total": 590.5,
       "rank": 6,
       "finance": 3750
     },
@@ -88276,7 +88341,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 33.5,
-      "total": 584.5,
+      "total": 596.5,
       "rank": 7,
       "finance": 2500
     },
@@ -88285,7 +88350,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 41,
-      "total": 581,
+      "total": 593,
       "rank": 8,
       "finance": 1250
     },
@@ -88294,7 +88359,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 40.5,
-      "total": 578.5,
+      "total": 590.5,
       "rank": 9,
       "finance": -1500
     },
@@ -88303,7 +88368,7 @@
       "roundWins": 2,
       "exactDoubles": 0,
       "playerPoints": 43,
-      "total": 578,
+      "total": 590,
       "rank": 10,
       "finance": -1750
     },
@@ -88312,7 +88377,7 @@
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 41,
-      "total": 573,
+      "total": 585,
       "rank": 11,
       "finance": -2000
     },
@@ -88321,7 +88386,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 57.5,
-      "total": 569.5,
+      "total": 581.5,
       "rank": 12,
       "finance": -2250
     },
@@ -88330,7 +88395,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 30.5,
-      "total": 567.5,
+      "total": 579.5,
       "rank": 13,
       "finance": -2500
     },
@@ -88339,7 +88404,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 33,
-      "total": 567,
+      "total": 579,
       "rank": 14,
       "finance": -2750
     },
@@ -88348,7 +88413,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 31.5,
-      "total": 559.5,
+      "total": 571.5,
       "rank": 15,
       "finance": -3000
     },
@@ -88357,7 +88422,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 40.5,
-      "total": 559.5,
+      "total": 571.5,
       "rank": 16,
       "finance": -3250
     },
@@ -88365,44 +88430,44 @@
       "alias": "Usťa",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 42.5,
-      "total": 550,
+      "playerPoints": 44,
+      "total": 563.5,
       "rank": 17,
       "finance": -3500
-    },
-    {
-      "alias": "Dominick Z.",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 36.5,
-      "total": 543.5,
-      "rank": 18,
-      "finance": -3750
     },
     {
       "alias": "JR",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 41,
-      "total": 540,
-      "rank": 19,
-      "finance": -4000
+      "total": 551,
+      "rank": 18,
+      "finance": -3750
     },
     {
-      "alias": "Kašpec",
+      "alias": "Dominick Z.",
       "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 19.5,
-      "total": 534.5,
-      "rank": 20,
-      "finance": -4250
+      "exactDoubles": 0,
+      "playerPoints": 36.5,
+      "total": 547.5,
+      "rank": 19,
+      "finance": -4000
     },
     {
       "alias": "Závodka",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 25,
-      "total": 532,
+      "playerPoints": 26.5,
+      "total": 545.5,
+      "rank": 20,
+      "finance": -4250
+    },
+    {
+      "alias": "Mráva",
+      "roundWins": 1,
+      "exactDoubles": 1,
+      "playerPoints": 42.5,
+      "total": 545,
       "rank": 21,
       "finance": -4500
     },
@@ -88411,16 +88476,16 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 22,
-      "total": 530,
+      "total": 541,
       "rank": 22,
       "finance": -4750
     },
     {
-      "alias": "Mráva",
+      "alias": "Kašpec",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 42.5,
-      "total": 530,
+      "playerPoints": 19.5,
+      "total": 534.5,
       "rank": 23,
       "finance": -5000
     },
@@ -88429,7 +88494,7 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 28,
-      "total": 512,
+      "total": 524,
       "rank": 24,
       "finance": -5250
     },
@@ -88437,8 +88502,8 @@
       "alias": "Hasťa",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 55,
-      "total": 502,
+      "playerPoints": 58,
+      "total": 517,
       "rank": 25,
       "finance": -5500
     },
@@ -88447,7 +88512,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 34,
-      "total": 502,
+      "total": 517,
       "rank": 26,
       "finance": -5750
     },
@@ -88456,35 +88521,35 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 45,
-      "total": 491,
+      "total": 503,
       "rank": 27,
       "finance": -6000
     }
   ],
   "news": {
-    "round": 6,
+    "round": 7,
     "groupMoment": {
-      "nick": "Dvorek",
-      "submittedAt": "2026-01-17T14:01:24.000Z",
-      "text": "No jako nemělo to kam uhnout hlavně",
-      "reactions": 24,
-      "comments": 11
+      "nick": "Andy",
+      "submittedAt": "2026-01-17T13:33:00.000Z",
+      "text": "Není...!!",
+      "reactions": 23,
+      "comments": 12
     }
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-19T20:46:49.647446+00:00",
-  "fingerprint": "a4c2e77c3d267d5363a88c47668a51ca951b4dc6ea6553f524ffab9cb78bbaeb",
+  "generatedAt": "2026-10-19T23:03:50.483714+00:00",
+  "fingerprint": "740df50331f7bb3a661997eaaa6d8c581a2776d27dee89919cd8baf5b87a6a94",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-19T20:46:49.648496+00:00",
-    "lastDataChangeAt": "2026-10-19T20:46:49.647446+00:00",
-    "fingerprint": "a4c2e77c3d267d5363a88c47668a51ca951b4dc6ea6553f524ffab9cb78bbaeb",
+    "lastSuccessfulRunAt": "2026-10-19T23:03:50.484744+00:00",
+    "lastDataChangeAt": "2026-10-19T23:03:50.483714+00:00",
+    "fingerprint": "740df50331f7bb3a661997eaaa6d8c581a2776d27dee89919cd8baf5b87a6a94",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-19T20:45:26.181358+00:00",
+      "footballFetchedAt": "2026-10-19T23:02:16.713362+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-19T20:45:25.441Z"
+      "whatsappFetchedAt": "2026-10-19T23:02:15.304Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -88507,8 +88572,7 @@
         "statuses": {
           "did_not_play": 3,
           "manual_override": 7,
-          "pending": 3,
-          "resolved": 365
+          "resolved": 368
         },
         "methods": {
           "exact": 155,
