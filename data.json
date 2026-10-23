@@ -25733,7 +25733,7 @@
         },
         {
           "alias": "Pospec",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -25940,7 +25940,7 @@
         },
         {
           "alias": "Giorgio",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26009,7 +26009,7 @@
         },
         {
           "alias": "Mudras",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26285,7 +26285,7 @@
         },
         {
           "alias": "Dvorek",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26354,7 +26354,7 @@
         },
         {
           "alias": "Jayda",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26492,7 +26492,7 @@
         },
         {
           "alias": "Kašpec",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26699,7 +26699,7 @@
         },
         {
           "alias": "Grubis",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26906,7 +26906,7 @@
         },
         {
           "alias": "Dufec",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26975,7 +26975,7 @@
         },
         {
           "alias": "Pelix",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -27320,7 +27320,7 @@
         },
         {
           "alias": "RossoNero",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -88538,18 +88538,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-23T13:22:50.934672+00:00",
-  "fingerprint": "4250b293967ee39e5263b679a82656e71dbdcb8580f9fd9f2ef0832f255256e1",
+  "generatedAt": "2026-10-23T17:59:52.104180+00:00",
+  "fingerprint": "29ec8f5ffed5ef5545dc3bf6ffff5117cf2934148a3aa27bc94f22a95adb26ff",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-23T13:22:50.935576+00:00",
-    "lastDataChangeAt": "2026-10-23T13:22:50.934672+00:00",
-    "fingerprint": "4250b293967ee39e5263b679a82656e71dbdcb8580f9fd9f2ef0832f255256e1",
+    "lastSuccessfulRunAt": "2026-10-23T17:59:52.104948+00:00",
+    "lastDataChangeAt": "2026-10-23T17:59:52.104180+00:00",
+    "fingerprint": "29ec8f5ffed5ef5545dc3bf6ffff5117cf2934148a3aa27bc94f22a95adb26ff",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-23T13:21:18.825650+00:00",
+      "footballFetchedAt": "2026-10-23T17:58:26.922059+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-23T13:21:17.371Z"
+      "whatsappFetchedAt": "2026-10-23T17:58:26.217Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
