@@ -26147,7 +26147,7 @@
         },
         {
           "alias": "Pavel",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -27182,7 +27182,7 @@
         },
         {
           "alias": "Mezňa",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -27251,7 +27251,7 @@
         },
         {
           "alias": "Mráva",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -27389,7 +27389,7 @@
         },
         {
           "alias": "Aleš M.",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -27458,7 +27458,7 @@
         },
         {
           "alias": "Škardis",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -88538,18 +88538,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-22T18:30:46.561754+00:00",
-  "fingerprint": "e6394795f9005c1a36aa96e289390901ce7a29220d9934594136b628d9ba3971",
+  "generatedAt": "2026-10-23T07:25:55.782825+00:00",
+  "fingerprint": "676d3831ecbd45bee14d8179ddbc6f6e6a6eaae9cca568318ad0e72bc9b2b842",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-22T18:30:46.562432+00:00",
-    "lastDataChangeAt": "2026-10-22T18:30:46.561754+00:00",
-    "fingerprint": "e6394795f9005c1a36aa96e289390901ce7a29220d9934594136b628d9ba3971",
+    "lastSuccessfulRunAt": "2026-10-23T07:25:55.783775+00:00",
+    "lastDataChangeAt": "2026-10-23T07:25:55.782825+00:00",
+    "fingerprint": "676d3831ecbd45bee14d8179ddbc6f6e6a6eaae9cca568318ad0e72bc9b2b842",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-22T18:30:11.557588+00:00",
+      "footballFetchedAt": "2026-10-23T07:25:07.234952+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-22T18:30:10.945Z"
+      "whatsappFetchedAt": "2026-10-23T07:25:06.333Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
