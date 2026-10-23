@@ -2051,7 +2051,7 @@
       "catalogId": "espn:336794",
       "name": "Abdoul Ouattara",
       "team": "Ipswich Town",
-      "position": "Right Midfielder"
+      "position": "Defender"
     },
     {
       "providerId": "246825",
@@ -2093,14 +2093,14 @@
       "catalogId": "espn:286347",
       "name": "Daizen Maeda",
       "team": "Ipswich Town",
-      "position": "Center Right Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "243440",
       "catalogId": "espn:243440",
       "name": "Dara O'Shea",
       "team": "Ipswich Town",
-      "position": "Center Right Defender"
+      "position": "Defender"
     },
     {
       "providerId": "215075",
@@ -2121,28 +2121,28 @@
       "catalogId": "espn:228393",
       "name": "Exequiel Palacios",
       "team": "Ipswich Town",
-      "position": "Center Left Midfielder"
+      "position": "Midfielder"
     },
     {
       "providerId": "318680",
       "catalogId": "espn:318680",
       "name": "Fatawu Issahaku",
       "team": "Ipswich Town",
-      "position": "Substitute"
+      "position": "Midfielder"
     },
     {
       "providerId": "256607",
       "catalogId": "espn:256607",
       "name": "Florentino",
       "team": "Ipswich Town",
-      "position": "Center Right Midfielder"
+      "position": "Midfielder"
     },
     {
       "providerId": "230963",
       "catalogId": "espn:230963",
       "name": "Issa Diop",
       "team": "Ipswich Town",
-      "position": "Center Defender"
+      "position": "Defender"
     },
     {
       "providerId": "269343",
@@ -2156,21 +2156,21 @@
       "catalogId": "espn:291174",
       "name": "Jacob Greaves",
       "team": "Ipswich Town",
-      "position": "Center Left Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "295370",
       "catalogId": "espn:295370",
       "name": "Jaden Philogene",
       "team": "Ipswich Town",
-      "position": "Substitute"
+      "position": "Midfielder"
     },
     {
       "providerId": "20975",
       "catalogId": "espn:20975",
       "name": "Julio Enciso",
       "team": "Ipswich Town",
-      "position": "Center Left Forward"
+      "position": "Midfielder"
     },
     {
       "providerId": "307073",
@@ -2191,7 +2191,7 @@
       "catalogId": "espn:283086",
       "name": "Leif Davis",
       "team": "Ipswich Town",
-      "position": "Left Midfielder"
+      "position": "Defender"
     },
     {
       "providerId": "301554",
@@ -3171,14 +3171,14 @@
       "catalogId": "espn:275842",
       "name": "Dan Ndoye",
       "team": "Nottingham Forest",
-      "position": "Center Left Forward"
+      "position": "Midfielder"
     },
     {
       "providerId": "146679",
       "catalogId": "espn:146679",
       "name": "Daniel Muñoz",
       "team": "Nottingham Forest",
-      "position": "Right Midfielder"
+      "position": "Midfielder"
     },
     {
       "providerId": "213718",
@@ -3199,14 +3199,14 @@
       "catalogId": "espn:338876",
       "name": "Jair Paula",
       "team": "Nottingham Forest",
-      "position": "Center Right Defender"
+      "position": "Defender"
     },
     {
       "providerId": "298518",
       "catalogId": "espn:298518",
       "name": "James McAtee",
       "team": "Nottingham Forest",
-      "position": "Center Right Midfielder"
+      "position": "Midfielder"
     },
     {
       "providerId": "233241",
@@ -3241,21 +3241,21 @@
       "catalogId": "espn:243396",
       "name": "Morgan Gibbs-White",
       "team": "Nottingham Forest",
-      "position": "Center Right Forward"
+      "position": "Midfielder"
     },
     {
       "providerId": "338894",
       "catalogId": "espn:338894",
       "name": "Murillo",
       "team": "Nottingham Forest",
-      "position": "Center Left Defender"
+      "position": "Defender"
     },
     {
       "providerId": "291638",
       "catalogId": "espn:291638",
       "name": "Neco Williams",
       "team": "Nottingham Forest",
-      "position": "Left Midfielder"
+      "position": "Midfielder"
     },
     {
       "providerId": "254118",
@@ -3269,7 +3269,7 @@
       "catalogId": "espn:238990",
       "name": "Nikola Milenkovic",
       "team": "Nottingham Forest",
-      "position": "Substitute"
+      "position": "Defender"
     },
     {
       "providerId": "206227",
@@ -3283,7 +3283,7 @@
       "catalogId": "espn:343964",
       "name": "Ousmane Diomande",
       "team": "Nottingham Forest",
-      "position": "Center Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "241253",
@@ -3297,7 +3297,7 @@
       "catalogId": "espn:238886",
       "name": "Xaver Schlager",
       "team": "Nottingham Forest",
-      "position": "Center Left Midfielder"
+      "position": "Midfielder"
     },
     {
       "providerId": "348303",
@@ -25664,7 +25664,7 @@
       "entries": [
         {
           "alias": "Andy",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -25802,7 +25802,7 @@
         },
         {
           "alias": "Maara",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26216,7 +26216,7 @@
         },
         {
           "alias": "Richi",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -27044,7 +27044,7 @@
         },
         {
           "alias": "Dominick Z.",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -88538,18 +88538,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-23T17:59:52.104180+00:00",
-  "fingerprint": "29ec8f5ffed5ef5545dc3bf6ffff5117cf2934148a3aa27bc94f22a95adb26ff",
+  "generatedAt": "2026-10-23T18:17:50.571158+00:00",
+  "fingerprint": "fd1e50d715743a78a9d9e333e6110ac5c5e3384a37e5014d8fa0b3554ef7b039",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-23T17:59:52.104948+00:00",
-    "lastDataChangeAt": "2026-10-23T17:59:52.104180+00:00",
-    "fingerprint": "29ec8f5ffed5ef5545dc3bf6ffff5117cf2934148a3aa27bc94f22a95adb26ff",
+    "lastSuccessfulRunAt": "2026-10-23T18:17:50.572231+00:00",
+    "lastDataChangeAt": "2026-10-23T18:17:50.571158+00:00",
+    "fingerprint": "fd1e50d715743a78a9d9e333e6110ac5c5e3384a37e5014d8fa0b3554ef7b039",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-23T17:58:26.922059+00:00",
+      "footballFetchedAt": "2026-10-23T18:16:28.259485+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-23T17:58:26.217Z"
+      "whatsappFetchedAt": "2026-10-23T18:16:27.625Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
