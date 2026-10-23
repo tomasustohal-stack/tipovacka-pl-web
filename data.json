@@ -2051,7 +2051,7 @@
       "catalogId": "espn:336794",
       "name": "Abdoul Ouattara",
       "team": "Ipswich Town",
-      "position": "Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "246825",
@@ -2100,7 +2100,7 @@
       "catalogId": "espn:243440",
       "name": "Dara O'Shea",
       "team": "Ipswich Town",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "215075",
@@ -2121,28 +2121,28 @@
       "catalogId": "espn:228393",
       "name": "Exequiel Palacios",
       "team": "Ipswich Town",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "318680",
       "catalogId": "espn:318680",
       "name": "Fatawu Issahaku",
       "team": "Ipswich Town",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "256607",
       "catalogId": "espn:256607",
       "name": "Florentino",
       "team": "Ipswich Town",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "230963",
       "catalogId": "espn:230963",
       "name": "Issa Diop",
       "team": "Ipswich Town",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "269343",
@@ -2163,14 +2163,14 @@
       "catalogId": "espn:295370",
       "name": "Jaden Philogene",
       "team": "Ipswich Town",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "20975",
       "catalogId": "espn:20975",
       "name": "Julio Enciso",
       "team": "Ipswich Town",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "307073",
@@ -2191,7 +2191,7 @@
       "catalogId": "espn:283086",
       "name": "Leif Davis",
       "team": "Ipswich Town",
-      "position": "Defender"
+      "position": "Left Back"
     },
     {
       "providerId": "301554",
@@ -3171,14 +3171,14 @@
       "catalogId": "espn:275842",
       "name": "Dan Ndoye",
       "team": "Nottingham Forest",
-      "position": "Midfielder"
+      "position": "Center Left Forward"
     },
     {
       "providerId": "146679",
       "catalogId": "espn:146679",
       "name": "Daniel Muñoz",
       "team": "Nottingham Forest",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "213718",
@@ -3199,14 +3199,14 @@
       "catalogId": "espn:338876",
       "name": "Jair Paula",
       "team": "Nottingham Forest",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "298518",
       "catalogId": "espn:298518",
       "name": "James McAtee",
       "team": "Nottingham Forest",
-      "position": "Midfielder"
+      "position": "Center Right Midfielder"
     },
     {
       "providerId": "233241",
@@ -3241,21 +3241,21 @@
       "catalogId": "espn:243396",
       "name": "Morgan Gibbs-White",
       "team": "Nottingham Forest",
-      "position": "Midfielder"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "338894",
       "catalogId": "espn:338894",
       "name": "Murillo",
       "team": "Nottingham Forest",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "291638",
       "catalogId": "espn:291638",
       "name": "Neco Williams",
       "team": "Nottingham Forest",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "254118",
@@ -3269,7 +3269,7 @@
       "catalogId": "espn:238990",
       "name": "Nikola Milenkovic",
       "team": "Nottingham Forest",
-      "position": "Defender"
+      "position": "Center Defender"
     },
     {
       "providerId": "206227",
@@ -3297,7 +3297,7 @@
       "catalogId": "espn:238886",
       "name": "Xaver Schlager",
       "team": "Nottingham Forest",
-      "position": "Midfielder"
+      "position": "Center Left Midfielder"
     },
     {
       "providerId": "348303",
@@ -25517,12 +25517,29 @@
           "away": "Nottingham",
           "id": "ipswich-nottingham",
           "kickoff": "2026-10-23T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Nottingham",
+              "scorer": "Neco Williams",
+              "assist": "Daniel Muñoz",
+              "minute": "13'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Ipswich",
+              "scorer": "Julio Enciso",
+              "assist": "",
+              "minute": "41'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879253"
         },
         {
@@ -25664,27 +25681,26 @@
       "entries": [
         {
           "alias": "Andy",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "2:3",
+            "2:0",
+            "1:1",
+            "2:1",
+            "2:1",
+            "1:2",
+            "2:2",
+            "1:2",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "Phil Foden",
+            "David Raya"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -25709,51 +25725,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Phil Foden",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "David Raya",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Pospec",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "2:2",
+            "1:0",
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:1",
+            "1:1",
+            "0:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Morgan Rogers"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -25778,51 +25804,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Morgan Rogers",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Maara",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "1:2",
+            "1:0",
+            "1:2",
+            "3:1",
+            "2:2",
+            "1:2",
+            "1:1",
+            "1:2",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Igor Thiago"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -25847,51 +25883,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Brentford",
+              "sourceName": "Igor Thiago",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Usťa",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "1:2",
+            "2:0",
+            "0:1",
+            "3:1",
+            "2:2",
+            "2:2",
+            "3:1",
+            "1:2",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "Bryan Mbeumo",
+            "João Pedro"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -25916,51 +25962,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester United",
+              "sourceName": "Bryan Mbeumo",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Giorgio",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "2:1",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "2:1",
+            "1:2",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 1,
           "players": [
-            "",
-            ""
+            "Alexander Isak",
+            "João Pedro"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -25985,51 +26041,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mudras",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:3",
+            "2:1",
+            "1:1",
+            "2:1",
+            "2:2",
+            "1:2",
+            "1:1",
+            "1:2",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Rayan Cherki"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -26054,51 +26120,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Rayan Cherki",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Závodka",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "2:2",
+            "2:0",
+            "1:2",
+            "1:1",
+            "1:2",
+            "2:2",
+            "1:2",
+            "2:2",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "Charalambos Kostoulas",
+            "Evanilson"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -26123,51 +26199,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Brighton & Hove Albion",
+              "sourceName": "Charalambos Kostoulas",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Evanilson",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Pavel",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "3:1",
+            "1:2",
+            "2:1",
+            "1:1",
+            "1:2",
+            "2:2",
+            "1:1",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Eberechi Eze"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -26192,51 +26278,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Eberechi Eze",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Richi",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:3",
+            "2:0",
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:1",
+            "2:2",
+            "1:1",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Eberechi Eze"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -26261,51 +26357,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Eberechi Eze",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Dvorek",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:1",
+            "1:1",
+            "1:1",
+            "2:1",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Bryan Mbeumo"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -26330,51 +26436,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester United",
+              "sourceName": "Bryan Mbeumo",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Jayda",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "1:0",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "2:1",
+            "1:2",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Cole Palmer"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -26399,51 +26515,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Cole Palmer",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "JR",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "1:2",
+            "2:0",
+            "1:2",
+            "3:1",
+            "2:1",
+            "1:2",
+            "2:1",
+            "1:2",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Riccardo Calafiori"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -26468,51 +26594,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Riccardo Calafiori",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Kašpec",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:0",
+            "1:2",
+            "2:0",
+            "0:1",
+            "2:1",
+            "2:2",
+            "1:2",
+            "1:2",
+            "1:2",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Rayan Cherki"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -26537,51 +26673,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Rayan Cherki",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Rommmik26",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "2:2",
+            "2:0",
+            "1:1",
+            "4:1",
+            "2:1",
+            "2:2",
+            "1:1",
+            "2:1",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Riccardo Calafiori"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -26606,51 +26752,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Riccardo Calafiori",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Luke",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "1:0",
+            "2:1",
+            "2:1",
+            "1:2",
+            "1:2",
+            "1:1",
+            "1:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 1,
           "players": [
-            "",
-            ""
+            "Rayan Cherki",
+            "Bryan Mbeumo"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -26675,51 +26831,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Rayan Cherki",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester United",
+              "sourceName": "Bryan Mbeumo",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Grubis",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "2:1",
+            "1:2",
+            "3:1",
+            "3:2",
+            "1:2",
+            "2:1",
+            "1:1",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 4,
           "players": [
-            "",
-            ""
+            "Cole Palmer",
+            "Alexander Isak"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -26744,51 +26910,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Cole Palmer",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Hasťa",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "1:3",
+            "2:1",
+            "1:2",
+            "3:1",
+            "2:1",
+            "1:2",
+            "2:0",
+            "1:2",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 1,
           "players": [
-            "",
-            ""
+            "Morgan Rogers",
+            "Dominic Calvert-Lewin"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -26813,51 +26989,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Morgan Rogers",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Leeds United",
+              "sourceName": "Dominic Calvert-Lewin",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Peloš",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "2:1",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "1:2",
+            "2:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Alexander Isak"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -26882,51 +27068,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Dufec",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:3",
+            "1:3",
+            "2:0",
+            "1:1",
+            "2:2",
+            "2:1",
+            "0:2",
+            "2:1",
+            "1:2",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 1,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Kai Havertz"
           ],
           "matchPoints": [
-            0,
+            4,
             0,
             0,
             0,
@@ -26951,51 +27147,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 4,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Pelix",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "2:0",
+            "1:2",
+            "3:1",
+            "2:1",
+            "1:2",
+            "1:1",
+            "2:1",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "Morgan Rogers",
+            "Alexander Isak"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -27020,51 +27226,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Morgan Rogers",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Dominick Z.",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:1",
+            "3:1",
+            "2:2",
+            "1:2",
+            "1:2",
+            "1:1",
+            "0:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 4,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Dominic Calvert-Lewin"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -27089,51 +27305,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Leeds United",
+              "sourceName": "Dominic Calvert-Lewin",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Bajgi",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "2:0",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "1:2",
+            "2:2",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "Rayan Cherki",
+            "João Pedro"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -27158,51 +27384,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Rayan Cherki",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mezňa",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "1:0",
+            "1:2",
+            "2:1",
+            "1:1",
+            "1:2",
+            "2:2",
+            "1:2",
+            "1:0"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 6,
           "players": [
-            "",
-            ""
+            "Igor Thiago",
+            "João Pedro"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -27227,51 +27463,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Brentford",
+              "sourceName": "Igor Thiago",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mráva",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:1",
+            "3:0",
+            "1:2",
+            "2:1",
+            "1:0",
+            "0:2",
+            "2:0",
+            "1:2",
+            "2:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "Igor Thiago",
+            "Eberechi Eze"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -27296,51 +27542,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Brentford",
+              "sourceName": "Igor Thiago",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Eberechi Eze",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "RossoNero",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:3",
+            "2:0",
+            "1:1",
+            "3:1",
+            "2:2",
+            "1:2",
+            "1:2",
+            "1:1",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 2,
           "players": [
-            "",
-            ""
+            "Phil Foden",
+            "João Pedro"
           ],
           "matchPoints": [
-            0,
+            5,
             0,
             0,
             0,
@@ -27365,51 +27621,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Phil Foden",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Aleš M.",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "2:0",
+            "1:1",
+            "2:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 4,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Kai Havertz"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -27434,51 +27700,61 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Škardis",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "1:0",
+            "1:1",
+            "3:1",
+            "1:2",
+            "1:2",
+            "2:1",
+            "1:0",
+            "2:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 4,
           "players": [
-            "",
-            ""
+            "João Pedro",
+            "Cole Palmer"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -27503,32 +27779,43 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "João Pedro",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Cole Palmer",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         }
       ],
       "complete": false,
-      "max": 0,
-      "tipsRevealed": false
+      "max": 15,
+      "tipsRevealed": true
     },
     {
       "round": 9,
@@ -88287,52 +88574,52 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 47,
-      "total": 676,
+      "total": 691,
       "rank": 1,
       "finance": 20000
-    },
-    {
-      "alias": "Andy",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 28.5,
-      "total": 605.5,
-      "rank": 2,
-      "finance": 15750
-    },
-    {
-      "alias": "RossoNero",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 35,
-      "total": 605,
-      "rank": 3,
-      "finance": 12250
     },
     {
       "alias": "Richi",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 32.5,
-      "total": 604.5,
-      "rank": 4,
-      "finance": 9250
-    },
-    {
-      "alias": "Jayda",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 45.5,
-      "total": 602.5,
-      "rank": 5,
-      "finance": 6500
+      "total": 619.5,
+      "rank": 2,
+      "finance": 15750
     },
     {
       "alias": "Aleš M.",
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 20,
-      "total": 601,
+      "total": 616,
+      "rank": 3,
+      "finance": 12250
+    },
+    {
+      "alias": "Andy",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 28.5,
+      "total": 610.5,
+      "rank": 4,
+      "finance": 9250
+    },
+    {
+      "alias": "RossoNero",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 35,
+      "total": 610,
+      "rank": 5,
+      "finance": 6500
+    },
+    {
+      "alias": "Jayda",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 45.5,
+      "total": 607.5,
       "rank": 6,
       "finance": 3750
     },
@@ -88341,7 +88628,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 33.5,
-      "total": 596.5,
+      "total": 601.5,
       "rank": 7,
       "finance": 2500
     },
@@ -88350,7 +88637,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 41,
-      "total": 593,
+      "total": 598,
       "rank": 8,
       "finance": 1250
     },
@@ -88359,7 +88646,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 40.5,
-      "total": 590.5,
+      "total": 595.5,
       "rank": 9,
       "finance": -1500
     },
@@ -88368,52 +88655,52 @@
       "roundWins": 2,
       "exactDoubles": 0,
       "playerPoints": 43,
-      "total": 590,
+      "total": 595,
       "rank": 10,
       "finance": -1750
-    },
-    {
-      "alias": "Pospec",
-      "roundWins": 1,
-      "exactDoubles": 0,
-      "playerPoints": 41,
-      "total": 585,
-      "rank": 11,
-      "finance": -2000
-    },
-    {
-      "alias": "Bajgi",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 57.5,
-      "total": 581.5,
-      "rank": 12,
-      "finance": -2250
     },
     {
       "alias": "Pelix",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 30.5,
-      "total": 579.5,
-      "rank": 13,
-      "finance": -2500
+      "total": 594.5,
+      "rank": 11,
+      "finance": -2000
     },
     {
-      "alias": "Dufec",
+      "alias": "Pospec",
+      "roundWins": 1,
+      "exactDoubles": 0,
+      "playerPoints": 41,
+      "total": 590,
+      "rank": 12,
+      "finance": -2250
+    },
+    {
+      "alias": "Bajgi",
       "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 33,
-      "total": 579,
-      "rank": 14,
-      "finance": -2750
+      "exactDoubles": 2,
+      "playerPoints": 57.5,
+      "total": 586.5,
+      "rank": 13,
+      "finance": -2500
     },
     {
       "alias": "Luke",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 31.5,
-      "total": 571.5,
+      "total": 586.5,
+      "rank": 14,
+      "finance": -2750
+    },
+    {
+      "alias": "Dufec",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 33,
+      "total": 583,
       "rank": 15,
       "finance": -3000
     },
@@ -88422,7 +88709,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 40.5,
-      "total": 571.5,
+      "total": 576.5,
       "rank": 16,
       "finance": -3250
     },
@@ -88431,43 +88718,43 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 44,
-      "total": 563.5,
+      "total": 568.5,
       "rank": 17,
       "finance": -3500
-    },
-    {
-      "alias": "JR",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 41,
-      "total": 551,
-      "rank": 18,
-      "finance": -3750
-    },
-    {
-      "alias": "Dominick Z.",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 36.5,
-      "total": 547.5,
-      "rank": 19,
-      "finance": -4000
     },
     {
       "alias": "Závodka",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 26.5,
-      "total": 545.5,
-      "rank": 20,
-      "finance": -4250
+      "total": 560.5,
+      "rank": 18,
+      "finance": -3750
     },
     {
       "alias": "Mráva",
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 42.5,
-      "total": 545,
+      "total": 560,
+      "rank": 19,
+      "finance": -4000
+    },
+    {
+      "alias": "JR",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 41,
+      "total": 556,
+      "rank": 20,
+      "finance": -4250
+    },
+    {
+      "alias": "Dominick Z.",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 36.5,
+      "total": 552.5,
       "rank": 21,
       "finance": -4500
     },
@@ -88476,7 +88763,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 22,
-      "total": 541,
+      "total": 546,
       "rank": 22,
       "finance": -4750
     },
@@ -88485,7 +88772,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 19.5,
-      "total": 534.5,
+      "total": 539.5,
       "rank": 23,
       "finance": -5000
     },
@@ -88494,7 +88781,7 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 28,
-      "total": 524,
+      "total": 539,
       "rank": 24,
       "finance": -5250
     },
@@ -88503,7 +88790,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 58,
-      "total": 517,
+      "total": 522,
       "rank": 25,
       "finance": -5500
     },
@@ -88512,7 +88799,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 34,
-      "total": 517,
+      "total": 522,
       "rank": 26,
       "finance": -5750
     },
@@ -88521,7 +88808,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 45,
-      "total": 503,
+      "total": 518,
       "rank": 27,
       "finance": -6000
     }
@@ -88538,18 +88825,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-23T18:17:50.571158+00:00",
-  "fingerprint": "fd1e50d715743a78a9d9e333e6110ac5c5e3384a37e5014d8fa0b3554ef7b039",
+  "generatedAt": "2026-10-23T21:37:43.547765+00:00",
+  "fingerprint": "20767dc697ed299fccb236e940fa3688ab2a417c2a352268bde12a539d024eb6",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-23T18:17:50.572231+00:00",
-    "lastDataChangeAt": "2026-10-23T18:17:50.571158+00:00",
-    "fingerprint": "fd1e50d715743a78a9d9e333e6110ac5c5e3384a37e5014d8fa0b3554ef7b039",
+    "lastSuccessfulRunAt": "2026-10-23T21:37:43.548358+00:00",
+    "lastDataChangeAt": "2026-10-23T21:37:43.547765+00:00",
+    "fingerprint": "20767dc697ed299fccb236e940fa3688ab2a417c2a352268bde12a539d024eb6",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-23T18:16:28.259485+00:00",
+      "footballFetchedAt": "2026-10-23T21:36:54.858783+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-23T18:16:27.625Z"
+      "whatsappFetchedAt": "2026-10-23T21:36:53.904Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -88572,12 +88859,13 @@
         "statuses": {
           "did_not_play": 3,
           "manual_override": 7,
+          "pending": 54,
           "resolved": 368
         },
         "methods": {
           "exact": 155,
           "manual_override": 2,
-          "provider_id": 109,
+          "provider_id": 163,
           "unique_abbreviated_name": 16,
           "unique_name_token": 96
         },
