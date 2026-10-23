@@ -26561,7 +26561,7 @@
         },
         {
           "alias": "Rommmik26",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26768,7 +26768,7 @@
         },
         {
           "alias": "Hasťa",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -26837,7 +26837,7 @@
         },
         {
           "alias": "Peloš",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -88538,18 +88538,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-23T07:25:55.782825+00:00",
-  "fingerprint": "676d3831ecbd45bee14d8179ddbc6f6e6a6eaae9cca568318ad0e72bc9b2b842",
+  "generatedAt": "2026-10-23T13:22:50.934672+00:00",
+  "fingerprint": "4250b293967ee39e5263b679a82656e71dbdcb8580f9fd9f2ef0832f255256e1",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-23T07:25:55.783775+00:00",
-    "lastDataChangeAt": "2026-10-23T07:25:55.782825+00:00",
-    "fingerprint": "676d3831ecbd45bee14d8179ddbc6f6e6a6eaae9cca568318ad0e72bc9b2b842",
+    "lastSuccessfulRunAt": "2026-10-23T13:22:50.935576+00:00",
+    "lastDataChangeAt": "2026-10-23T13:22:50.934672+00:00",
+    "fingerprint": "4250b293967ee39e5263b679a82656e71dbdcb8580f9fd9f2ef0832f255256e1",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-23T07:25:07.234952+00:00",
+      "footballFetchedAt": "2026-10-23T13:21:18.825650+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-23T07:25:06.333Z"
+      "whatsappFetchedAt": "2026-10-23T13:21:17.371Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
