@@ -938,7 +938,7 @@
       "catalogId": "espn:296395",
       "name": "Cole Palmer",
       "team": "Chelsea",
-      "position": "Attacking Midfielder"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "115271",
@@ -966,7 +966,7 @@
       "catalogId": "espn:376274",
       "name": "Geovany Quenda",
       "team": "Chelsea",
-      "position": "Substitute"
+      "position": "Center Left Forward"
     },
     {
       "providerId": "339879",
@@ -987,21 +987,21 @@
       "catalogId": "espn:127262",
       "name": "Jordan Henderson",
       "team": "Chelsea",
-      "position": "Left Midfielder"
+      "position": "Center Left Midfielder"
     },
     {
       "providerId": "353951",
       "catalogId": "espn:353951",
       "name": "Jorrel Hato",
       "team": "Chelsea",
-      "position": "Left Back"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "368317",
       "catalogId": "espn:368317",
       "name": "Josh Acheampong",
       "team": "Chelsea",
-      "position": "Right Back"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "296410",
@@ -1036,35 +1036,35 @@
       "catalogId": "espn:265918",
       "name": "Maxence Lacroix",
       "team": "Chelsea",
-      "position": "Center Right Defender"
+      "position": "Center Defender"
     },
     {
       "providerId": "332343",
       "catalogId": "espn:332343",
       "name": "Mike Penders",
       "team": "Chelsea",
-      "position": "Substitute"
+      "position": "Goalkeeper"
     },
     {
       "providerId": "289877",
       "catalogId": "espn:289877",
       "name": "Moisés Caicedo",
       "team": "Chelsea",
-      "position": "Right Midfielder"
+      "position": "Center Right Midfielder"
     },
     {
       "providerId": "265653",
       "catalogId": "espn:265653",
       "name": "Morgan Rogers",
       "team": "Chelsea",
-      "position": "Attacking Midfielder Left"
+      "position": "Forward"
     },
     {
       "providerId": "256115",
       "catalogId": "espn:256115",
       "name": "Pedro Neto",
       "team": "Chelsea",
-      "position": "Attacking Midfielder Right"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "300331",
@@ -1091,6 +1091,13 @@
       "providerId": "308217",
       "catalogId": "espn:308217",
       "name": "Romeo Lavia",
+      "team": "Chelsea",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "300049",
+      "catalogId": "espn:300049",
+      "name": "Teddy Sharman-Lowe",
       "team": "Chelsea",
       "position": "Substitute"
     },
@@ -1743,7 +1750,7 @@
       "catalogId": "espn:336460",
       "name": "Hugo Larsson",
       "team": "Fulham",
-      "position": "Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "196081",
@@ -1834,7 +1841,7 @@
       "catalogId": "espn:324164",
       "name": "Shea Charles",
       "team": "Fulham",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "197163",
@@ -3493,7 +3500,7 @@
       "catalogId": "espn:104943",
       "name": "Andy Robertson",
       "team": "Tottenham Hotspur",
-      "position": "Left Midfielder"
+      "position": "Left Back"
     },
     {
       "providerId": "324393",
@@ -3507,35 +3514,35 @@
       "catalogId": "espn:328050",
       "name": "Archie Gray",
       "team": "Tottenham Hotspur",
-      "position": "Center Right Midfielder"
+      "position": "Right Back"
     },
     {
       "providerId": "6327",
       "catalogId": "espn:6327",
       "name": "Ben Davies",
       "team": "Tottenham Hotspur",
-      "position": ""
+      "position": "Substitute"
     },
     {
       "providerId": "372016",
       "catalogId": "espn:372016",
       "name": "Callum Olusesi",
       "team": "Tottenham Hotspur",
-      "position": ""
+      "position": "Substitute"
     },
     {
       "providerId": "266696",
       "catalogId": "espn:266696",
       "name": "Conor Gallagher",
       "team": "Tottenham Hotspur",
-      "position": ""
+      "position": "Substitute"
     },
     {
       "providerId": "272695",
       "catalogId": "espn:272695",
       "name": "Dejan Kulusevski",
       "team": "Tottenham Hotspur",
-      "position": ""
+      "position": "Substitute"
     },
     {
       "providerId": "290076",
@@ -3549,14 +3556,14 @@
       "catalogId": "espn:194115",
       "name": "Dominic Solanke",
       "team": "Tottenham Hotspur",
-      "position": "Center Right Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "194450",
       "catalogId": "espn:194450",
       "name": "James Maddison",
       "team": "Tottenham Hotspur",
-      "position": "Center Left Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "282583",
@@ -3570,7 +3577,7 @@
       "catalogId": "espn:395939",
       "name": "Luca Williams-Barnett",
       "team": "Tottenham Hotspur",
-      "position": ""
+      "position": "Substitute"
     },
     {
       "providerId": "356379",
@@ -3584,28 +3591,28 @@
       "catalogId": "espn:233945",
       "name": "Marcos Senesi",
       "team": "Tottenham Hotspur",
-      "position": ""
+      "position": "Substitute"
     },
     {
       "providerId": "126703",
       "catalogId": "espn:126703",
       "name": "Martin Dúbravka",
       "team": "Tottenham Hotspur",
-      "position": ""
+      "position": "Substitute"
     },
     {
       "providerId": "346820",
       "catalogId": "espn:346820",
       "name": "Mateus Fernandes",
       "team": "Tottenham Hotspur",
-      "position": ""
+      "position": "Right Midfielder"
     },
     {
       "providerId": "325042",
       "catalogId": "espn:325042",
       "name": "Mathys Tel",
       "team": "Tottenham Hotspur",
-      "position": ""
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "296512",
@@ -3626,7 +3633,7 @@
       "catalogId": "espn:266599",
       "name": "Mohammed Kudus",
       "team": "Tottenham Hotspur",
-      "position": "Right Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "299911",
@@ -3640,14 +3647,14 @@
       "catalogId": "espn:303745",
       "name": "Omar Marmoush",
       "team": "Tottenham Hotspur",
-      "position": "Center Left Forward"
+      "position": "Forward"
     },
     {
       "providerId": "268533",
       "catalogId": "espn:268533",
       "name": "Pedro Porro",
       "team": "Tottenham Hotspur",
-      "position": "Right Back"
+      "position": "Substitute"
     },
     {
       "providerId": "156799",
@@ -3668,7 +3675,7 @@
       "catalogId": "espn:261047",
       "name": "Sandro Tonali",
       "team": "Tottenham Hotspur",
-      "position": "Sweeper"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "304470",
@@ -25589,9 +25596,9 @@
           "away": "Everton",
           "id": "arsenal-everton",
           "kickoff": "2026-10-24T14:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
           "goals": [
@@ -25600,6 +25607,14 @@
               "scorer": "Ezri Konsa",
               "assist": "Viktor Gyökeres",
               "minute": "7'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Arsenal",
+              "scorer": "Gabriel Magalhães",
+              "assist": "Ben White",
+              "minute": "68'",
               "ownGoal": false,
               "penalty": false
             }
@@ -25613,12 +25628,21 @@
           "away": "Fulham",
           "id": "coventry-fulham",
           "kickoff": "2026-10-24T14:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Fulham",
+              "scorer": "Oscar Bobb",
+              "assist": "Josh King",
+              "minute": "80'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879255"
         },
         {
@@ -25736,8 +25760,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            30,
+            5,
             0,
             0,
             0,
@@ -25747,11 +25771,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            4.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -25767,7 +25791,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -25782,13 +25806,26 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "cleanSheet",
+                  "count": 1,
+                  "weight": 4,
+                  "points": 4
+                }
+              ],
+              "total": 4.5
             }
           ],
-          "total": 5,
-          "exactDouble": 0,
+          "total": 44.5,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -25815,7 +25852,7 @@
           "matchPoints": [
             5,
             5,
-            0,
+            24,
             0,
             0,
             0,
@@ -25866,7 +25903,7 @@
               "total": 0
             }
           ],
-          "total": 10,
+          "total": 34,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25894,8 +25931,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            24,
+            11,
             0,
             0,
             0,
@@ -25945,7 +25982,7 @@
               "total": 0
             }
           ],
-          "total": 5,
+          "total": 40,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25973,8 +26010,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            30,
+            15,
             0,
             0,
             0,
@@ -26024,8 +26061,8 @@
               "total": 0
             }
           ],
-          "total": 5,
-          "exactDouble": 0,
+          "total": 50,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -26052,8 +26089,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            12,
+            11,
             0,
             0,
             0,
@@ -26103,7 +26140,7 @@
               "total": 0
             }
           ],
-          "total": 5,
+          "total": 28,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26131,8 +26168,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            24,
+            5,
             0,
             0,
             0,
@@ -26195,7 +26232,7 @@
               "total": 0
             }
           ],
-          "total": 5,
+          "total": 34,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26223,8 +26260,8 @@
           "matchPoints": [
             15,
             5,
-            0,
-            0,
+            30,
+            11,
             0,
             0,
             0,
@@ -26274,8 +26311,8 @@
               "total": 0
             }
           ],
-          "total": 20,
-          "exactDouble": 0,
+          "total": 61,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -26302,8 +26339,8 @@
           "matchPoints": [
             15,
             0,
-            0,
-            0,
+            22,
+            11,
             0,
             0,
             0,
@@ -26313,11 +26350,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26333,7 +26370,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -26348,12 +26385,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 15,
+          "total": 48.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26381,7 +26425,7 @@
           "matchPoints": [
             15,
             0,
-            0,
+            30,
             0,
             0,
             0,
@@ -26392,11 +26436,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26412,7 +26456,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -26427,13 +26471,20 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 15,
-          "exactDouble": 0,
+          "total": 45.5,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -26460,8 +26511,8 @@
           "matchPoints": [
             15,
             0,
-            0,
-            0,
+            24,
+            5,
             0,
             0,
             0,
@@ -26511,7 +26562,7 @@
               "total": 0
             }
           ],
-          "total": 15,
+          "total": 44,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26539,8 +26590,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            24,
+            11,
             0,
             0,
             0,
@@ -26590,7 +26641,7 @@
               "total": 0
             }
           ],
-          "total": 5,
+          "total": 40,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26618,8 +26669,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            30,
+            11,
             0,
             0,
             0,
@@ -26633,7 +26684,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26649,7 +26700,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -26664,13 +26715,13 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 5,
-          "exactDouble": 0,
+          "total": 46,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -26697,8 +26748,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            30,
+            15,
             0,
             0,
             0,
@@ -26761,8 +26812,8 @@
               "total": 0
             }
           ],
-          "total": 5,
-          "exactDouble": 0,
+          "total": 50,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -26789,8 +26840,8 @@
           "matchPoints": [
             5,
             5,
-            0,
-            0,
+            30,
+            5,
             0,
             0,
             0,
@@ -26804,7 +26855,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26820,7 +26871,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -26835,13 +26886,13 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 10,
-          "exactDouble": 0,
+          "total": 45,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -26868,7 +26919,7 @@
           "matchPoints": [
             15,
             0,
-            0,
+            12,
             0,
             0,
             0,
@@ -26932,7 +26983,7 @@
               "total": 0
             }
           ],
-          "total": 15,
+          "total": 27,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26960,8 +27011,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            12,
+            11,
             0,
             0,
             0,
@@ -27011,7 +27062,7 @@
               "total": 0
             }
           ],
-          "total": 5,
+          "total": 28,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27039,8 +27090,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            12,
+            11,
             0,
             0,
             0,
@@ -27090,7 +27141,7 @@
               "total": 0
             }
           ],
-          "total": 5,
+          "total": 28,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27118,8 +27169,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            24,
+            11,
             0,
             0,
             0,
@@ -27169,7 +27220,7 @@
               "total": 0
             }
           ],
-          "total": 5,
+          "total": 40,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27197,8 +27248,8 @@
           "matchPoints": [
             4,
             0,
-            0,
-            0,
+            15,
+            5,
             0,
             0,
             0,
@@ -27212,7 +27263,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27228,7 +27279,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -27243,12 +27294,12 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 4,
+          "total": 24,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27276,8 +27327,8 @@
           "matchPoints": [
             15,
             0,
-            0,
-            0,
+            30,
+            11,
             0,
             0,
             0,
@@ -27327,8 +27378,8 @@
               "total": 0
             }
           ],
-          "total": 15,
-          "exactDouble": 0,
+          "total": 56,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -27355,8 +27406,8 @@
           "matchPoints": [
             5,
             5,
-            0,
-            0,
+            12,
+            5,
             0,
             0,
             0,
@@ -27406,7 +27457,7 @@
               "total": 0
             }
           ],
-          "total": 10,
+          "total": 27,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27434,8 +27485,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            30,
+            11,
             0,
             0,
             0,
@@ -27498,8 +27549,8 @@
               "total": 0
             }
           ],
-          "total": 5,
-          "exactDouble": 0,
+          "total": 46,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -27526,8 +27577,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            12,
+            11,
             0,
             0,
             0,
@@ -27577,7 +27628,7 @@
               "total": 0
             }
           ],
-          "total": 5,
+          "total": 28,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27605,8 +27656,8 @@
           "matchPoints": [
             15,
             5,
-            0,
-            0,
+            24,
+            11,
             0,
             0,
             0,
@@ -27616,11 +27667,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27636,7 +27687,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -27651,12 +27702,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 20,
+          "total": 55.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27684,8 +27742,8 @@
           "matchPoints": [
             5,
             0,
-            0,
-            0,
+            30,
+            5,
             0,
             0,
             0,
@@ -27735,8 +27793,8 @@
               "total": 0
             }
           ],
-          "total": 5,
-          "exactDouble": 0,
+          "total": 40,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -27763,8 +27821,8 @@
           "matchPoints": [
             15,
             0,
-            0,
-            0,
+            15,
+            5,
             0,
             0,
             0,
@@ -27778,7 +27836,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27794,7 +27852,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -27809,12 +27867,12 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 15,
+          "total": 35,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27842,8 +27900,8 @@
           "matchPoints": [
             15,
             0,
-            0,
-            0,
+            12,
+            5,
             0,
             0,
             0,
@@ -27893,14 +27951,14 @@
               "total": 0
             }
           ],
-          "total": 15,
+          "total": 32,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 20,
+      "max": 61,
       "tipsRevealed": true
     },
     {
@@ -88660,61 +88718,61 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 47,
-      "total": 691,
+      "total": 720,
       "rank": 1,
       "finance": 20000
     },
     {
-      "alias": "Richi",
+      "alias": "Andy",
       "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 32.5,
-      "total": 619.5,
+      "exactDoubles": 2,
+      "playerPoints": 33,
+      "total": 650,
       "rank": 2,
       "finance": 15750
     },
     {
-      "alias": "Aleš M.",
-      "roundWins": 1,
+      "alias": "Richi",
+      "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 20,
-      "total": 616,
+      "playerPoints": 33,
+      "total": 650,
       "rank": 3,
       "finance": 12250
     },
     {
-      "alias": "Andy",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 28.5,
-      "total": 610.5,
-      "rank": 4,
-      "finance": 9250
-    },
-    {
       "alias": "RossoNero",
       "roundWins": 0,
-      "exactDoubles": 1,
+      "exactDoubles": 2,
       "playerPoints": 35,
-      "total": 610,
-      "rank": 5,
-      "finance": 6500
+      "total": 645,
+      "rank": 4,
+      "finance": 9250
     },
     {
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 45.5,
-      "total": 607.5,
+      "total": 642.5,
+      "rank": 5,
+      "finance": 6500
+    },
+    {
+      "alias": "Aleš M.",
+      "roundWins": 1,
+      "exactDoubles": 2,
+      "playerPoints": 20,
+      "total": 636,
       "rank": 6,
       "finance": 3750
     },
     {
-      "alias": "Giorgio",
+      "alias": "Pelix",
       "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 33.5,
-      "total": 601.5,
+      "exactDoubles": 2,
+      "playerPoints": 30.5,
+      "total": 635.5,
       "rank": 7,
       "finance": 2500
     },
@@ -88723,124 +88781,124 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 41,
-      "total": 598,
+      "total": 633,
       "rank": 8,
       "finance": 1250
+    },
+    {
+      "alias": "Bajgi",
+      "roundWins": 0,
+      "exactDoubles": 3,
+      "playerPoints": 57.5,
+      "total": 627.5,
+      "rank": 9,
+      "finance": -1500
     },
     {
       "alias": "Mudras",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 40.5,
-      "total": 595.5,
-      "rank": 9,
-      "finance": -1500
-    },
-    {
-      "alias": "Grubis",
-      "roundWins": 2,
-      "exactDoubles": 0,
-      "playerPoints": 43,
-      "total": 595,
+      "total": 624.5,
       "rank": 10,
       "finance": -1750
+    },
+    {
+      "alias": "Giorgio",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 33.5,
+      "total": 624.5,
+      "rank": 11,
+      "finance": -2000
     },
     {
       "alias": "Pospec",
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 41,
-      "total": 595,
-      "rank": 11,
-      "finance": -2000
-    },
-    {
-      "alias": "Pelix",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 30.5,
-      "total": 594.5,
+      "total": 619,
       "rank": 12,
       "finance": -2250
     },
     {
-      "alias": "Bajgi",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 57.5,
-      "total": 586.5,
+      "alias": "Grubis",
+      "roundWins": 2,
+      "exactDoubles": 0,
+      "playerPoints": 43,
+      "total": 618,
       "rank": 13,
       "finance": -2500
     },
     {
-      "alias": "Luke",
+      "alias": "Rommmik26",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 31.5,
-      "total": 586.5,
+      "playerPoints": 40.5,
+      "total": 616.5,
       "rank": 14,
       "finance": -2750
+    },
+    {
+      "alias": "Usťa",
+      "roundWins": 0,
+      "exactDoubles": 3,
+      "playerPoints": 44,
+      "total": 613.5,
+      "rank": 15,
+      "finance": -3000
+    },
+    {
+      "alias": "Závodka",
+      "roundWins": 0,
+      "exactDoubles": 2,
+      "playerPoints": 26.5,
+      "total": 606.5,
+      "rank": 16,
+      "finance": -3250
     },
     {
       "alias": "Dufec",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 33,
-      "total": 583,
-      "rank": 15,
-      "finance": -3000
-    },
-    {
-      "alias": "Rommmik26",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 40.5,
-      "total": 581.5,
-      "rank": 16,
-      "finance": -3250
-    },
-    {
-      "alias": "Usťa",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 44,
-      "total": 568.5,
+      "total": 603,
       "rank": 17,
       "finance": -3500
-    },
-    {
-      "alias": "Závodka",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 26.5,
-      "total": 565.5,
-      "rank": 18,
-      "finance": -3750
     },
     {
       "alias": "Mráva",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 42.5,
-      "total": 565,
+      "playerPoints": 43,
+      "total": 600.5,
+      "rank": 18,
+      "finance": -3750
+    },
+    {
+      "alias": "Luke",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 31.5,
+      "total": 598.5,
       "rank": 19,
       "finance": -4000
     },
     {
-      "alias": "Dominick Z.",
+      "alias": "JR",
       "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 36.5,
-      "total": 557.5,
+      "exactDoubles": 2,
+      "playerPoints": 41,
+      "total": 597,
       "rank": 20,
       "finance": -4250
     },
     {
-      "alias": "JR",
+      "alias": "Kašpec",
       "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 41,
-      "total": 556,
+      "exactDoubles": 2,
+      "playerPoints": 19.5,
+      "total": 584.5,
       "rank": 21,
       "finance": -4500
     },
@@ -88849,16 +88907,16 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 22,
-      "total": 546,
+      "total": 581,
       "rank": 22,
       "finance": -4750
     },
     {
-      "alias": "Kašpec",
+      "alias": "Dominick Z.",
       "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 19.5,
-      "total": 539.5,
+      "exactDoubles": 0,
+      "playerPoints": 36.5,
+      "total": 574.5,
       "rank": 23,
       "finance": -5000
     },
@@ -88867,34 +88925,34 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 28,
-      "total": 539,
+      "total": 556,
       "rank": 24,
       "finance": -5250
+    },
+    {
+      "alias": "Pavel",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 45.5,
+      "total": 551.5,
+      "rank": 25,
+      "finance": -5500
     },
     {
       "alias": "Hasťa",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 58,
-      "total": 522,
-      "rank": 25,
-      "finance": -5500
+      "total": 545,
+      "rank": 26,
+      "finance": -5750
     },
     {
       "alias": "Mezňa",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 34,
-      "total": 522,
-      "rank": 26,
-      "finance": -5750
-    },
-    {
-      "alias": "Pavel",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 45,
-      "total": 518,
+      "total": 545,
       "rank": 27,
       "finance": -6000
     }
@@ -88911,18 +88969,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-24T14:50:45.269621+00:00",
-  "fingerprint": "60fe04b48b9278881bb848888b371fb2102d06ba2fe3f4e3f7b298a3c45ae58c",
+  "generatedAt": "2026-10-24T16:35:01.817176+00:00",
+  "fingerprint": "a15200c504bba2f0d5848c5e9743ab84bdff173ef62f939d3c86a6aeda331514",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-24T14:50:45.270249+00:00",
-    "lastDataChangeAt": "2026-10-24T14:50:45.269621+00:00",
-    "fingerprint": "60fe04b48b9278881bb848888b371fb2102d06ba2fe3f4e3f7b298a3c45ae58c",
+    "lastSuccessfulRunAt": "2026-10-24T16:35:01.817830+00:00",
+    "lastDataChangeAt": "2026-10-24T16:35:01.817176+00:00",
+    "fingerprint": "a15200c504bba2f0d5848c5e9743ab84bdff173ef62f939d3c86a6aeda331514",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-24T14:50:05.508315+00:00",
+      "footballFetchedAt": "2026-10-24T16:34:20.848308+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-24T14:50:03.405Z"
+      "whatsappFetchedAt": "2026-10-24T16:34:19.308Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -88945,8 +89003,8 @@
         "statuses": {
           "did_not_play": 3,
           "manual_override": 7,
-          "pending": 48,
-          "resolved": 374
+          "pending": 40,
+          "resolved": 382
         },
         "methods": {
           "exact": 155,
