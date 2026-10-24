@@ -385,14 +385,14 @@
       "catalogId": "espn:382839",
       "name": "Alysson",
       "team": "Aston Villa",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "250936",
       "catalogId": "espn:250936",
       "name": "Boubacar Kamara",
       "team": "Aston Villa",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "393425",
@@ -427,7 +427,7 @@
       "catalogId": "espn:281125",
       "name": "Ian Maatsen",
       "team": "Aston Villa",
-      "position": "Defender"
+      "position": "Left Back"
     },
     {
       "providerId": "388522",
@@ -448,21 +448,21 @@
       "catalogId": "espn:301524",
       "name": "João Gomes",
       "team": "Aston Villa",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "386992",
       "catalogId": "espn:386992",
       "name": "Johan Manzambi",
       "team": "Aston Villa",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "162843",
       "catalogId": "espn:162843",
       "name": "John McGinn",
       "team": "Aston Villa",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "310607",
@@ -504,7 +504,7 @@
       "catalogId": "espn:234698",
       "name": "Matty Cash",
       "team": "Aston Villa",
-      "position": "Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "308524",
@@ -518,7 +518,7 @@
       "catalogId": "espn:251100",
       "name": "Pau Torres",
       "team": "Aston Villa",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "152469",
@@ -560,7 +560,7 @@
       "catalogId": "espn:204679",
       "name": "Victor Lindelöf",
       "team": "Aston Villa",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "265958",
@@ -2576,7 +2576,7 @@
       "catalogId": "espn:362211",
       "name": "Abdukodir Khusanov",
       "team": "Manchester City",
-      "position": "Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "382966",
@@ -2611,14 +2611,14 @@
       "catalogId": "espn:238472",
       "name": "Elliot Anderson",
       "team": "Manchester City",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "285450",
       "catalogId": "espn:285450",
       "name": "Enzo Fernández",
       "team": "Manchester City",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "253989",
@@ -2653,21 +2653,21 @@
       "catalogId": "espn:268641",
       "name": "Iliman Ndiaye",
       "team": "Manchester City",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "283672",
       "catalogId": "espn:283672",
       "name": "Jérémy Doku",
       "team": "Manchester City",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "299910",
       "catalogId": "espn:299910",
       "name": "Josko Gvardiol",
       "team": "Manchester City",
-      "position": "Defender"
+      "position": "Left Back"
     },
     {
       "providerId": "390094",
@@ -2681,7 +2681,7 @@
       "catalogId": "espn:265907",
       "name": "Marc Guéhi",
       "team": "Manchester City",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "154595",
@@ -2723,7 +2723,7 @@
       "catalogId": "espn:298008",
       "name": "Rayan Cherki",
       "team": "Manchester City",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "325564",
@@ -2737,7 +2737,7 @@
       "catalogId": "espn:234878",
       "name": "Rúben Dias",
       "team": "Manchester City",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "395463",
@@ -25554,7 +25554,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Aston Villa",
+              "scorer": "Nicolas Jackson",
+              "assist": "John McGinn",
+              "minute": "6'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879256"
         },
         {
@@ -88825,18 +88834,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-24T11:32:48.110195+00:00",
-  "fingerprint": "943cb29d9516071e0d4e5c5f8a9d593e0aade265a4943df7c7b5012e7e519fe5",
+  "generatedAt": "2026-10-24T12:40:56.576918+00:00",
+  "fingerprint": "bce7114c3b315e36a30ce4cfd3c02396988d8cafbadc107f41766a7cb3bc0479",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-24T11:32:48.110802+00:00",
-    "lastDataChangeAt": "2026-10-24T11:32:48.110195+00:00",
-    "fingerprint": "943cb29d9516071e0d4e5c5f8a9d593e0aade265a4943df7c7b5012e7e519fe5",
+    "lastSuccessfulRunAt": "2026-10-24T12:40:56.577685+00:00",
+    "lastDataChangeAt": "2026-10-24T12:40:56.576918+00:00",
+    "fingerprint": "bce7114c3b315e36a30ce4cfd3c02396988d8cafbadc107f41766a7cb3bc0479",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-24T11:32:12.793248+00:00",
+      "footballFetchedAt": "2026-10-24T12:40:10.835675+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-24T11:32:10.870Z"
+      "whatsappFetchedAt": "2026-10-24T12:40:08.243Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
