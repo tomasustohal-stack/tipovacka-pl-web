@@ -25652,12 +25652,29 @@
           "away": "Tottenham",
           "id": "chelsea-tottenham",
           "kickoff": "2026-10-24T16:30Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Tottenham",
+              "scorer": "Mike Penders",
+              "assist": "",
+              "minute": "77'",
+              "ownGoal": true,
+              "penalty": false
+            },
+            {
+              "team": "Tottenham",
+              "scorer": "Mathys Tel",
+              "assist": "",
+              "minute": "87'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401878767"
         },
         {
@@ -25866,8 +25883,8 @@
             0
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -25875,7 +25892,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -25883,7 +25900,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -25893,13 +25910,26 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -0.5,
+                  "points": -0.5
+                }
+              ],
               "total": 0
             }
           ],
@@ -25945,7 +25975,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -25954,7 +25984,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -25972,7 +26002,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -26025,7 +26055,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26041,7 +26071,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26056,7 +26086,7 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             }
@@ -26104,7 +26134,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26120,7 +26150,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26135,7 +26165,7 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             }
@@ -26182,7 +26212,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -26191,7 +26221,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26209,7 +26239,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -26262,7 +26292,7 @@
             5,
             30,
             11,
-            0,
+            2,
             0,
             0,
             0,
@@ -26311,7 +26341,7 @@
               "total": 0
             }
           ],
-          "total": 61,
+          "total": 63,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -26353,7 +26383,7 @@
             0.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -26362,7 +26392,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26380,7 +26410,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -26439,7 +26469,7 @@
             0.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -26448,7 +26478,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26466,7 +26496,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -26525,7 +26555,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -26534,7 +26564,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26552,7 +26582,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -26601,11 +26631,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            -1.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26613,7 +26643,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26621,7 +26651,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26631,17 +26661,30 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "red",
+                  "count": 1,
+                  "weight": -2,
+                  "points": -2
+                }
+              ],
+              "total": -1.5
             }
           ],
-          "total": 40,
+          "total": 38.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26683,7 +26726,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -26692,7 +26735,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26710,7 +26753,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -26762,7 +26805,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -26771,7 +26814,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26789,7 +26832,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -26854,7 +26897,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -26863,7 +26906,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -26881,7 +26924,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -27021,11 +27064,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            -2,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -27034,7 +27077,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27052,9 +27095,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "red",
+                  "count": 1,
+                  "weight": -3,
+                  "points": -3
+                }
+              ],
+              "total": -2
             },
             {
               "status": "pending",
@@ -27062,7 +27118,7 @@
               "total": 0
             }
           ],
-          "total": 28,
+          "total": 26,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27104,7 +27160,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -27113,7 +27169,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27131,8 +27187,21 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -1,
+                  "points": -1
+                }
+              ],
               "total": 0
             },
             {
@@ -27183,7 +27252,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -27192,7 +27261,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27210,7 +27279,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -27250,7 +27319,7 @@
             0,
             15,
             5,
-            0,
+            4,
             0,
             0,
             0,
@@ -27262,7 +27331,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -27271,7 +27340,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27289,7 +27358,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -27299,7 +27368,7 @@
               "total": 0
             }
           ],
-          "total": 24,
+          "total": 28,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27341,7 +27410,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -27350,7 +27419,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27368,8 +27437,21 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -1,
+                  "points": -1
+                }
+              ],
               "total": 0
             },
             {
@@ -27420,7 +27502,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -27429,7 +27511,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27447,7 +27529,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -27500,7 +27582,7 @@
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27516,7 +27598,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27544,7 +27626,7 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             }
@@ -27592,7 +27674,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27608,7 +27690,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27623,7 +27705,7 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             }
@@ -27757,7 +27839,7 @@
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27773,7 +27855,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27788,7 +27870,7 @@
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             }
@@ -27835,7 +27917,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -27844,7 +27926,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27862,7 +27944,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -27911,11 +27993,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            -1.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27923,7 +28005,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27931,7 +28013,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -27941,24 +28023,37 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "red",
+                  "count": 1,
+                  "weight": -2,
+                  "points": -2
+                }
+              ],
+              "total": -1.5
             }
           ],
-          "total": 32,
+          "total": 30.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 61,
+      "max": 63,
       "tipsRevealed": true
     },
     {
@@ -88753,8 +88848,8 @@
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 45.5,
-      "total": 642.5,
+      "playerPoints": 44,
+      "total": 641,
       "rank": 5,
       "finance": 6500
     },
@@ -88822,20 +88917,20 @@
       "finance": -2250
     },
     {
-      "alias": "Grubis",
-      "roundWins": 2,
-      "exactDoubles": 0,
-      "playerPoints": 43,
-      "total": 618,
-      "rank": 13,
-      "finance": -2500
-    },
-    {
       "alias": "Rommmik26",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 40.5,
       "total": 616.5,
+      "rank": 13,
+      "finance": -2500
+    },
+    {
+      "alias": "Grubis",
+      "roundWins": 2,
+      "exactDoubles": 0,
+      "playerPoints": 41,
+      "total": 616,
       "rank": 14,
       "finance": -2750
     },
@@ -88853,7 +88948,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 26.5,
-      "total": 606.5,
+      "total": 608.5,
       "rank": 16,
       "finance": -3250
     },
@@ -88862,7 +88957,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 33,
-      "total": 603,
+      "total": 607,
       "rank": 17,
       "finance": -3500
     },
@@ -88924,8 +89019,8 @@
       "alias": "Škardis",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 28,
-      "total": 556,
+      "playerPoints": 26.5,
+      "total": 554.5,
       "rank": 24,
       "finance": -5250
     },
@@ -88969,18 +89064,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-24T16:35:01.817176+00:00",
-  "fingerprint": "a15200c504bba2f0d5848c5e9743ab84bdff173ef62f939d3c86a6aeda331514",
+  "generatedAt": "2026-10-24T19:28:50.215024+00:00",
+  "fingerprint": "447747145ea3c0ff31f71501bca04667e5d5e11e9b0636e51e40fe952ba9837f",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-24T16:35:01.817830+00:00",
-    "lastDataChangeAt": "2026-10-24T16:35:01.817176+00:00",
-    "fingerprint": "a15200c504bba2f0d5848c5e9743ab84bdff173ef62f939d3c86a6aeda331514",
+    "lastSuccessfulRunAt": "2026-10-24T19:28:50.215945+00:00",
+    "lastDataChangeAt": "2026-10-24T19:28:50.215024+00:00",
+    "fingerprint": "447747145ea3c0ff31f71501bca04667e5d5e11e9b0636e51e40fe952ba9837f",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-24T16:34:20.848308+00:00",
+      "footballFetchedAt": "2026-10-24T19:27:23.487037+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-24T16:34:19.308Z"
+      "whatsappFetchedAt": "2026-10-24T19:27:22.227Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -89001,10 +89096,10 @@
       },
       "playerResolution": {
         "statuses": {
-          "did_not_play": 3,
+          "did_not_play": 23,
           "manual_override": 7,
-          "pending": 40,
-          "resolved": 382
+          "pending": 14,
+          "resolved": 388
         },
         "methods": {
           "exact": 155,
