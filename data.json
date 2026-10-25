@@ -35,14 +35,14 @@
       "catalogId": "espn:122268",
       "name": "Adam Smith",
       "team": "AFC Bournemouth",
-      "position": "Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "305684",
       "catalogId": "espn:305684",
       "name": "Adrien Truffert",
       "team": "AFC Bournemouth",
-      "position": "Defender"
+      "position": "Left Back"
     },
     {
       "providerId": "314790",
@@ -77,7 +77,7 @@
       "catalogId": "espn:346588",
       "name": "António Silva",
       "team": "AFC Bournemouth",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "282675",
@@ -126,7 +126,7 @@
       "catalogId": "espn:279155",
       "name": "James Hill",
       "team": "AFC Bournemouth",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "303804",
@@ -154,21 +154,21 @@
       "catalogId": "espn:245916",
       "name": "Justin Kluivert",
       "team": "AFC Bournemouth",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "223452",
       "catalogId": "espn:223452",
       "name": "Lewis Cook",
       "team": "AFC Bournemouth",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "243364",
       "catalogId": "espn:243364",
       "name": "Marcus Tavernier",
       "team": "AFC Bournemouth",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "240055",
@@ -182,7 +182,7 @@
       "catalogId": "espn:357719",
       "name": "Rayan",
       "team": "AFC Bournemouth",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "93435",
@@ -196,7 +196,7 @@
       "catalogId": "espn:222776",
       "name": "Tyler Adams",
       "team": "AFC Bournemouth",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "291269",
@@ -581,7 +581,7 @@
       "catalogId": "espn:283940",
       "name": "Aaron Hickey",
       "team": "Brentford",
-      "position": "Attacking Midfielder Right"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "362266",
@@ -609,7 +609,7 @@
       "catalogId": "espn:315530",
       "name": "Dango Ouattara",
       "team": "Brentford",
-      "position": "Attacking Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "359796",
@@ -693,14 +693,14 @@
       "catalogId": "espn:228547",
       "name": "Mamadou Sangare",
       "team": "Brentford",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "227472",
       "catalogId": "espn:227472",
       "name": "Mathias Jensen",
       "team": "Brentford",
-      "position": "Right Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "356640",
@@ -777,7 +777,7 @@
       "catalogId": "espn:387489",
       "name": "Chema Andrés",
       "team": "Brighton & Hove Albion",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "274285",
@@ -791,14 +791,14 @@
       "catalogId": "espn:192278",
       "name": "Diego Gómez",
       "team": "Brighton & Hove Albion",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "238318",
       "catalogId": "espn:238318",
       "name": "Ferdi Kadioglu",
       "team": "Brighton & Hove Albion",
-      "position": "Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "278061",
@@ -840,14 +840,14 @@
       "catalogId": "espn:147106",
       "name": "Lewis Dunk",
       "team": "Brighton & Hove Albion",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "364962",
       "catalogId": "espn:364962",
       "name": "Luka Vuskovic",
       "team": "Brighton & Hove Albion",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "359097",
@@ -875,7 +875,7 @@
       "catalogId": "espn:301327",
       "name": "Maxim De Cuyper",
       "team": "Brighton & Hove Albion",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "289942",
@@ -896,14 +896,14 @@
       "catalogId": "espn:216017",
       "name": "Olivier Boscagli",
       "team": "Brighton & Hove Albion",
-      "position": "Defender"
+      "position": "Left Back"
     },
     {
       "providerId": "132659",
       "catalogId": "espn:132659",
       "name": "Pascal Gross",
       "team": "Brighton & Hove Albion",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "246771",
@@ -924,7 +924,7 @@
       "catalogId": "espn:304242",
       "name": "Yasin Ayari",
       "team": "Brighton & Hove Albion",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "413274",
@@ -1316,21 +1316,21 @@
       "catalogId": "espn:333419",
       "name": "Adam Wharton",
       "team": "Crystal Palace",
-      "position": "Midfielder"
+      "position": "Center Right Midfielder"
     },
     {
       "providerId": "332648",
       "catalogId": "espn:332648",
       "name": "Anan Khalaili",
       "team": "Crystal Palace",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "231718",
       "catalogId": "espn:231718",
       "name": "Axel Disasi",
       "team": "Crystal Palace",
-      "position": "Defender"
+      "position": "Center Defender"
     },
     {
       "providerId": "225426",
@@ -1365,14 +1365,14 @@
       "catalogId": "espn:272585",
       "name": "Chris Richards",
       "team": "Crystal Palace",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "219362",
       "catalogId": "espn:219362",
       "name": "Daichi Kamada",
       "team": "Crystal Palace",
-      "position": "Midfielder"
+      "position": "Center Left Midfielder"
     },
     {
       "providerId": "315668",
@@ -1393,7 +1393,7 @@
       "catalogId": "espn:273495",
       "name": "Dwight McNeil",
       "team": "Crystal Palace",
-      "position": "Midfielder"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "259486",
@@ -1428,7 +1428,7 @@
       "catalogId": "espn:386252",
       "name": "Jaydee Canvot",
       "team": "Crystal Palace",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "241187",
@@ -1484,7 +1484,7 @@
       "catalogId": "espn:300853",
       "name": "Tyrick Mitchell",
       "team": "Crystal Palace",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "195738",
@@ -1505,7 +1505,7 @@
       "catalogId": "espn:297370",
       "name": "Yéremy Pino",
       "team": "Crystal Palace",
-      "position": "Midfielder"
+      "position": "Center Left Forward"
     },
     {
       "providerId": "374519",
@@ -2254,7 +2254,7 @@
       "catalogId": "espn:304802",
       "name": "Anton Stach",
       "team": "Leeds United",
-      "position": "Center Right Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "253173",
@@ -2268,7 +2268,7 @@
       "catalogId": "espn:259653",
       "name": "Brenden Aaronson",
       "team": "Leeds United",
-      "position": "Substitute"
+      "position": "Center Left Forward"
     },
     {
       "providerId": "203072",
@@ -2303,7 +2303,7 @@
       "catalogId": "espn:194801",
       "name": "Harry Wilson",
       "team": "Leeds United",
-      "position": "Substitute"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "30116",
@@ -2317,7 +2317,7 @@
       "catalogId": "espn:274649",
       "name": "Jaka Bijol",
       "team": "Leeds United",
-      "position": "Substitute"
+      "position": "Center Defender"
     },
     {
       "providerId": "231863",
@@ -2401,7 +2401,7 @@
       "catalogId": "espn:270641",
       "name": "Noah Okafor",
       "team": "Leeds United",
-      "position": "Center Left Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "251658",
@@ -2436,7 +2436,7 @@
       "catalogId": "espn:249299",
       "name": "Alexis Mac Allister",
       "team": "Liverpool",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "196876",
@@ -2450,14 +2450,14 @@
       "catalogId": "espn:328238",
       "name": "Bradley Barcola",
       "team": "Liverpool",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "249524",
       "catalogId": "espn:249524",
       "name": "Cody Gakpo",
       "team": "Liverpool",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "257206",
@@ -2478,7 +2478,7 @@
       "catalogId": "espn:303748",
       "name": "Florian Wirtz",
       "team": "Liverpool",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "274742",
@@ -2506,7 +2506,7 @@
       "catalogId": "espn:355980",
       "name": "Jérémy Jacquet",
       "team": "Liverpool",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "102053",
@@ -2534,7 +2534,7 @@
       "catalogId": "espn:323110",
       "name": "Milos Kerkez",
       "team": "Liverpool",
-      "position": "Defender"
+      "position": "Left Back"
     },
     {
       "providerId": "379588",
@@ -2548,14 +2548,14 @@
       "catalogId": "espn:270821",
       "name": "Ronald Araujo",
       "team": "Liverpool",
-      "position": "Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "274632",
       "catalogId": "espn:274632",
       "name": "Ryan Gravenberch",
       "team": "Liverpool",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "356075",
@@ -2576,7 +2576,7 @@
       "catalogId": "espn:157892",
       "name": "Virgil van Dijk",
       "team": "Liverpool",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "152479",
@@ -2772,21 +2772,21 @@
       "catalogId": "espn:291630",
       "name": "Amad Diallo",
       "team": "Manchester United",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "314858",
       "catalogId": "espn:314858",
       "name": "Andrey Santos",
       "team": "Manchester United",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "356044",
       "catalogId": "espn:356044",
       "name": "Ayden Heaven",
       "team": "Manchester United",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "289155",
@@ -2814,14 +2814,14 @@
       "catalogId": "espn:338814",
       "name": "Carlos Baleba",
       "team": "Manchester United",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "238902",
       "catalogId": "espn:238902",
       "name": "Diogo Dalot",
       "team": "Manchester United",
-      "position": "Defender"
+      "position": "Left Back"
     },
     {
       "providerId": "356940",
@@ -2835,7 +2835,7 @@
       "catalogId": "espn:157073",
       "name": "Harry Maguire",
       "team": "Manchester United",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "276327",
@@ -2863,7 +2863,7 @@
       "catalogId": "espn:340206",
       "name": "Leny Yoro",
       "team": "Manchester United",
-      "position": "Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "233937",
@@ -2891,7 +2891,7 @@
       "catalogId": "espn:231167",
       "name": "Mason Mount",
       "team": "Manchester United",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "259902",
@@ -2947,7 +2947,7 @@
       "catalogId": "espn:193297",
       "name": "Youri Tielemans",
       "team": "Manchester United",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "396630",
@@ -2961,7 +2961,7 @@
       "catalogId": "espn:308979",
       "name": "Amar Dedic",
       "team": "Newcastle United",
-      "position": "Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "296622",
@@ -2982,7 +2982,7 @@
       "catalogId": "espn:198138",
       "name": "Dan Burn",
       "team": "Newcastle United",
-      "position": "Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "347523",
@@ -2996,21 +2996,21 @@
       "catalogId": "espn:179233",
       "name": "Fabian Schär",
       "team": "Newcastle United",
-      "position": "Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "243386",
       "catalogId": "espn:243386",
       "name": "Harvey Barnes",
       "team": "Newcastle United",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "172836",
       "catalogId": "espn:172836",
       "name": "Jacob Murphy",
       "team": "Newcastle United",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "286090",
@@ -3024,14 +3024,14 @@
       "catalogId": "espn:259517",
       "name": "Joe Willock",
       "team": "Newcastle United",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "202232",
       "catalogId": "espn:202232",
       "name": "Joelinton",
       "team": "Newcastle United",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "414116",
@@ -3052,7 +3052,7 @@
       "catalogId": "espn:106139",
       "name": "Lewis Hall",
       "team": "Newcastle United",
-      "position": "Defender"
+      "position": "Left Back"
     },
     {
       "providerId": "349078",
@@ -3122,7 +3122,7 @@
       "catalogId": "espn:323986",
       "name": "Nico González",
       "team": "Newcastle United",
-      "position": "Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "384372",
@@ -3346,7 +3346,7 @@
       "catalogId": "espn:356295",
       "name": "Chris Rigg",
       "team": "Sunderland",
-      "position": "Attacking Midfielder"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "282645",
@@ -3367,7 +3367,7 @@
       "catalogId": "espn:288340",
       "name": "Enzo Le Fée",
       "team": "Sunderland",
-      "position": "Attacking Midfielder Left"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "149981",
@@ -3416,7 +3416,7 @@
       "catalogId": "espn:191574",
       "name": "Luke O'Nien",
       "team": "Sunderland",
-      "position": "Substitute"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "340645",
@@ -3437,7 +3437,7 @@
       "catalogId": "espn:318090",
       "name": "Nilson Angulo",
       "team": "Sunderland",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "340240",
@@ -3451,14 +3451,14 @@
       "catalogId": "espn:214188",
       "name": "Nordi Mukiele",
       "team": "Sunderland",
-      "position": "Right Back"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "215401",
       "catalogId": "espn:215401",
       "name": "Omar Alderete",
       "team": "Sunderland",
-      "position": "Center Left Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "230081",
@@ -3493,14 +3493,14 @@
       "catalogId": "espn:290207",
       "name": "Trai Hume",
       "team": "Sunderland",
-      "position": "Attacking Midfielder Right"
+      "position": "Right Back"
     },
     {
       "providerId": "387460",
       "catalogId": "espn:387460",
       "name": "Tymur Tutierov",
       "team": "Sunderland",
-      "position": "Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "265915",
@@ -25698,12 +25698,29 @@
           "away": "Brighton",
           "id": "liverpool-brighton",
           "kickoff": "2026-10-25T14:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Liverpool",
+              "scorer": "Pascal Gross",
+              "assist": "",
+              "minute": "17'",
+              "ownGoal": true,
+              "penalty": false
+            },
+            {
+              "team": "Liverpool",
+              "scorer": "Alexander Isak",
+              "assist": "Bradley Barcola",
+              "minute": "21'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401878765"
         },
         {
@@ -25713,12 +25730,29 @@
           "away": "Brentford",
           "id": "hull-brentford",
           "kickoff": "2026-10-25T14:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Hull",
+              "scorer": "Oliver McBurnie",
+              "assist": "",
+              "minute": "24'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "Brentford",
+              "scorer": "Dango Ouattara",
+              "assist": "Igor Thiago",
+              "minute": "63'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401878766"
         },
         {
@@ -25728,12 +25762,37 @@
           "away": "Bournemouth",
           "id": "manchesterunited-bournemouth",
           "kickoff": "2026-10-25T14:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 3,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Bournemouth",
+              "scorer": "Rayan",
+              "assist": "Justin Kluivert",
+              "minute": "38'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Bournemouth",
+              "scorer": "Marcus Tavernier",
+              "assist": "Adrien Truffert",
+              "minute": "43'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Bournemouth",
+              "scorer": "Evanilson",
+              "assist": "Lewis Cook",
+              "minute": "71'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879252"
         },
         {
@@ -25743,12 +25802,29 @@
           "away": "Newcastle",
           "id": "crystalpalace-newcastle",
           "kickoff": "2026-10-25T14:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Newcastle",
+              "scorer": "William Osula",
+              "assist": "Jacob Murphy",
+              "minute": "47'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Newcastle",
+              "scorer": "Harvey Barnes",
+              "assist": "Amar Dedic",
+              "minute": "58'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879254"
         },
         {
@@ -25794,10 +25870,10 @@
             30,
             5,
             0,
+            12,
+            5,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -25855,7 +25931,7 @@
               "total": 4.5
             }
           ],
-          "total": 44.5,
+          "total": 73.5,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -25886,10 +25962,10 @@
             24,
             0,
             0,
+            12,
+            15,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -25947,7 +26023,7 @@
               "total": 0
             }
           ],
-          "total": 34,
+          "total": 73,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -25978,19 +26054,19 @@
             24,
             11,
             0,
+            4,
+            5,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
             0,
-            0
+            2
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26006,7 +26082,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -26021,12 +26097,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 2
             }
           ],
-          "total": 40,
+          "total": 63,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26057,18 +26146,18 @@
             30,
             15,
             0,
+            4,
+            13,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
-            0,
+            1,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -26077,7 +26166,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester United",
@@ -26095,9 +26184,16 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
               "status": "did_not_play",
@@ -26105,7 +26201,7 @@
               "total": 0
             }
           ],
-          "total": 50,
+          "total": 80,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -26136,18 +26232,18 @@
             12,
             11,
             0,
+            12,
+            5,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
-            0,
+            6,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -26156,7 +26252,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Liverpool",
@@ -26174,9 +26270,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "did_not_play",
@@ -26184,7 +26293,7 @@
               "total": 0
             }
           ],
-          "total": 28,
+          "total": 63,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26215,10 +26324,10 @@
             24,
             5,
             0,
+            4,
+            5,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -26276,7 +26385,7 @@
               "total": 0
             }
           ],
-          "total": 34,
+          "total": 55,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26308,18 +26417,18 @@
             11,
             2,
             0,
-            0,
-            0,
-            0,
+            13,
+            11,
+            4,
             0
           ],
           "playerPoints": [
-            0,
-            0
+            1,
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26327,7 +26436,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brighton & Hove Albion",
@@ -26335,7 +26444,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -26345,17 +26454,37 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 63,
+          "total": 95.5,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -26386,10 +26515,10 @@
             22,
             11,
             0,
+            2,
+            5,
             0,
-            0,
-            0,
-            0,
+            2,
             0
           ],
           "playerPoints": [
@@ -26441,7 +26570,7 @@
               "total": 0.5
             }
           ],
-          "total": 48.5,
+          "total": 57.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26472,10 +26601,10 @@
             30,
             0,
             0,
+            12,
+            15,
             0,
-            0,
-            0,
-            0,
+            2,
             0
           ],
           "playerPoints": [
@@ -26527,7 +26656,7 @@
               "total": 0.5
             }
           ],
-          "total": 45.5,
+          "total": 74.5,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -26558,19 +26687,19 @@
             24,
             5,
             0,
-            0,
-            0,
+            2,
+            15,
             0,
             0,
             0
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -26586,7 +26715,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester United",
@@ -26601,12 +26730,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 44,
+          "total": 61.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26637,10 +26773,10 @@
             24,
             11,
             0,
+            12,
+            5,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -26698,7 +26834,7 @@
               "total": -1.5
             }
           ],
-          "total": 38.5,
+          "total": 67.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -26729,10 +26865,10 @@
             30,
             11,
             0,
+            12,
+            5,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -26777,7 +26913,7 @@
               "total": 0
             }
           ],
-          "total": 46,
+          "total": 75,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -26808,10 +26944,10 @@
             30,
             15,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            5,
+            11,
+            12,
             0
           ],
           "playerPoints": [
@@ -26869,7 +27005,7 @@
               "total": 0
             }
           ],
-          "total": 50,
+          "total": 82,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -26900,8 +27036,8 @@
             30,
             5,
             0,
-            0,
-            0,
+            12,
+            13,
             0,
             0,
             0
@@ -26948,7 +27084,7 @@
               "total": 0
             }
           ],
-          "total": 45,
+          "total": 70,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -26980,18 +27116,18 @@
             0,
             0,
             0,
+            5,
             0,
-            0,
-            0,
+            2,
             0
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27007,7 +27143,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester United",
@@ -27035,12 +27171,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 27,
+          "total": 34.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27071,19 +27214,19 @@
             12,
             11,
             0,
+            10,
+            5,
             0,
-            0,
-            0,
-            0,
+            2,
             0
           ],
           "playerPoints": [
             -2,
-            0
+            3.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27099,7 +27242,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Liverpool",
@@ -27127,12 +27270,25 @@
               "total": -2
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 26,
+          "total": 46.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27163,10 +27319,10 @@
             12,
             11,
             0,
+            12,
+            5,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -27224,7 +27380,7 @@
               "total": 0
             }
           ],
-          "total": 28,
+          "total": 57,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27255,19 +27411,19 @@
             24,
             11,
             0,
-            0,
-            0,
-            0,
+            12,
+            5,
+            11,
             0,
             0
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27283,7 +27439,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Liverpool",
@@ -27298,12 +27454,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 40,
+          "total": 71.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27334,10 +27503,10 @@
             15,
             5,
             4,
+            12,
+            2,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
@@ -27382,7 +27551,7 @@
               "total": 0
             }
           ],
-          "total": 28,
+          "total": 54,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27413,19 +27582,19 @@
             30,
             11,
             0,
-            0,
-            0,
+            12,
+            5,
             0,
             0,
             0
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -27441,7 +27610,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Liverpool",
@@ -27469,12 +27638,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 56,
+          "total": 76.5,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -27505,10 +27687,10 @@
             12,
             5,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            5,
+            11,
+            2,
             0
           ],
           "playerPoints": [
@@ -27553,7 +27735,7 @@
               "total": 0
             }
           ],
-          "total": 27,
+          "total": 49,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27584,10 +27766,10 @@
             30,
             11,
             0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            5,
+            11,
+            4,
             0
           ],
           "playerPoints": [
@@ -27645,7 +27827,7 @@
               "total": 0
             }
           ],
-          "total": 46,
+          "total": 78,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -27676,18 +27858,18 @@
             12,
             11,
             0,
+            2,
+            10,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
-            0,
+            4,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -27696,7 +27878,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -27714,9 +27896,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 4
             },
             {
               "status": "did_not_play",
@@ -27724,7 +27919,7 @@
               "total": 0
             }
           ],
-          "total": 28,
+          "total": 56,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27755,18 +27950,18 @@
             24,
             11,
             0,
+            12,
+            2,
             0,
-            0,
-            0,
-            0,
+            12,
             0
           ],
           "playerPoints": [
-            0,
+            4,
             0.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -27775,7 +27970,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -27793,9 +27988,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 4
             },
             {
               "status": "resolved",
@@ -27810,7 +28018,7 @@
               "total": 0.5
             }
           ],
-          "total": 55.5,
+          "total": 85.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -27841,10 +28049,10 @@
             30,
             5,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            5,
+            11,
+            2,
             0
           ],
           "playerPoints": [
@@ -27889,7 +28097,7 @@
               "total": 0
             }
           ],
-          "total": 40,
+          "total": 62,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -27920,10 +28128,10 @@
             15,
             5,
             0,
+            12,
+            15,
             0,
-            0,
-            0,
-            0,
+            2,
             0
           ],
           "playerPoints": [
@@ -27968,7 +28176,7 @@
               "total": 0
             }
           ],
-          "total": 35,
+          "total": 64,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28000,7 +28208,7 @@
             5,
             0,
             0,
-            0,
+            5,
             0,
             0,
             0
@@ -28060,14 +28268,14 @@
               "total": -1.5
             }
           ],
-          "total": 30.5,
+          "total": 35.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 63,
+      "max": 95.5,
       "tipsRevealed": true
     },
     {
@@ -88826,8 +89034,8 @@
       "alias": "Dvorek",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 47,
-      "total": 720,
+      "playerPoints": 47.5,
+      "total": 737.5,
       "rank": 1,
       "finance": 20000
     },
@@ -88836,7 +89044,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 33,
-      "total": 650,
+      "total": 679,
       "rank": 2,
       "finance": 15750
     },
@@ -88845,25 +89053,25 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 33,
-      "total": 650,
+      "total": 679,
       "rank": 3,
       "finance": 12250
-    },
-    {
-      "alias": "RossoNero",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 35,
-      "total": 645,
-      "rank": 4,
-      "finance": 9250
     },
     {
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 44,
-      "total": 641,
+      "total": 670,
+      "rank": 4,
+      "finance": 9250
+    },
+    {
+      "alias": "RossoNero",
+      "roundWins": 0,
+      "exactDoubles": 2,
+      "playerPoints": 35,
+      "total": 667,
       "rank": 5,
       "finance": 6500
     },
@@ -88872,97 +89080,97 @@
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 20,
-      "total": 636,
+      "total": 665,
       "rank": 6,
       "finance": 3750
-    },
-    {
-      "alias": "Pelix",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 30.5,
-      "total": 635.5,
-      "rank": 7,
-      "finance": 2500
     },
     {
       "alias": "Peloš",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 41,
-      "total": 633,
-      "rank": 8,
-      "finance": 1250
+      "playerPoints": 44.5,
+      "total": 664.5,
+      "rank": 7,
+      "finance": 2500
     },
     {
       "alias": "Bajgi",
       "roundWins": 0,
       "exactDoubles": 3,
       "playerPoints": 57.5,
-      "total": 627.5,
-      "rank": 9,
-      "finance": -1500
-    },
-    {
-      "alias": "Mudras",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 40.5,
-      "total": 624.5,
-      "rank": 10,
-      "finance": -1750
+      "total": 659.5,
+      "rank": 8,
+      "finance": 1250
     },
     {
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 33.5,
-      "total": 624.5,
-      "rank": 11,
-      "finance": -2000
+      "playerPoints": 39.5,
+      "total": 659.5,
+      "rank": 9,
+      "finance": -1500
     },
     {
       "alias": "Pospec",
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 41,
-      "total": 619,
+      "total": 658,
+      "rank": 10,
+      "finance": -1750
+    },
+    {
+      "alias": "Pelix",
+      "roundWins": 0,
+      "exactDoubles": 2,
+      "playerPoints": 34,
+      "total": 656,
+      "rank": 11,
+      "finance": -2000
+    },
+    {
+      "alias": "Mudras",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 40.5,
+      "total": 645.5,
       "rank": 12,
       "finance": -2250
+    },
+    {
+      "alias": "Usťa",
+      "roundWins": 0,
+      "exactDoubles": 3,
+      "playerPoints": 45,
+      "total": 643.5,
+      "rank": 13,
+      "finance": -2500
     },
     {
       "alias": "Rommmik26",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 40.5,
-      "total": 616.5,
-      "rank": 13,
-      "finance": -2500
-    },
-    {
-      "alias": "Grubis",
-      "roundWins": 2,
-      "exactDoubles": 0,
-      "playerPoints": 41,
-      "total": 616,
+      "total": 641.5,
       "rank": 14,
       "finance": -2750
-    },
-    {
-      "alias": "Usťa",
-      "roundWins": 0,
-      "exactDoubles": 3,
-      "playerPoints": 44,
-      "total": 613.5,
-      "rank": 15,
-      "finance": -3000
     },
     {
       "alias": "Závodka",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 26.5,
-      "total": 608.5,
+      "playerPoints": 31,
+      "total": 641,
+      "rank": 15,
+      "finance": -3000
+    },
+    {
+      "alias": "Grubis",
+      "roundWins": 2,
+      "exactDoubles": 0,
+      "playerPoints": 44.5,
+      "total": 636.5,
       "rank": 16,
       "finance": -3250
     },
@@ -88971,7 +89179,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 33,
-      "total": 607,
+      "total": 633,
       "rank": 17,
       "finance": -3500
     },
@@ -88979,35 +89187,35 @@
       "alias": "Mráva",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 43,
-      "total": 600.5,
+      "playerPoints": 47,
+      "total": 630.5,
       "rank": 18,
       "finance": -3750
-    },
-    {
-      "alias": "Luke",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 31.5,
-      "total": 598.5,
-      "rank": 19,
-      "finance": -4000
     },
     {
       "alias": "JR",
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 41,
-      "total": 597,
-      "rank": 20,
-      "finance": -4250
+      "total": 626,
+      "rank": 19,
+      "finance": -4000
     },
     {
       "alias": "Kašpec",
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 19.5,
-      "total": 584.5,
+      "total": 616.5,
+      "rank": 20,
+      "finance": -4250
+    },
+    {
+      "alias": "Luke",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 32,
+      "total": 606,
       "rank": 21,
       "finance": -4500
     },
@@ -89015,8 +89223,8 @@
       "alias": "Maara",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 22,
-      "total": 581,
+      "playerPoints": 24,
+      "total": 604,
       "rank": 22,
       "finance": -4750
     },
@@ -89025,43 +89233,43 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 36.5,
-      "total": 574.5,
+      "total": 596.5,
       "rank": 23,
       "finance": -5000
-    },
-    {
-      "alias": "Škardis",
-      "roundWins": 1,
-      "exactDoubles": 1,
-      "playerPoints": 26.5,
-      "total": 554.5,
-      "rank": 24,
-      "finance": -5250
-    },
-    {
-      "alias": "Pavel",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 45.5,
-      "total": 551.5,
-      "rank": 25,
-      "finance": -5500
     },
     {
       "alias": "Hasťa",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 58,
-      "total": 545,
-      "rank": 26,
-      "finance": -5750
+      "total": 574,
+      "rank": 24,
+      "finance": -5250
     },
     {
       "alias": "Mezňa",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 34,
-      "total": 545,
+      "playerPoints": 38,
+      "total": 573,
+      "rank": 25,
+      "finance": -5500
+    },
+    {
+      "alias": "Pavel",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 45.5,
+      "total": 560.5,
+      "rank": 26,
+      "finance": -5750
+    },
+    {
+      "alias": "Škardis",
+      "roundWins": 1,
+      "exactDoubles": 1,
+      "playerPoints": 26.5,
+      "total": 559.5,
       "rank": 27,
       "finance": -6000
     }
@@ -89078,18 +89286,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-25T13:12:48.865861+00:00",
-  "fingerprint": "8a2fc9942877a64c8ed1f678fef95fb47d81c5a338a26dfa2b0ab12ece548de6",
+  "generatedAt": "2026-10-25T16:47:57.786019+00:00",
+  "fingerprint": "38f1499c5bb8f336a0482a428c439c1d5297b4fc0b55ab89334f5e8c375e525b",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-25T13:12:48.866631+00:00",
-    "lastDataChangeAt": "2026-10-25T13:12:48.865861+00:00",
-    "fingerprint": "8a2fc9942877a64c8ed1f678fef95fb47d81c5a338a26dfa2b0ab12ece548de6",
+    "lastSuccessfulRunAt": "2026-10-25T16:47:57.786715+00:00",
+    "lastDataChangeAt": "2026-10-25T16:47:57.786019+00:00",
+    "fingerprint": "38f1499c5bb8f336a0482a428c439c1d5297b4fc0b55ab89334f5e8c375e525b",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-25T13:11:12.371304+00:00",
+      "footballFetchedAt": "2026-10-25T16:47:07.640960+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-25T13:11:10.854Z"
+      "whatsappFetchedAt": "2026-10-25T16:47:05.398Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -89112,8 +89320,8 @@
         "statuses": {
           "did_not_play": 23,
           "manual_override": 7,
-          "pending": 14,
-          "resolved": 388
+          "pending": 2,
+          "resolved": 400
         },
         "methods": {
           "exact": 155,
