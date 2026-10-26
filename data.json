@@ -30038,7 +30038,7 @@
         },
         {
           "alias": "Mráva",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -89289,29 +89289,29 @@
     }
   ],
   "news": {
-    "round": 7,
+    "round": 8,
     "groupMoment": {
-      "nick": "Andy",
-      "submittedAt": "2026-01-17T13:33:00.000Z",
-      "text": "Není...!!",
-      "reactions": 23,
+      "nick": "Závodka",
+      "submittedAt": "2026-01-17T13:32:39.000Z",
+      "text": "Gio je nejakej den kdy nedrzis sklenicku sana v ruce?🙂",
+      "reactions": 22,
       "comments": 12
     }
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-25T19:56:41.843542+00:00",
-  "fingerprint": "e9d5b0e4f8fdb9f7b1a3babec2707214a673722005dfd471ebe13f41bf8c4ff4",
+  "generatedAt": "2026-10-26T07:46:53.326348+00:00",
+  "fingerprint": "54c02bd341e31cabd3bf53f88e642f810f26fa87dfcbd89c6a5a09b63f1a6819",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-25T19:56:41.844402+00:00",
-    "lastDataChangeAt": "2026-10-25T19:56:41.843542+00:00",
-    "fingerprint": "e9d5b0e4f8fdb9f7b1a3babec2707214a673722005dfd471ebe13f41bf8c4ff4",
+    "lastSuccessfulRunAt": "2026-10-26T07:46:53.327125+00:00",
+    "lastDataChangeAt": "2026-10-26T07:46:53.326348+00:00",
+    "fingerprint": "54c02bd341e31cabd3bf53f88e642f810f26fa87dfcbd89c6a5a09b63f1a6819",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-25T19:56:00.821771+00:00",
+      "footballFetchedAt": "2026-10-26T07:45:27.594492+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-25T19:55:59.016Z"
+      "whatsappFetchedAt": "2026-10-26T07:45:26.854Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
