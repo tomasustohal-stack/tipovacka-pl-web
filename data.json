@@ -161,7 +161,7 @@
       "catalogId": "espn:223452",
       "name": "Lewis Cook",
       "team": "AFC Bournemouth",
-      "position": "Left Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "243364",
@@ -189,7 +189,7 @@
       "catalogId": "espn:93435",
       "name": "Ryan Christie",
       "team": "AFC Bournemouth",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "222776",
@@ -581,7 +581,7 @@
       "catalogId": "espn:283940",
       "name": "Aaron Hickey",
       "team": "Brentford",
-      "position": "Left Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "362266",
@@ -609,7 +609,7 @@
       "catalogId": "espn:315530",
       "name": "Dango Ouattara",
       "team": "Brentford",
-      "position": "Attacking Midfielder Right"
+      "position": "Right Forward"
     },
     {
       "providerId": "359796",
@@ -679,14 +679,14 @@
       "catalogId": "espn:310958",
       "name": "Kevin Schade",
       "team": "Brentford",
-      "position": "Attacking Midfielder Left"
+      "position": "Left Forward"
     },
     {
       "providerId": "206173",
       "catalogId": "espn:206173",
       "name": "Kristoffer Ajer",
       "team": "Brentford",
-      "position": "Center Left Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "228547",
@@ -700,7 +700,7 @@
       "catalogId": "espn:227472",
       "name": "Mathias Jensen",
       "team": "Brentford",
-      "position": "Attacking Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "356640",
@@ -735,14 +735,14 @@
       "catalogId": "espn:270507",
       "name": "Sepp van den Berg",
       "team": "Brentford",
-      "position": "Center Right Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "225564",
       "catalogId": "espn:225564",
       "name": "Vitaly Janelt",
       "team": "Brentford",
-      "position": "Left Midfielder"
+      "position": "Center Midfielder"
     },
     {
       "providerId": "342029",
@@ -784,7 +784,7 @@
       "catalogId": "espn:274285",
       "name": "Costinha",
       "team": "Brighton & Hove Albion",
-      "position": "Substitute"
+      "position": "Right Back"
     },
     {
       "providerId": "192278",
@@ -861,7 +861,7 @@
       "catalogId": "espn:282186",
       "name": "Mats Wieffer",
       "team": "Brighton & Hove Albion",
-      "position": "Right Back"
+      "position": "Substitute"
     },
     {
       "providerId": "261087",
@@ -916,6 +916,13 @@
       "providerId": "318522",
       "catalogId": "espn:318522",
       "name": "Promise David",
+      "team": "Brighton & Hove Albion",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "348787",
+      "catalogId": "espn:348787",
+      "name": "Yankuba Minteh",
       "team": "Brighton & Hove Albion",
       "position": "Substitute"
     },
@@ -1162,7 +1169,7 @@
       "catalogId": "espn:240495",
       "name": "Brandon Thomas-Asante",
       "team": "Coventry City",
-      "position": "Attacking Midfielder Left"
+      "position": "Substitute"
     },
     {
       "providerId": "387659",
@@ -1274,7 +1281,7 @@
       "catalogId": "espn:191337",
       "name": "Matt Grimes",
       "team": "Coventry City",
-      "position": "Left Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "281139",
@@ -1288,21 +1295,21 @@
       "catalogId": "espn:366817",
       "name": "Sidiki Cherif",
       "team": "Coventry City",
-      "position": "Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "374220",
       "catalogId": "espn:374220",
       "name": "Stephen Mfuni",
       "team": "Coventry City",
-      "position": "Substitute"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "194686",
       "catalogId": "espn:194686",
       "name": "Taiwo Awoniyi",
       "team": "Coventry City",
-      "position": "Substitute"
+      "position": "Forward"
     },
     {
       "providerId": "302002",
@@ -1316,14 +1323,14 @@
       "catalogId": "espn:256015",
       "name": "Victor Torp",
       "team": "Coventry City",
-      "position": "Substitute"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "277383",
       "catalogId": "espn:277383",
       "name": "Yann Gboho",
       "team": "Coventry City",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "333419",
@@ -1981,7 +1988,7 @@
       "catalogId": "espn:392320",
       "name": "Lucas Herrington",
       "team": "Hull City",
-      "position": "Center Left Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "153613",
@@ -2128,7 +2135,7 @@
       "catalogId": "espn:243440",
       "name": "Dara O'Shea",
       "team": "Ipswich Town",
-      "position": "Center Left Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "215075",
@@ -2149,7 +2156,7 @@
       "catalogId": "espn:228393",
       "name": "Exequiel Palacios",
       "team": "Ipswich Town",
-      "position": "Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "318680",
@@ -2163,14 +2170,14 @@
       "catalogId": "espn:256607",
       "name": "Florentino",
       "team": "Ipswich Town",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "230963",
       "catalogId": "espn:230963",
       "name": "Issa Diop",
       "team": "Ipswich Town",
-      "position": "Center Right Defender"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "269343",
@@ -2282,14 +2289,14 @@
       "catalogId": "espn:259653",
       "name": "Brenden Aaronson",
       "team": "Leeds United",
-      "position": "Center Left Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "203072",
       "catalogId": "espn:203072",
       "name": "Daniel James",
       "team": "Leeds United",
-      "position": "Substitute"
+      "position": "Center Left Forward"
     },
     {
       "providerId": "197717",
@@ -2331,7 +2338,7 @@
       "catalogId": "espn:274649",
       "name": "Jaka Bijol",
       "team": "Leeds United",
-      "position": "Center Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "231863",
@@ -2604,7 +2611,7 @@
       "catalogId": "espn:362211",
       "name": "Abdukodir Khusanov",
       "team": "Manchester City",
-      "position": "Right Back"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "382966",
@@ -2625,7 +2632,7 @@
       "catalogId": "espn:373927",
       "name": "Ayyoub Bouaddi",
       "team": "Manchester City",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "361355",
@@ -2639,7 +2646,7 @@
       "catalogId": "espn:238472",
       "name": "Elliot Anderson",
       "team": "Manchester City",
-      "position": "Right Midfielder"
+      "position": "Center Midfielder"
     },
     {
       "providerId": "285450",
@@ -2681,14 +2688,14 @@
       "catalogId": "espn:268641",
       "name": "Iliman Ndiaye",
       "team": "Manchester City",
-      "position": "Attacking Midfielder Right"
+      "position": "Right Forward"
     },
     {
       "providerId": "283672",
       "catalogId": "espn:283672",
       "name": "Jérémy Doku",
       "team": "Manchester City",
-      "position": "Attacking Midfielder Left"
+      "position": "Left Forward"
     },
     {
       "providerId": "299910",
@@ -2709,7 +2716,7 @@
       "catalogId": "espn:265907",
       "name": "Marc Guéhi",
       "team": "Manchester City",
-      "position": "Center Right Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "154595",
@@ -2751,7 +2758,7 @@
       "catalogId": "espn:298008",
       "name": "Rayan Cherki",
       "team": "Manchester City",
-      "position": "Attacking Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "325564",
@@ -2793,7 +2800,7 @@
       "catalogId": "espn:314858",
       "name": "Andrey Santos",
       "team": "Manchester United",
-      "position": "Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "356044",
@@ -2828,7 +2835,7 @@
       "catalogId": "espn:338814",
       "name": "Carlos Baleba",
       "team": "Manchester United",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "238902",
@@ -3213,7 +3220,7 @@
       "catalogId": "espn:146679",
       "name": "Daniel Muñoz",
       "team": "Nottingham Forest",
-      "position": "Right Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "213718",
@@ -3311,7 +3318,7 @@
       "catalogId": "espn:206227",
       "name": "Ola Aina",
       "team": "Nottingham Forest",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "343964",
@@ -3388,7 +3395,7 @@
       "catalogId": "espn:149981",
       "name": "Granit Xhaka",
       "team": "Sunderland",
-      "position": "Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "324991",
@@ -3423,14 +3430,14 @@
       "catalogId": "espn:250543",
       "name": "Kevin Danso",
       "team": "Sunderland",
-      "position": "Center Right Defender"
+      "position": "Substitute"
     },
     {
       "providerId": "191574",
       "catalogId": "espn:191574",
       "name": "Luke O'Nien",
       "team": "Sunderland",
-      "position": "Center Left Defender"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "340645",
@@ -3458,7 +3465,7 @@
       "catalogId": "espn:340240",
       "name": "Noah Sadiki",
       "team": "Sunderland",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "214188",
@@ -3472,7 +3479,7 @@
       "catalogId": "espn:215401",
       "name": "Omar Alderete",
       "team": "Sunderland",
-      "position": "Substitute"
+      "position": "Center Left Defender"
     },
     {
       "providerId": "230081",
@@ -3500,7 +3507,7 @@
       "catalogId": "espn:166473",
       "name": "Thomas Meunier",
       "team": "Sunderland",
-      "position": "Attacking Midfielder Right"
+      "position": "Substitute"
     },
     {
       "providerId": "290207",
@@ -3521,7 +3528,7 @@
       "catalogId": "espn:265915",
       "name": "Wilson Isidor",
       "team": "Sunderland",
-      "position": "Forward"
+      "position": "Substitute"
     },
     {
       "providerId": "104943",
@@ -28318,12 +28325,29 @@
           "away": "Manchester United",
           "id": "chelsea-manchesterunited",
           "kickoff": "2026-10-31T12:30Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Chelsea",
+              "scorer": "Morgan Rogers",
+              "assist": "Romeo Lavia",
+              "minute": "50'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Chelsea",
+              "scorer": "Cole Palmer",
+              "assist": "",
+              "minute": "64'",
+              "ownGoal": false,
+              "penalty": true
+            }
+          ],
           "providerId": "401879248"
         },
         {
@@ -28353,7 +28377,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Brighton",
+              "scorer": "Yasin Ayari",
+              "assist": "Maxim De Cuyper",
+              "minute": "11'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879245"
         },
         {
@@ -28484,7 +28517,7 @@
             "Evanilson"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -28537,7 +28570,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28563,7 +28596,7 @@
             "Evanilson"
           ],
           "matchPoints": [
-            0,
+            2,
             0,
             0,
             0,
@@ -28616,7 +28649,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 2,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28721,7 +28754,7 @@
             "Igor Thiago"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -28774,7 +28807,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28813,11 +28846,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -28833,7 +28866,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester United",
@@ -28848,12 +28881,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 0.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28879,7 +28919,7 @@
             "Dominic Calvert-Lewin"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -28891,11 +28931,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -28904,7 +28944,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -28922,9 +28962,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "pending",
@@ -28932,7 +28985,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 18,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28958,7 +29011,7 @@
             "Mathys Tel"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -28970,11 +29023,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -28983,7 +29036,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -29001,9 +29054,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "pending",
@@ -29011,7 +29077,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 18,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29037,7 +29103,7 @@
             "Evanilson"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -29090,7 +29156,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29116,7 +29182,7 @@
             "Evanilson"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -29169,7 +29235,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29211,7 +29277,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -29220,7 +29286,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester United",
@@ -29238,8 +29304,21 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -1,
+                  "points": -1
+                }
+              ],
               "total": 0
             },
             {
@@ -29274,7 +29353,7 @@
             "Cole Palmer"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -29287,11 +29366,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            2
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -29307,7 +29386,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -29322,12 +29401,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 2
             }
           ],
-          "total": 0,
+          "total": 14,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29353,7 +29445,7 @@
             "Igor Thiago"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -29406,7 +29498,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29432,7 +29524,7 @@
             "Bukayo Saka"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -29485,7 +29577,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29511,7 +29603,7 @@
             "Nicolas Jackson"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -29564,7 +29656,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29590,7 +29682,7 @@
             "Nicolas Jackson"
           ],
           "matchPoints": [
-            0,
+            4,
             0,
             0,
             0,
@@ -29643,7 +29735,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 4,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29669,7 +29761,7 @@
             "Cole Palmer"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -29682,11 +29774,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            2
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -29702,7 +29794,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -29717,12 +29809,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 2
             }
           ],
-          "total": 0,
+          "total": 14,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29748,7 +29853,7 @@
             "Morgan Rogers"
           ],
           "matchPoints": [
-            0,
+            11,
             0,
             0,
             0,
@@ -29761,11 +29866,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -29781,7 +29886,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -29796,12 +29901,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 0,
+          "total": 14.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29827,7 +29945,7 @@
             "Dominic Solanke"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -29880,7 +29998,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29906,7 +30024,7 @@
             "Rayan Cherki"
           ],
           "matchPoints": [
-            0,
+            2,
             0,
             0,
             0,
@@ -29959,7 +30077,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 2,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29985,7 +30103,7 @@
             "Nicolas Jackson"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -29997,11 +30115,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -30010,7 +30128,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -30028,9 +30146,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "pending",
@@ -30038,7 +30169,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 18,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30064,7 +30195,7 @@
             "Marcus Tavernier"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -30117,7 +30248,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30143,7 +30274,7 @@
             "Igor Thiago"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -30196,7 +30327,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30222,7 +30353,7 @@
             "Evanilson"
           ],
           "matchPoints": [
-            0,
+            2,
             0,
             0,
             0,
@@ -30275,7 +30406,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 2,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30301,7 +30432,7 @@
             "Evanilson"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -30354,7 +30485,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30380,7 +30511,7 @@
             "Emiliano Martínez"
           ],
           "matchPoints": [
-            0,
+            15,
             0,
             0,
             0,
@@ -30396,8 +30527,8 @@
             0
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -30405,7 +30536,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -30413,7 +30544,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Chelsea",
@@ -30423,17 +30554,17 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 15,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30459,7 +30590,7 @@
             "Mathys Tel"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -30512,7 +30643,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30555,7 +30686,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -30571,7 +30702,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester United",
@@ -30586,8 +30717,21 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -0.5,
+                  "points": -0.5
+                }
+              ],
               "total": 0
             }
           ],
@@ -30598,7 +30742,7 @@
         }
       ],
       "complete": false,
-      "max": 0,
+      "max": 18,
       "tipsRevealed": true
     },
     {
@@ -89342,7 +89486,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 33,
-      "total": 692,
+      "total": 704,
       "rank": 2,
       "finance": 15750
     },
@@ -89350,8 +89494,8 @@
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 44,
-      "total": 683,
+      "playerPoints": 46,
+      "total": 697,
       "rank": 3,
       "finance": 12250
     },
@@ -89360,7 +89504,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 35,
-      "total": 680,
+      "total": 695,
       "rank": 4,
       "finance": 9250
     },
@@ -89369,61 +89513,61 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 33,
-      "total": 679,
+      "total": 691,
       "rank": 5,
       "finance": 6500
-    },
-    {
-      "alias": "Giorgio",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 39.5,
-      "total": 672.5,
-      "rank": 6,
-      "finance": 3750
     },
     {
       "alias": "Pelix",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 34,
-      "total": 669,
-      "rank": 7,
-      "finance": 2500
+      "playerPoints": 40,
+      "total": 687,
+      "rank": 6,
+      "finance": 3750
     },
     {
       "alias": "Aleš M.",
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 20,
-      "total": 665,
-      "rank": 8,
-      "finance": 1250
+      "total": 677,
+      "rank": 7,
+      "finance": 2500
     },
     {
       "alias": "Peloš",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 44.5,
-      "total": 664.5,
+      "total": 676.5,
+      "rank": 8,
+      "finance": 1250
+    },
+    {
+      "alias": "Giorgio",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 40,
+      "total": 673,
       "rank": 9,
       "finance": -1500
+    },
+    {
+      "alias": "Závodka",
+      "roundWins": 1,
+      "exactDoubles": 2,
+      "playerPoints": 37,
+      "total": 672,
+      "rank": 10,
+      "finance": -1750
     },
     {
       "alias": "Bajgi",
       "roundWins": 0,
       "exactDoubles": 3,
       "playerPoints": 57.5,
-      "total": 659.5,
-      "rank": 10,
-      "finance": -1750
-    },
-    {
-      "alias": "Pospec",
-      "roundWins": 1,
-      "exactDoubles": 0,
-      "playerPoints": 41,
-      "total": 658,
+      "total": 671.5,
       "rank": 11,
       "finance": -2000
     },
@@ -89432,70 +89576,70 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 40.5,
-      "total": 654.5,
+      "total": 666.5,
       "rank": 12,
       "finance": -2250
-    },
-    {
-      "alias": "Závodka",
-      "roundWins": 1,
-      "exactDoubles": 2,
-      "playerPoints": 31,
-      "total": 654,
-      "rank": 13,
-      "finance": -2500
-    },
-    {
-      "alias": "Dufec",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 33,
-      "total": 646,
-      "rank": 14,
-      "finance": -2750
     },
     {
       "alias": "Mudras",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 40.5,
-      "total": 645.5,
-      "rank": 15,
-      "finance": -3000
+      "playerPoints": 46.5,
+      "total": 663.5,
+      "rank": 13,
+      "finance": -2500
+    },
+    {
+      "alias": "Pospec",
+      "roundWins": 1,
+      "exactDoubles": 0,
+      "playerPoints": 41,
+      "total": 660,
+      "rank": 14,
+      "finance": -2750
     },
     {
       "alias": "Usťa",
       "roundWins": 0,
       "exactDoubles": 3,
       "playerPoints": 45,
-      "total": 643.5,
-      "rank": 16,
-      "finance": -3250
+      "total": 658.5,
+      "rank": 15,
+      "finance": -3000
     },
     {
       "alias": "Mráva",
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 47,
-      "total": 641.5,
-      "rank": 17,
-      "finance": -3500
+      "total": 653.5,
+      "rank": 16,
+      "finance": -3250
     },
     {
       "alias": "JR",
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 41,
-      "total": 639,
-      "rank": 18,
-      "finance": -3750
+      "total": 651,
+      "rank": 17,
+      "finance": -3500
     },
     {
       "alias": "Grubis",
       "roundWins": 2,
       "exactDoubles": 0,
-      "playerPoints": 44.5,
-      "total": 636.5,
+      "playerPoints": 46.5,
+      "total": 650.5,
+      "rank": 18,
+      "finance": -3750
+    },
+    {
+      "alias": "Dufec",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 33,
+      "total": 648,
       "rank": 19,
       "finance": -4000
     },
@@ -89504,18 +89648,27 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 19.5,
-      "total": 629.5,
+      "total": 641.5,
       "rank": 20,
       "finance": -4250
+    },
+    {
+      "alias": "Dominick Z.",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 37,
+      "total": 614,
+      "rank": 21,
+      "finance": -4500
     },
     {
       "alias": "Luke",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 32,
-      "total": 606,
-      "rank": 21,
-      "finance": -4500
+      "total": 610,
+      "rank": 22,
+      "finance": -4750
     },
     {
       "alias": "Maara",
@@ -89523,35 +89676,35 @@
       "exactDoubles": 2,
       "playerPoints": 24,
       "total": 604,
-      "rank": 22,
-      "finance": -4750
-    },
-    {
-      "alias": "Dominick Z.",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 37,
-      "total": 602,
       "rank": 23,
       "finance": -5000
+    },
+    {
+      "alias": "Hasťa",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 62,
+      "total": 589,
+      "rank": 24,
+      "finance": -5250
     },
     {
       "alias": "Mezňa",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 38,
-      "total": 578,
-      "rank": 24,
-      "finance": -5250
-    },
-    {
-      "alias": "Hasťa",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 58.5,
-      "total": 574.5,
+      "total": 580,
       "rank": 25,
       "finance": -5500
+    },
+    {
+      "alias": "Pavel",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 45.5,
+      "total": 572.5,
+      "rank": 26,
+      "finance": -5750
     },
     {
       "alias": "Škardis",
@@ -89559,15 +89712,6 @@
       "exactDoubles": 1,
       "playerPoints": 26.5,
       "total": 570.5,
-      "rank": 26,
-      "finance": -5750
-    },
-    {
-      "alias": "Pavel",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 45.5,
-      "total": 560.5,
       "rank": 27,
       "finance": -6000
     }
@@ -89584,18 +89728,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-31T13:00:48.263764+00:00",
-  "fingerprint": "bbb6516a809a77582e7a72c2cc74f84d339ae516b0a057efe7b8a09825751313",
+  "generatedAt": "2026-10-31T15:18:56.882788+00:00",
+  "fingerprint": "3a158d5b9015195d554cb6548ac6658ab753e157c479e6decbbec0fc69025f3c",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-31T13:00:48.264514+00:00",
-    "lastDataChangeAt": "2026-10-31T13:00:48.263764+00:00",
-    "fingerprint": "bbb6516a809a77582e7a72c2cc74f84d339ae516b0a057efe7b8a09825751313",
+    "lastSuccessfulRunAt": "2026-10-31T15:18:56.883647+00:00",
+    "lastDataChangeAt": "2026-10-31T15:18:56.882788+00:00",
+    "fingerprint": "3a158d5b9015195d554cb6548ac6658ab753e157c479e6decbbec0fc69025f3c",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-31T13:00:11.174970+00:00",
+      "footballFetchedAt": "2026-10-31T15:18:12.370721+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-31T13:00:08.211Z"
+      "whatsappFetchedAt": "2026-10-31T15:18:08.931Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -89616,10 +89760,10 @@
       },
       "playerResolution": {
         "statuses": {
-          "did_not_play": 23,
+          "did_not_play": 25,
           "manual_override": 7,
-          "pending": 54,
-          "resolved": 402
+          "pending": 43,
+          "resolved": 411
         },
         "methods": {
           "exact": 155,
