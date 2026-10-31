@@ -28573,9 +28573,9 @@
           "away": "Fulham",
           "id": "astonvilla-fulham",
           "kickoff": "2026-10-31T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
           "goals": [
@@ -28658,16 +28658,16 @@
             4,
             11,
             15,
-            0,
+            8,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            6,
             3.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -28676,7 +28676,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Aston Villa",
@@ -28694,9 +28694,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "resolved",
@@ -28717,7 +28730,7 @@
               "total": 3.5
             }
           ],
-          "total": 58.5,
+          "total": 72.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28750,16 +28763,16 @@
             12,
             10,
             12,
-            0,
+            4,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            6,
             3.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -28768,7 +28781,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Aston Villa",
@@ -28786,9 +28799,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "resolved",
@@ -28809,7 +28835,7 @@
               "total": 3.5
             }
           ],
-          "total": 53.5,
+          "total": 63.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28842,7 +28868,7 @@
             12,
             12,
             12,
-            0,
+            5,
             0,
             0
           ],
@@ -28901,7 +28927,7 @@
               "total": 3.5
             }
           ],
-          "total": 48.5,
+          "total": 53.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28934,7 +28960,7 @@
             22,
             12,
             11,
-            0,
+            2,
             0,
             0
           ],
@@ -29000,7 +29026,7 @@
               "total": 3.5
             }
           ],
-          "total": 73.5,
+          "total": 75.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29033,7 +29059,7 @@
             12,
             2,
             12,
-            0,
+            15,
             0,
             0
           ],
@@ -29093,7 +29119,7 @@
               "total": 0.5
             }
           ],
-          "total": 36.5,
+          "total": 51.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29126,7 +29152,7 @@
             12,
             12,
             30,
-            0,
+            5,
             0,
             0
           ],
@@ -29192,7 +29218,7 @@
               "total": 0.5
             }
           ],
-          "total": 89.5,
+          "total": 94.5,
           "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
@@ -29225,7 +29251,7 @@
             0,
             12,
             22,
-            0,
+            5,
             0,
             0
           ],
@@ -29291,7 +29317,7 @@
               "total": 0.5
             }
           ],
-          "total": 57.5,
+          "total": 62.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29324,7 +29350,7 @@
             12,
             12,
             24,
-            0,
+            5,
             0,
             0
           ],
@@ -29390,7 +29416,7 @@
               "total": 3.5
             }
           ],
-          "total": 81.5,
+          "total": 86.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29423,7 +29449,1415 @@
             15,
             12,
             30,
+            5,
             0,
+            0
+          ],
+          "playerPoints": [
+            6,
+            3.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Brentford",
+              "sourceName": "Igor Thiago",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Evanilson",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
+            }
+          ],
+          "total": 83.5,
+          "exactDouble": 1,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Dvorek",
+          "imported": true,
+          "tips": [
+            "1:2",
+            "1:1",
+            "2:1",
+            "1:2",
+            "2:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:1",
+            "1:1"
+          ],
+          "doubleIndex": 2,
+          "players": [
+            "Bryan Mbeumo",
+            "Igor Thiago"
+          ],
+          "matchPoints": [
+            0,
+            13,
+            0,
+            0,
+            12,
+            12,
+            12,
+            5,
+            0,
+            0
+          ],
+          "playerPoints": [
+            0,
+            3.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester United",
+              "sourceName": "Bryan Mbeumo",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Brentford",
+              "sourceName": "Igor Thiago",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -1,
+                  "points": -1
+                }
+              ],
+              "total": 0
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
+            }
+          ],
+          "total": 57.5,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Jayda",
+          "imported": true,
+          "tips": [
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:2",
+            "2:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:2",
+            "2:1"
+          ],
+          "doubleIndex": 2,
+          "players": [
+            "Evanilson",
+            "Cole Palmer"
+          ],
+          "matchPoints": [
+            12,
+            5,
+            0,
+            0,
+            12,
+            12,
+            12,
+            5,
+            0,
+            0
+          ],
+          "playerPoints": [
+            6,
+            2
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Evanilson",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Cole Palmer",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 2
+            }
+          ],
+          "total": 66,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "JR",
+          "imported": true,
+          "tips": [
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:1",
+            "3:1",
+            "2:1",
+            "2:0",
+            "2:0",
+            "1:2",
+            "2:1"
+          ],
+          "doubleIndex": 6,
+          "players": [
+            "Nicolas Jackson",
+            "Igor Thiago"
+          ],
+          "matchPoints": [
+            12,
+            5,
+            0,
+            4,
+            11,
+            12,
+            30,
+            2,
+            0,
+            0
+          ],
+          "playerPoints": [
+            6,
+            3.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Aston Villa",
+              "sourceName": "Nicolas Jackson",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Brentford",
+              "sourceName": "Igor Thiago",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
+            }
+          ],
+          "total": 85.5,
+          "exactDouble": 1,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Kašpec",
+          "imported": true,
+          "tips": [
+            "2:1",
+            "1:1",
+            "1:1",
+            "1:2",
+            "0:1",
+            "2:0",
+            "2:0",
+            "2:1",
+            "1:2",
+            "1:2"
+          ],
+          "doubleIndex": 6,
+          "players": [
+            "Omar Marmoush",
+            "Bukayo Saka"
+          ],
+          "matchPoints": [
+            12,
+            13,
+            5,
+            0,
+            0,
+            15,
+            30,
+            5,
+            0,
+            0
+          ],
+          "playerPoints": [
+            1,
+            0
+          ],
+          "playerCompleted": [
+            true,
+            false
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Tottenham Hotspur",
+              "sourceName": "Omar Marmoush",
+              "suggestions": []
+            },
+            {
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Bukayo Saka",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
+            },
+            {
+              "status": "pending",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 81,
+          "exactDouble": 1,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Rommmik26",
+          "imported": true,
+          "tips": [
+            "2:1",
+            "2:1",
+            "3:1",
+            "1:1",
+            "2:1",
+            "3:0",
+            "2:1",
+            "3:1",
+            "2:1",
+            "1:1"
+          ],
+          "doubleIndex": 2,
+          "players": [
+            "Evanilson",
+            "Nicolas Jackson"
+          ],
+          "matchPoints": [
+            12,
+            5,
+            0,
+            4,
+            12,
+            12,
+            12,
+            4,
+            0,
+            0
+          ],
+          "playerPoints": [
+            6,
+            3.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Evanilson",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Aston Villa",
+              "sourceName": "Nicolas Jackson",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
+            }
+          ],
+          "total": 70.5,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Luke",
+          "imported": true,
+          "tips": [
+            "2:2",
+            "1:0",
+            "2:1",
+            "1:1",
+            "2:1",
+            "2:1",
+            "2:0",
+            "2:1",
+            "1:2",
+            "1:1"
+          ],
+          "doubleIndex": 7,
+          "players": [
+            "Marcus Tavernier",
+            "Nicolas Jackson"
+          ],
+          "matchPoints": [
+            4,
+            0,
+            0,
+            4,
+            12,
+            12,
+            15,
+            10,
+            0,
+            0
+          ],
+          "playerPoints": [
+            1,
+            3.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Marcus Tavernier",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Aston Villa",
+              "sourceName": "Nicolas Jackson",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
+            }
+          ],
+          "total": 61.5,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Grubis",
+          "imported": true,
+          "tips": [
+            "2:1",
+            "1:0",
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "3:1",
+            "1:1",
+            "2:0"
+          ],
+          "doubleIndex": 7,
+          "players": [
+            "Nicolas Jackson",
+            "Cole Palmer"
+          ],
+          "matchPoints": [
+            12,
+            0,
+            0,
+            4,
+            12,
+            2,
+            12,
+            8,
+            0,
+            0
+          ],
+          "playerPoints": [
+            6,
+            2
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Aston Villa",
+              "sourceName": "Nicolas Jackson",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Cole Palmer",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 2
+            }
+          ],
+          "total": 58,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Hasťa",
+          "imported": true,
+          "tips": [
+            "3:1",
+            "1:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:1",
+            "2:0",
+            "2:1",
+            "2:1",
+            "2:1"
+          ],
+          "doubleIndex": 6,
+          "players": [
+            "Dominic Solanke",
+            "Morgan Rogers"
+          ],
+          "matchPoints": [
+            11,
+            13,
+            0,
+            4,
+            12,
+            2,
+            30,
+            5,
+            0,
+            0
+          ],
+          "playerPoints": [
+            1,
+            3.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Tottenham Hotspur",
+              "sourceName": "Dominic Solanke",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Morgan Rogers",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
+            }
+          ],
+          "total": 81.5,
+          "exactDouble": 1,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Peloš",
+          "imported": true,
+          "tips": [
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:1",
+            "2:1"
+          ],
+          "doubleIndex": 6,
+          "players": [
+            "Nicolas Jackson",
+            "Dominic Solanke"
+          ],
+          "matchPoints": [
+            12,
+            5,
+            0,
+            4,
+            12,
+            12,
+            24,
+            5,
+            0,
+            0
+          ],
+          "playerPoints": [
+            6,
+            0.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Aston Villa",
+              "sourceName": "Nicolas Jackson",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Tottenham Hotspur",
+              "sourceName": "Dominic Solanke",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
+            }
+          ],
+          "total": 80.5,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Dufec",
+          "imported": true,
+          "tips": [
+            "1:1",
+            "2:1",
+            "3:1",
+            "0:2",
+            "2:1",
+            "3:2",
+            "2:0",
+            "2:1",
+            "2:2",
+            "3:1"
+          ],
+          "doubleIndex": 2,
+          "players": [
+            "Marcus Tavernier",
+            "Rayan Cherki"
+          ],
+          "matchPoints": [
+            2,
+            5,
+            0,
+            0,
+            12,
+            10,
+            15,
+            5,
+            0,
+            0
+          ],
+          "playerPoints": [
+            1,
+            0
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Marcus Tavernier",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Rayan Cherki",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
+            },
+            {
+              "status": "resolved",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 50,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Pelix",
+          "imported": true,
+          "tips": [
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:2",
+            "1:1",
+            "2:1",
+            "3:1",
+            "2:1",
+            "1:1",
+            "2:1"
+          ],
+          "doubleIndex": 2,
+          "players": [
+            "Morgan Rogers",
+            "Nicolas Jackson"
+          ],
+          "matchPoints": [
+            12,
+            13,
+            0,
+            0,
+            2,
+            12,
+            11,
+            5,
+            0,
+            0
+          ],
+          "playerPoints": [
+            6,
+            3.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Morgan Rogers",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Aston Villa",
+              "sourceName": "Nicolas Jackson",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
+            }
+          ],
+          "total": 64.5,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Dominick Z.",
+          "imported": true,
+          "tips": [
+            "2:1",
+            "1:1",
+            "2:2",
+            "1:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "3:1",
+            "2:2",
+            "2:1"
+          ],
+          "doubleIndex": 7,
+          "players": [
+            "Nicolas Jackson",
+            "Marcus Tavernier"
+          ],
+          "matchPoints": [
+            12,
+            13,
+            0,
+            4,
+            12,
+            12,
+            12,
+            8,
+            0,
+            0
+          ],
+          "playerPoints": [
+            6,
+            0.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Aston Villa",
+              "sourceName": "Nicolas Jackson",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Marcus Tavernier",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
+            }
+          ],
+          "total": 79.5,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Bajgi",
+          "imported": true,
+          "tips": [
+            "2:1",
+            "2:1",
+            "3:1",
+            "1:2",
+            "2:1",
+            "2:0",
+            "2:1",
+            "2:1",
+            "1:1",
+            "2:1"
+          ],
+          "doubleIndex": 2,
+          "players": [
+            "Nicolas Jackson",
+            "Igor Thiago"
+          ],
+          "matchPoints": [
+            12,
+            5,
+            0,
+            0,
+            12,
+            15,
+            12,
+            5,
+            0,
+            0
+          ],
+          "playerPoints": [
+            6,
+            3.5
+          ],
+          "playerCompleted": [
+            true,
+            true
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Aston Villa",
+              "sourceName": "Nicolas Jackson",
+              "suggestions": []
+            },
+            {
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Brentford",
+              "sourceName": "Igor Thiago",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
+            },
+            {
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
+            }
+          ],
+          "total": 70.5,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": true
+        },
+        {
+          "alias": "Mezňa",
+          "imported": true,
+          "tips": [
+            "1:1",
+            "2:0",
+            "2:1",
+            "1:0",
+            "2:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:1",
+            "1:0"
+          ],
+          "doubleIndex": 4,
+          "players": [
+            "Igor Thiago",
+            "Evanilson"
+          ],
+          "matchPoints": [
+            2,
+            4,
+            0,
+            10,
+            24,
+            12,
+            12,
+            5,
             0,
             0
           ],
@@ -29496,1310 +30930,6 @@
             }
           ],
           "total": 78.5,
-          "exactDouble": 1,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Dvorek",
-          "imported": true,
-          "tips": [
-            "1:2",
-            "1:1",
-            "2:1",
-            "1:2",
-            "2:1",
-            "2:1",
-            "2:1",
-            "2:1",
-            "1:1",
-            "1:1"
-          ],
-          "doubleIndex": 2,
-          "players": [
-            "Bryan Mbeumo",
-            "Igor Thiago"
-          ],
-          "matchPoints": [
-            0,
-            13,
-            0,
-            0,
-            12,
-            12,
-            12,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            0,
-            3.5
-          ],
-          "playerCompleted": [
-            true,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Manchester United",
-              "sourceName": "Bryan Mbeumo",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Brentford",
-              "sourceName": "Igor Thiago",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 1,
-                  "points": 1
-                },
-                {
-                  "key": "yellow",
-                  "count": 1,
-                  "weight": -1,
-                  "points": -1
-                }
-              ],
-              "total": 0
-            },
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 0.5,
-                  "points": 0.5
-                },
-                {
-                  "key": "goal",
-                  "count": 1,
-                  "weight": 3,
-                  "points": 3
-                }
-              ],
-              "total": 3.5
-            }
-          ],
-          "total": 52.5,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Jayda",
-          "imported": true,
-          "tips": [
-            "2:1",
-            "2:1",
-            "2:1",
-            "1:2",
-            "2:1",
-            "2:1",
-            "2:1",
-            "2:1",
-            "1:2",
-            "2:1"
-          ],
-          "doubleIndex": 2,
-          "players": [
-            "Evanilson",
-            "Cole Palmer"
-          ],
-          "matchPoints": [
-            12,
-            5,
-            0,
-            0,
-            12,
-            12,
-            12,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            6,
-            2
-          ],
-          "playerCompleted": [
-            true,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "AFC Bournemouth",
-              "sourceName": "Evanilson",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Chelsea",
-              "sourceName": "Cole Palmer",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 1,
-                  "points": 1
-                },
-                {
-                  "key": "goal",
-                  "count": 1,
-                  "weight": 5,
-                  "points": 5
-                }
-              ],
-              "total": 6
-            },
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 0.5,
-                  "points": 0.5
-                },
-                {
-                  "key": "penaltyGoal",
-                  "count": 1,
-                  "weight": 1.5,
-                  "points": 1.5
-                }
-              ],
-              "total": 2
-            }
-          ],
-          "total": 61,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "JR",
-          "imported": true,
-          "tips": [
-            "2:1",
-            "2:1",
-            "2:1",
-            "1:1",
-            "3:1",
-            "2:1",
-            "2:0",
-            "2:0",
-            "1:2",
-            "2:1"
-          ],
-          "doubleIndex": 6,
-          "players": [
-            "Nicolas Jackson",
-            "Igor Thiago"
-          ],
-          "matchPoints": [
-            12,
-            5,
-            0,
-            4,
-            11,
-            12,
-            30,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            0,
-            3.5
-          ],
-          "playerCompleted": [
-            false,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "pending",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Aston Villa",
-              "sourceName": "Nicolas Jackson",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Brentford",
-              "sourceName": "Igor Thiago",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "pending",
-              "components": [],
-              "total": 0
-            },
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 0.5,
-                  "points": 0.5
-                },
-                {
-                  "key": "goal",
-                  "count": 1,
-                  "weight": 3,
-                  "points": 3
-                }
-              ],
-              "total": 3.5
-            }
-          ],
-          "total": 77.5,
-          "exactDouble": 1,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Kašpec",
-          "imported": true,
-          "tips": [
-            "2:1",
-            "1:1",
-            "1:1",
-            "1:2",
-            "0:1",
-            "2:0",
-            "2:0",
-            "2:1",
-            "1:2",
-            "1:2"
-          ],
-          "doubleIndex": 6,
-          "players": [
-            "Omar Marmoush",
-            "Bukayo Saka"
-          ],
-          "matchPoints": [
-            12,
-            13,
-            5,
-            0,
-            0,
-            15,
-            30,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            1,
-            0
-          ],
-          "playerCompleted": [
-            true,
-            false
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Tottenham Hotspur",
-              "sourceName": "Omar Marmoush",
-              "suggestions": []
-            },
-            {
-              "status": "pending",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Arsenal",
-              "sourceName": "Bukayo Saka",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 1,
-                  "points": 1
-                }
-              ],
-              "total": 1
-            },
-            {
-              "status": "pending",
-              "components": [],
-              "total": 0
-            }
-          ],
-          "total": 76,
-          "exactDouble": 1,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Rommmik26",
-          "imported": true,
-          "tips": [
-            "2:1",
-            "2:1",
-            "3:1",
-            "1:1",
-            "2:1",
-            "3:0",
-            "2:1",
-            "3:1",
-            "2:1",
-            "1:1"
-          ],
-          "doubleIndex": 2,
-          "players": [
-            "Evanilson",
-            "Nicolas Jackson"
-          ],
-          "matchPoints": [
-            12,
-            5,
-            0,
-            4,
-            12,
-            12,
-            12,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            6,
-            0
-          ],
-          "playerCompleted": [
-            true,
-            false
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "AFC Bournemouth",
-              "sourceName": "Evanilson",
-              "suggestions": []
-            },
-            {
-              "status": "pending",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Aston Villa",
-              "sourceName": "Nicolas Jackson",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 1,
-                  "points": 1
-                },
-                {
-                  "key": "goal",
-                  "count": 1,
-                  "weight": 5,
-                  "points": 5
-                }
-              ],
-              "total": 6
-            },
-            {
-              "status": "pending",
-              "components": [],
-              "total": 0
-            }
-          ],
-          "total": 63,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Luke",
-          "imported": true,
-          "tips": [
-            "2:2",
-            "1:0",
-            "2:1",
-            "1:1",
-            "2:1",
-            "2:1",
-            "2:0",
-            "2:1",
-            "1:2",
-            "1:1"
-          ],
-          "doubleIndex": 7,
-          "players": [
-            "Marcus Tavernier",
-            "Nicolas Jackson"
-          ],
-          "matchPoints": [
-            4,
-            0,
-            0,
-            4,
-            12,
-            12,
-            15,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            1,
-            0
-          ],
-          "playerCompleted": [
-            true,
-            false
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "AFC Bournemouth",
-              "sourceName": "Marcus Tavernier",
-              "suggestions": []
-            },
-            {
-              "status": "pending",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Aston Villa",
-              "sourceName": "Nicolas Jackson",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 1,
-                  "points": 1
-                }
-              ],
-              "total": 1
-            },
-            {
-              "status": "pending",
-              "components": [],
-              "total": 0
-            }
-          ],
-          "total": 48,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Grubis",
-          "imported": true,
-          "tips": [
-            "2:1",
-            "1:0",
-            "2:1",
-            "1:1",
-            "2:1",
-            "1:1",
-            "2:1",
-            "3:1",
-            "1:1",
-            "2:0"
-          ],
-          "doubleIndex": 7,
-          "players": [
-            "Nicolas Jackson",
-            "Cole Palmer"
-          ],
-          "matchPoints": [
-            12,
-            0,
-            0,
-            4,
-            12,
-            2,
-            12,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            0,
-            2
-          ],
-          "playerCompleted": [
-            false,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "pending",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Aston Villa",
-              "sourceName": "Nicolas Jackson",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Chelsea",
-              "sourceName": "Cole Palmer",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "pending",
-              "components": [],
-              "total": 0
-            },
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 0.5,
-                  "points": 0.5
-                },
-                {
-                  "key": "penaltyGoal",
-                  "count": 1,
-                  "weight": 1.5,
-                  "points": 1.5
-                }
-              ],
-              "total": 2
-            }
-          ],
-          "total": 44,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Hasťa",
-          "imported": true,
-          "tips": [
-            "3:1",
-            "1:1",
-            "2:1",
-            "1:1",
-            "2:1",
-            "1:1",
-            "2:0",
-            "2:1",
-            "2:1",
-            "2:1"
-          ],
-          "doubleIndex": 6,
-          "players": [
-            "Dominic Solanke",
-            "Morgan Rogers"
-          ],
-          "matchPoints": [
-            11,
-            13,
-            0,
-            4,
-            12,
-            2,
-            30,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            1,
-            3.5
-          ],
-          "playerCompleted": [
-            true,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Tottenham Hotspur",
-              "sourceName": "Dominic Solanke",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Chelsea",
-              "sourceName": "Morgan Rogers",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 1,
-                  "points": 1
-                }
-              ],
-              "total": 1
-            },
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 0.5,
-                  "points": 0.5
-                },
-                {
-                  "key": "goal",
-                  "count": 1,
-                  "weight": 3,
-                  "points": 3
-                }
-              ],
-              "total": 3.5
-            }
-          ],
-          "total": 76.5,
-          "exactDouble": 1,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Peloš",
-          "imported": true,
-          "tips": [
-            "2:1",
-            "2:1",
-            "2:1",
-            "1:1",
-            "2:1",
-            "2:1",
-            "2:1",
-            "2:1",
-            "1:1",
-            "2:1"
-          ],
-          "doubleIndex": 6,
-          "players": [
-            "Nicolas Jackson",
-            "Dominic Solanke"
-          ],
-          "matchPoints": [
-            12,
-            5,
-            0,
-            4,
-            12,
-            12,
-            24,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            0,
-            0.5
-          ],
-          "playerCompleted": [
-            false,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "pending",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Aston Villa",
-              "sourceName": "Nicolas Jackson",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Tottenham Hotspur",
-              "sourceName": "Dominic Solanke",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "pending",
-              "components": [],
-              "total": 0
-            },
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 0.5,
-                  "points": 0.5
-                }
-              ],
-              "total": 0.5
-            }
-          ],
-          "total": 69.5,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Dufec",
-          "imported": true,
-          "tips": [
-            "1:1",
-            "2:1",
-            "3:1",
-            "0:2",
-            "2:1",
-            "3:2",
-            "2:0",
-            "2:1",
-            "2:2",
-            "3:1"
-          ],
-          "doubleIndex": 2,
-          "players": [
-            "Marcus Tavernier",
-            "Rayan Cherki"
-          ],
-          "matchPoints": [
-            2,
-            5,
-            0,
-            0,
-            12,
-            10,
-            15,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            1,
-            0
-          ],
-          "playerCompleted": [
-            true,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "AFC Bournemouth",
-              "sourceName": "Marcus Tavernier",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Manchester City",
-              "sourceName": "Rayan Cherki",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 1,
-                  "points": 1
-                }
-              ],
-              "total": 1
-            },
-            {
-              "status": "resolved",
-              "components": [],
-              "total": 0
-            }
-          ],
-          "total": 45,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Pelix",
-          "imported": true,
-          "tips": [
-            "2:1",
-            "1:1",
-            "2:1",
-            "1:2",
-            "1:1",
-            "2:1",
-            "3:1",
-            "2:1",
-            "1:1",
-            "2:1"
-          ],
-          "doubleIndex": 2,
-          "players": [
-            "Morgan Rogers",
-            "Nicolas Jackson"
-          ],
-          "matchPoints": [
-            12,
-            13,
-            0,
-            0,
-            2,
-            12,
-            11,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            6,
-            0
-          ],
-          "playerCompleted": [
-            true,
-            false
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Chelsea",
-              "sourceName": "Morgan Rogers",
-              "suggestions": []
-            },
-            {
-              "status": "pending",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Aston Villa",
-              "sourceName": "Nicolas Jackson",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 1,
-                  "points": 1
-                },
-                {
-                  "key": "goal",
-                  "count": 1,
-                  "weight": 5,
-                  "points": 5
-                }
-              ],
-              "total": 6
-            },
-            {
-              "status": "pending",
-              "components": [],
-              "total": 0
-            }
-          ],
-          "total": 56,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Dominick Z.",
-          "imported": true,
-          "tips": [
-            "2:1",
-            "1:1",
-            "2:2",
-            "1:1",
-            "2:1",
-            "2:1",
-            "2:1",
-            "3:1",
-            "2:2",
-            "2:1"
-          ],
-          "doubleIndex": 7,
-          "players": [
-            "Nicolas Jackson",
-            "Marcus Tavernier"
-          ],
-          "matchPoints": [
-            12,
-            13,
-            0,
-            4,
-            12,
-            12,
-            12,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            0,
-            0.5
-          ],
-          "playerCompleted": [
-            false,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "pending",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Aston Villa",
-              "sourceName": "Nicolas Jackson",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "AFC Bournemouth",
-              "sourceName": "Marcus Tavernier",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "pending",
-              "components": [],
-              "total": 0
-            },
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 0.5,
-                  "points": 0.5
-                }
-              ],
-              "total": 0.5
-            }
-          ],
-          "total": 65.5,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Bajgi",
-          "imported": true,
-          "tips": [
-            "2:1",
-            "2:1",
-            "3:1",
-            "1:2",
-            "2:1",
-            "2:0",
-            "2:1",
-            "2:1",
-            "1:1",
-            "2:1"
-          ],
-          "doubleIndex": 2,
-          "players": [
-            "Nicolas Jackson",
-            "Igor Thiago"
-          ],
-          "matchPoints": [
-            12,
-            5,
-            0,
-            0,
-            12,
-            15,
-            12,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            0,
-            3.5
-          ],
-          "playerCompleted": [
-            false,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "pending",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Aston Villa",
-              "sourceName": "Nicolas Jackson",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Brentford",
-              "sourceName": "Igor Thiago",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "pending",
-              "components": [],
-              "total": 0
-            },
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 0.5,
-                  "points": 0.5
-                },
-                {
-                  "key": "goal",
-                  "count": 1,
-                  "weight": 3,
-                  "points": 3
-                }
-              ],
-              "total": 3.5
-            }
-          ],
-          "total": 59.5,
-          "exactDouble": 0,
-          "roundWinner": false,
-          "submitted": true
-        },
-        {
-          "alias": "Mezňa",
-          "imported": true,
-          "tips": [
-            "1:1",
-            "2:0",
-            "2:1",
-            "1:0",
-            "2:1",
-            "2:1",
-            "2:1",
-            "2:1",
-            "1:1",
-            "1:0"
-          ],
-          "doubleIndex": 4,
-          "players": [
-            "Igor Thiago",
-            "Evanilson"
-          ],
-          "matchPoints": [
-            2,
-            4,
-            0,
-            10,
-            24,
-            12,
-            12,
-            0,
-            0,
-            0
-          ],
-          "playerPoints": [
-            6,
-            3.5
-          ],
-          "playerCompleted": [
-            true,
-            true
-          ],
-          "playerUnresolved": [
-            false,
-            false
-          ],
-          "playerStatuses": [
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "Brentford",
-              "sourceName": "Igor Thiago",
-              "suggestions": []
-            },
-            {
-              "status": "resolved",
-              "resolution": "provider_id",
-              "confidence": 1,
-              "team": "AFC Bournemouth",
-              "sourceName": "Evanilson",
-              "suggestions": []
-            }
-          ],
-          "playerBreakdowns": [
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 1,
-                  "points": 1
-                },
-                {
-                  "key": "goal",
-                  "count": 1,
-                  "weight": 5,
-                  "points": 5
-                }
-              ],
-              "total": 6
-            },
-            {
-              "status": "resolved",
-              "components": [
-                {
-                  "key": "start",
-                  "count": 1,
-                  "weight": 0.5,
-                  "points": 0.5
-                },
-                {
-                  "key": "goal",
-                  "count": 1,
-                  "weight": 3,
-                  "points": 3
-                }
-              ],
-              "total": 3.5
-            }
-          ],
-          "total": 73.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30832,7 +30962,7 @@
             11,
             15,
             12,
-            0,
+            2,
             0,
             0
           ],
@@ -30904,7 +31034,7 @@
               "total": 3.5
             }
           ],
-          "total": 64.5,
+          "total": 66.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30937,7 +31067,7 @@
             2,
             12,
             15,
-            0,
+            5,
             0,
             0
           ],
@@ -30983,7 +31113,7 @@
               "total": 0
             }
           ],
-          "total": 69,
+          "total": 74,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -31016,7 +31146,7 @@
             12,
             12,
             15,
-            0,
+            2,
             0,
             0
           ],
@@ -31069,7 +31199,7 @@
               "total": 0.5
             }
           ],
-          "total": 68.5,
+          "total": 70.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -31107,11 +31237,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -31120,7 +31250,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Aston Villa",
@@ -31138,9 +31268,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "resolved",
@@ -31161,14 +31304,14 @@
               "total": 0
             }
           ],
-          "total": 46,
+          "total": 52,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 89.5,
+      "max": 94.5,
       "tipsRevealed": true
     },
     {
@@ -89903,7 +90046,7 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 51,
-      "total": 803,
+      "total": 808,
       "rank": 1,
       "finance": 20000
     },
@@ -89912,7 +90055,7 @@
       "roundWins": 0,
       "exactDoubles": 3,
       "playerPoints": 42.5,
-      "total": 770.5,
+      "total": 775.5,
       "rank": 2,
       "finance": 15750
     },
@@ -89921,43 +90064,43 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 35,
-      "total": 749,
+      "total": 754,
       "rank": 3,
       "finance": 12250
+    },
+    {
+      "alias": "Andy",
+      "roundWins": 0,
+      "exactDoubles": 2,
+      "playerPoints": 42.5,
+      "total": 751.5,
+      "rank": 4,
+      "finance": 9250
     },
     {
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 52,
-      "total": 744,
-      "rank": 4,
-      "finance": 9250
-    },
-    {
-      "alias": "Andy",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 36.5,
-      "total": 737.5,
+      "total": 749,
       "rank": 5,
       "finance": 6500
+    },
+    {
+      "alias": "Peloš",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 51,
+      "total": 745,
+      "rank": 6,
+      "finance": 3750
     },
     {
       "alias": "Mudras",
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 47,
-      "total": 735,
-      "rank": 6,
-      "finance": 3750
-    },
-    {
-      "alias": "Peloš",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 45,
-      "total": 734,
+      "total": 740,
       "rank": 7,
       "finance": 2500
     },
@@ -89966,7 +90109,7 @@
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 20.5,
-      "total": 733.5,
+      "total": 735.5,
       "rank": 8,
       "finance": 1250
     },
@@ -89974,8 +90117,8 @@
       "alias": "Pelix",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 40,
-      "total": 725,
+      "playerPoints": 43.5,
+      "total": 733.5,
       "rank": 9,
       "finance": -1500
     },
@@ -89983,8 +90126,8 @@
       "alias": "Bajgi",
       "roundWins": 0,
       "exactDoubles": 3,
-      "playerPoints": 61,
-      "total": 719,
+      "playerPoints": 67,
+      "total": 730,
       "rank": 10,
       "finance": -1750
     },
@@ -89992,71 +90135,71 @@
       "alias": "Rommmik26",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 46.5,
-      "total": 717.5,
+      "playerPoints": 50,
+      "total": 725,
       "rank": 11,
       "finance": -2000
-    },
-    {
-      "alias": "Usťa",
-      "roundWins": 0,
-      "exactDoubles": 3,
-      "playerPoints": 49.5,
-      "total": 717,
-      "rank": 12,
-      "finance": -2250
     },
     {
       "alias": "JR",
       "roundWins": 0,
       "exactDoubles": 3,
-      "playerPoints": 44.5,
-      "total": 716.5,
-      "rank": 13,
-      "finance": -2500
-    },
-    {
-      "alias": "Závodka",
-      "roundWins": 1,
-      "exactDoubles": 2,
-      "playerPoints": 37.5,
-      "total": 711.5,
-      "rank": 14,
-      "finance": -2750
-    },
-    {
-      "alias": "Pospec",
-      "roundWins": 1,
-      "exactDoubles": 0,
-      "playerPoints": 44.5,
-      "total": 711.5,
-      "rank": 15,
-      "finance": -3000
+      "playerPoints": 50.5,
+      "total": 724.5,
+      "rank": 12,
+      "finance": -2250
     },
     {
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 41,
-      "total": 709,
-      "rank": 16,
-      "finance": -3250
+      "total": 724,
+      "rank": 13,
+      "finance": -2500
     },
     {
-      "alias": "Mráva",
+      "alias": "Pospec",
       "roundWins": 1,
-      "exactDoubles": 1,
-      "playerPoints": 56.5,
-      "total": 706,
-      "rank": 17,
-      "finance": -3500
+      "exactDoubles": 0,
+      "playerPoints": 50.5,
+      "total": 721.5,
+      "rank": 14,
+      "finance": -2750
+    },
+    {
+      "alias": "Usťa",
+      "roundWins": 0,
+      "exactDoubles": 3,
+      "playerPoints": 49.5,
+      "total": 719,
+      "rank": 15,
+      "finance": -3000
+    },
+    {
+      "alias": "Závodka",
+      "roundWins": 1,
+      "exactDoubles": 2,
+      "playerPoints": 37.5,
+      "total": 716.5,
+      "rank": 16,
+      "finance": -3250
     },
     {
       "alias": "Kašpec",
       "roundWins": 0,
       "exactDoubles": 3,
       "playerPoints": 20.5,
-      "total": 705.5,
+      "total": 710.5,
+      "rank": 17,
+      "finance": -3500
+    },
+    {
+      "alias": "Mráva",
+      "roundWins": 1,
+      "exactDoubles": 1,
+      "playerPoints": 56.5,
+      "total": 708,
       "rank": 18,
       "finance": -3750
     },
@@ -90065,7 +90208,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 34,
-      "total": 691,
+      "total": 696,
       "rank": 19,
       "finance": -4000
     },
@@ -90073,8 +90216,8 @@
       "alias": "Grubis",
       "roundWins": 2,
       "exactDoubles": 0,
-      "playerPoints": 46.5,
-      "total": 680.5,
+      "playerPoints": 52.5,
+      "total": 694.5,
       "rank": 20,
       "finance": -4250
     },
@@ -90082,8 +90225,8 @@
       "alias": "Dominick Z.",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 37.5,
-      "total": 667.5,
+      "playerPoints": 43.5,
+      "total": 681.5,
       "rank": 21,
       "finance": -4500
     },
@@ -90091,8 +90234,8 @@
       "alias": "Luke",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 33,
-      "total": 654,
+      "playerPoints": 36.5,
+      "total": 667.5,
       "rank": 22,
       "finance": -4750
     },
@@ -90101,7 +90244,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 27.5,
-      "total": 652.5,
+      "total": 657.5,
       "rank": 23,
       "finance": -5000
     },
@@ -90110,7 +90253,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 47.5,
-      "total": 651.5,
+      "total": 656.5,
       "rank": 24,
       "finance": -5250
     },
@@ -90119,7 +90262,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 63,
-      "total": 651,
+      "total": 656,
       "rank": 25,
       "finance": -5500
     },
@@ -90128,7 +90271,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 50,
-      "total": 642,
+      "total": 647,
       "rank": 26,
       "finance": -5750
     },
@@ -90136,8 +90279,8 @@
       "alias": "Škardis",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 26.5,
-      "total": 616.5,
+      "playerPoints": 32.5,
+      "total": 622.5,
       "rank": 27,
       "finance": -6000
     }
@@ -90154,18 +90297,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-31T21:51:53.790531+00:00",
-  "fingerprint": "38579eb496ad3ce03319a44fbfe6a63ff97bb93dc0b9f6582d602448a445cdbc",
+  "generatedAt": "2026-10-31T23:20:59.882579+00:00",
+  "fingerprint": "49a41b613176d9c3bb22c80d25f60e9e7e4f701ea3505c248bb2f216da4bc741",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-31T21:51:53.791462+00:00",
-    "lastDataChangeAt": "2026-10-31T21:51:53.790531+00:00",
-    "fingerprint": "38579eb496ad3ce03319a44fbfe6a63ff97bb93dc0b9f6582d602448a445cdbc",
+    "lastSuccessfulRunAt": "2026-10-31T23:20:59.883591+00:00",
+    "lastDataChangeAt": "2026-10-31T23:20:59.882579+00:00",
+    "fingerprint": "49a41b613176d9c3bb22c80d25f60e9e7e4f701ea3505c248bb2f216da4bc741",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-31T21:50:19.465106+00:00",
+      "footballFetchedAt": "2026-10-31T23:19:24.122075+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-31T21:50:17.755Z"
+      "whatsappFetchedAt": "2026-10-31T23:19:23.148Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -90188,8 +90331,8 @@
         "statuses": {
           "did_not_play": 25,
           "manual_override": 7,
-          "pending": 12,
-          "resolved": 442
+          "pending": 1,
+          "resolved": 453
         },
         "methods": {
           "exact": 155,
