@@ -1344,7 +1344,7 @@
       "catalogId": "espn:332648",
       "name": "Anan Khalaili",
       "team": "Crystal Palace",
-      "position": "Right Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "231718",
@@ -1477,7 +1477,7 @@
       "catalogId": "espn:276546",
       "name": "Óscar Mingueza",
       "team": "Crystal Palace",
-      "position": "Substitute"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "282230",
@@ -1512,7 +1512,7 @@
       "catalogId": "espn:195738",
       "name": "Walter Benítez",
       "team": "Crystal Palace",
-      "position": "Goalkeeper"
+      "position": "Substitute"
     },
     {
       "providerId": "168421",
@@ -3213,7 +3213,7 @@
       "catalogId": "espn:275842",
       "name": "Dan Ndoye",
       "team": "Nottingham Forest",
-      "position": "Center Left Forward"
+      "position": "Center Right Forward"
     },
     {
       "providerId": "146679",
@@ -3283,7 +3283,7 @@
       "catalogId": "espn:243396",
       "name": "Morgan Gibbs-White",
       "team": "Nottingham Forest",
-      "position": "Center Right Forward"
+      "position": "Center Left Forward"
     },
     {
       "providerId": "338894",
@@ -3395,7 +3395,7 @@
       "catalogId": "espn:149981",
       "name": "Granit Xhaka",
       "team": "Sunderland",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "324991",
@@ -3465,7 +3465,7 @@
       "catalogId": "espn:340240",
       "name": "Noah Sadiki",
       "team": "Sunderland",
-      "position": "Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "214188",
@@ -3584,21 +3584,21 @@
       "catalogId": "espn:290076",
       "name": "Destiny Udogie",
       "team": "Tottenham Hotspur",
-      "position": "Left Back"
+      "position": "Substitute"
     },
     {
       "providerId": "194115",
       "catalogId": "espn:194115",
       "name": "Dominic Solanke",
       "team": "Tottenham Hotspur",
-      "position": "Substitute"
+      "position": "Forward"
     },
     {
       "providerId": "194450",
       "catalogId": "espn:194450",
       "name": "James Maddison",
       "team": "Tottenham Hotspur",
-      "position": "Attacking Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "282583",
@@ -3640,7 +3640,7 @@
       "catalogId": "espn:346820",
       "name": "Mateus Fernandes",
       "team": "Tottenham Hotspur",
-      "position": "Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "325042",
@@ -3682,7 +3682,7 @@
       "catalogId": "espn:303745",
       "name": "Omar Marmoush",
       "team": "Tottenham Hotspur",
-      "position": "Forward"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "268533",
@@ -3710,7 +3710,7 @@
       "catalogId": "espn:261047",
       "name": "Sandro Tonali",
       "team": "Tottenham Hotspur",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "304470",
@@ -28357,12 +28357,45 @@
           "away": "Ipswich",
           "id": "hull-ipswich",
           "kickoff": "2026-10-31T15:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Ipswich",
+              "scorer": "Florentino",
+              "assist": "Abdoul Ouattara",
+              "minute": "22'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Hull",
+              "scorer": "Tim Iroegbunam",
+              "assist": "Oliver McBurnie",
+              "minute": "58'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Hull",
+              "scorer": "Oliver McBurnie",
+              "assist": "",
+              "minute": "68'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Ipswich",
+              "scorer": "Julio Enciso",
+              "assist": "Azor Matusiwa",
+              "minute": "74'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401878763"
         },
         {
@@ -28372,9 +28405,9 @@
           "away": "Brighton",
           "id": "manchestercity-brighton",
           "kickoff": "2026-10-31T15:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
           "goals": [
@@ -28396,12 +28429,45 @@
           "away": "Sunderland",
           "id": "coventry-sunderland",
           "kickoff": "2026-10-31T15:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Coventry",
+              "scorer": "Tatsuhiro Sakamoto",
+              "assist": "",
+              "minute": "17'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Coventry",
+              "scorer": "Taiwo Awoniyi",
+              "assist": "",
+              "minute": "37'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Coventry",
+              "scorer": "Jack Rudoni",
+              "assist": "Victor Torp",
+              "minute": "52'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Sunderland",
+              "scorer": "Enzo Le Fée",
+              "assist": "",
+              "minute": "67'",
+              "ownGoal": false,
+              "penalty": true
+            }
+          ],
           "providerId": "401879247"
         },
         {
@@ -28411,12 +28477,29 @@
           "away": "Nottingham",
           "id": "brentford-nottingham",
           "kickoff": "2026-10-31T15:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Brentford",
+              "scorer": "Nikola Milenkovic",
+              "assist": "",
+              "minute": "30'",
+              "ownGoal": true,
+              "penalty": false
+            },
+            {
+              "team": "Brentford",
+              "scorer": "Igor Thiago",
+              "assist": "Jaidon Anthony",
+              "minute": "76'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879249"
         },
         {
@@ -28426,12 +28509,29 @@
           "away": "Leeds",
           "id": "bournemouth-leeds",
           "kickoff": "2026-10-31T15:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Bournemouth",
+              "scorer": "Evanilson",
+              "assist": "Justin Kluivert",
+              "minute": "31'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Bournemouth",
+              "scorer": "Amine Adli",
+              "assist": "Junior Kroupi",
+              "minute": "90'+4'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879251"
         },
         {
@@ -28518,11 +28618,11 @@
           ],
           "matchPoints": [
             12,
+            13,
             0,
             0,
-            0,
-            0,
-            0,
+            4,
+            11,
             0,
             0,
             0,
@@ -28530,11 +28630,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -28550,7 +28650,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -28565,12 +28665,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 12,
+          "total": 43.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28597,11 +28710,11 @@
           ],
           "matchPoints": [
             2,
+            4,
             0,
-            0,
-            0,
-            0,
-            0,
+            10,
+            12,
+            10,
             0,
             0,
             0,
@@ -28609,11 +28722,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -28629,7 +28742,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -28644,12 +28757,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 2,
+          "total": 41.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28676,11 +28802,11 @@
           ],
           "matchPoints": [
             0,
+            5,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            12,
             0,
             0,
             0,
@@ -28688,11 +28814,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -28700,7 +28826,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -28708,7 +28834,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -28718,17 +28844,30 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 0,
+          "total": 36.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28755,23 +28894,23 @@
           ],
           "matchPoints": [
             15,
+            5,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            22,
+            12,
             0,
             0,
             0,
             0
           ],
           "playerPoints": [
-            0,
-            0
+            1,
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -28779,7 +28918,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -28787,7 +28926,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -28797,17 +28936,37 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 15,
+          "total": 62.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28834,11 +28993,11 @@
           ],
           "matchPoints": [
             0,
+            5,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            2,
             0,
             0,
             0,
@@ -28893,7 +29052,7 @@
               "total": 0.5
             }
           ],
-          "total": 0.5,
+          "total": 23.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -28920,11 +29079,11 @@
           ],
           "matchPoints": [
             12,
+            13,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            12,
             0,
             0,
             0,
@@ -28932,11 +29091,11 @@
           ],
           "playerPoints": [
             6,
-            0
+            0.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -28952,7 +29111,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Leeds United",
@@ -28980,12 +29139,19 @@
               "total": 6
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 18,
+          "total": 59.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29012,11 +29178,11 @@
           ],
           "matchPoints": [
             12,
+            5,
             0,
             0,
             0,
-            0,
-            0,
+            12,
             0,
             0,
             0,
@@ -29077,7 +29243,7 @@
               "total": 0
             }
           ],
-          "total": 18,
+          "total": 35,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29104,11 +29270,11 @@
           ],
           "matchPoints": [
             12,
+            13,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            12,
             0,
             0,
             0,
@@ -29116,11 +29282,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -29136,7 +29302,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -29151,12 +29317,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 12,
+          "total": 56.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29186,20 +29365,20 @@
             0,
             0,
             0,
-            0,
-            0,
+            15,
+            12,
             0,
             0,
             0,
             0
           ],
           "playerPoints": [
-            0,
-            0
+            6,
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -29207,7 +29386,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -29215,7 +29394,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -29225,17 +29404,43 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 12,
+          "total": 48.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29262,11 +29467,11 @@
           ],
           "matchPoints": [
             0,
+            13,
             0,
             0,
-            0,
-            0,
-            0,
+            12,
+            12,
             0,
             0,
             0,
@@ -29274,11 +29479,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -29294,7 +29499,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -29322,12 +29527,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 0,
+          "total": 40.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29354,22 +29572,22 @@
           ],
           "matchPoints": [
             12,
+            5,
             0,
             0,
-            0,
-            0,
-            0,
+            12,
+            12,
             0,
             0,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            6,
             2
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -29378,7 +29596,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -29396,9 +29614,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "resolved",
@@ -29419,7 +29650,7 @@
               "total": 2
             }
           ],
-          "total": 14,
+          "total": 49,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29446,11 +29677,11 @@
           ],
           "matchPoints": [
             12,
+            5,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            11,
+            12,
             0,
             0,
             0,
@@ -29458,11 +29689,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -29478,7 +29709,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -29493,12 +29724,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 12,
+          "total": 47.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29525,11 +29769,11 @@
           ],
           "matchPoints": [
             12,
+            13,
+            5,
             0,
             0,
-            0,
-            0,
-            0,
+            15,
             0,
             0,
             0,
@@ -29577,7 +29821,7 @@
               "total": 0
             }
           ],
-          "total": 12,
+          "total": 45,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29604,22 +29848,22 @@
           ],
           "matchPoints": [
             12,
+            5,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            12,
             0,
             0,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            6,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -29628,7 +29872,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -29646,9 +29890,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "pending",
@@ -29656,7 +29913,7 @@
               "total": 0
             }
           ],
-          "total": 12,
+          "total": 51,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29685,20 +29942,20 @@
             4,
             0,
             0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            12,
             0,
             0,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            1,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -29707,7 +29964,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -29725,9 +29982,16 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
               "status": "pending",
@@ -29735,7 +29999,7 @@
               "total": 0
             }
           ],
-          "total": 4,
+          "total": 33,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29764,9 +30028,9 @@
             12,
             0,
             0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            2,
             0,
             0,
             0,
@@ -29827,7 +30091,7 @@
               "total": 2
             }
           ],
-          "total": 14,
+          "total": 32,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29854,11 +30118,11 @@
           ],
           "matchPoints": [
             11,
+            13,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            2,
             0,
             0,
             0,
@@ -29919,7 +30183,7 @@
               "total": 3.5
             }
           ],
-          "total": 14.5,
+          "total": 45.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29946,11 +30210,11 @@
           ],
           "matchPoints": [
             12,
+            5,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            12,
             0,
             0,
             0,
@@ -29998,7 +30262,7 @@
               "total": 0
             }
           ],
-          "total": 12,
+          "total": 45,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30025,23 +30289,23 @@
           ],
           "matchPoints": [
             2,
+            5,
             0,
             0,
-            0,
-            0,
-            0,
+            12,
+            10,
             0,
             0,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            1,
             0
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -30049,7 +30313,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -30057,7 +30321,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -30067,17 +30331,24 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 2,
+          "total": 30,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30104,11 +30375,11 @@
           ],
           "matchPoints": [
             12,
+            13,
             0,
             0,
-            0,
-            0,
-            0,
+            2,
+            12,
             0,
             0,
             0,
@@ -30169,7 +30440,7 @@
               "total": 0
             }
           ],
-          "total": 18,
+          "total": 45,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30196,11 +30467,11 @@
           ],
           "matchPoints": [
             12,
+            13,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            12,
             0,
             0,
             0,
@@ -30208,11 +30479,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -30228,7 +30499,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -30243,12 +30514,19 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 12,
+          "total": 53.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30275,11 +30553,11 @@
           ],
           "matchPoints": [
             12,
+            5,
             0,
             0,
-            0,
-            0,
-            0,
+            12,
+            15,
             0,
             0,
             0,
@@ -30287,11 +30565,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -30307,7 +30585,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -30322,12 +30600,25 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 12,
+          "total": 47.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30354,23 +30645,23 @@
           ],
           "matchPoints": [
             2,
+            4,
             0,
-            0,
-            0,
-            0,
-            0,
+            10,
+            24,
+            12,
             0,
             0,
             0,
             0
           ],
           "playerPoints": [
-            0,
-            0
+            6,
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -30378,7 +30669,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -30386,7 +30677,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -30396,17 +30687,43 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 2,
+          "total": 61.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30433,23 +30750,23 @@
           ],
           "matchPoints": [
             12,
+            5,
             0,
             0,
-            0,
-            0,
-            0,
+            11,
+            15,
             0,
             0,
             0,
             0
           ],
           "playerPoints": [
-            0,
-            0
+            6,
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -30457,7 +30774,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Brentford",
@@ -30465,7 +30782,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "AFC Bournemouth",
@@ -30475,17 +30792,43 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 12,
+          "total": 52.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30512,11 +30855,11 @@
           ],
           "matchPoints": [
             15,
+            13,
             0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            2,
+            12,
             0,
             0,
             0,
@@ -30564,7 +30907,7 @@
               "total": 0
             }
           ],
-          "total": 15,
+          "total": 54,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30591,11 +30934,11 @@
           ],
           "matchPoints": [
             12,
+            13,
             0,
-            0,
-            0,
-            0,
-            0,
+            4,
+            12,
+            12,
             0,
             0,
             0,
@@ -30606,7 +30949,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -30615,7 +30958,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -30633,7 +30976,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -30643,7 +30986,7 @@
               "total": 0
             }
           ],
-          "total": 12,
+          "total": 53,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30672,9 +31015,9 @@
             0,
             0,
             0,
-            0,
-            0,
-            0,
+            4,
+            15,
+            12,
             0,
             0,
             0,
@@ -30735,14 +31078,14 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 31,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 18,
+      "max": 62.5,
       "tipsRevealed": true
     },
     {
@@ -89476,8 +89819,8 @@
       "alias": "Dvorek",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 47.5,
-      "total": 750.5,
+      "playerPoints": 51,
+      "total": 791,
       "rank": 1,
       "finance": 20000
     },
@@ -89485,26 +89828,26 @@
       "alias": "Richi",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 33,
-      "total": 704,
+      "playerPoints": 42.5,
+      "total": 740.5,
       "rank": 2,
       "finance": 15750
-    },
-    {
-      "alias": "Jayda",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 46,
-      "total": 697,
-      "rank": 3,
-      "finance": 12250
     },
     {
       "alias": "RossoNero",
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 35,
-      "total": 695,
+      "total": 734,
+      "rank": 3,
+      "finance": 12250
+    },
+    {
+      "alias": "Jayda",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 52,
+      "total": 732,
       "rank": 4,
       "finance": 9250
     },
@@ -89512,26 +89855,26 @@
       "alias": "Andy",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 33,
-      "total": 691,
+      "playerPoints": 36.5,
+      "total": 722.5,
       "rank": 5,
       "finance": 6500
-    },
-    {
-      "alias": "Pelix",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 40,
-      "total": 687,
-      "rank": 6,
-      "finance": 3750
     },
     {
       "alias": "Aleš M.",
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 20,
-      "total": 677,
+      "total": 718,
+      "rank": 6,
+      "finance": 3750
+    },
+    {
+      "alias": "Pelix",
+      "roundWins": 0,
+      "exactDoubles": 2,
+      "playerPoints": 40,
+      "total": 714,
       "rank": 7,
       "finance": 2500
     },
@@ -89540,79 +89883,79 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 44.5,
-      "total": 676.5,
+      "total": 709.5,
       "rank": 8,
       "finance": 1250
+    },
+    {
+      "alias": "Bajgi",
+      "roundWins": 0,
+      "exactDoubles": 3,
+      "playerPoints": 61,
+      "total": 707,
+      "rank": 9,
+      "finance": -1500
+    },
+    {
+      "alias": "Usťa",
+      "roundWins": 0,
+      "exactDoubles": 3,
+      "playerPoints": 49.5,
+      "total": 706,
+      "rank": 10,
+      "finance": -1750
+    },
+    {
+      "alias": "Rommmik26",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 46.5,
+      "total": 705.5,
+      "rank": 11,
+      "finance": -2000
+    },
+    {
+      "alias": "Mudras",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 47,
+      "total": 705,
+      "rank": 12,
+      "finance": -2250
+    },
+    {
+      "alias": "Pospec",
+      "roundWins": 1,
+      "exactDoubles": 0,
+      "playerPoints": 44.5,
+      "total": 699.5,
+      "rank": 13,
+      "finance": -2500
     },
     {
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 40,
-      "total": 673,
-      "rank": 9,
-      "finance": -1500
+      "total": 696,
+      "rank": 14,
+      "finance": -2750
+    },
+    {
+      "alias": "Mráva",
+      "roundWins": 1,
+      "exactDoubles": 1,
+      "playerPoints": 56.5,
+      "total": 694,
+      "rank": 15,
+      "finance": -3000
     },
     {
       "alias": "Závodka",
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 37,
-      "total": 672,
-      "rank": 10,
-      "finance": -1750
-    },
-    {
-      "alias": "Bajgi",
-      "roundWins": 0,
-      "exactDoubles": 3,
-      "playerPoints": 57.5,
-      "total": 671.5,
-      "rank": 11,
-      "finance": -2000
-    },
-    {
-      "alias": "Rommmik26",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 40.5,
-      "total": 666.5,
-      "rank": 12,
-      "finance": -2250
-    },
-    {
-      "alias": "Mudras",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 46.5,
-      "total": 663.5,
-      "rank": 13,
-      "finance": -2500
-    },
-    {
-      "alias": "Pospec",
-      "roundWins": 1,
-      "exactDoubles": 0,
-      "playerPoints": 41,
-      "total": 660,
-      "rank": 14,
-      "finance": -2750
-    },
-    {
-      "alias": "Usťa",
-      "roundWins": 0,
-      "exactDoubles": 3,
-      "playerPoints": 45,
-      "total": 658.5,
-      "rank": 15,
-      "finance": -3000
-    },
-    {
-      "alias": "Mráva",
-      "roundWins": 1,
-      "exactDoubles": 1,
-      "playerPoints": 47,
-      "total": 653.5,
+      "total": 689,
       "rank": 16,
       "finance": -3250
     },
@@ -89620,35 +89963,35 @@
       "alias": "JR",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 41,
-      "total": 651,
+      "playerPoints": 44.5,
+      "total": 686.5,
       "rank": 17,
       "finance": -3500
-    },
-    {
-      "alias": "Grubis",
-      "roundWins": 2,
-      "exactDoubles": 0,
-      "playerPoints": 46.5,
-      "total": 650.5,
-      "rank": 18,
-      "finance": -3750
     },
     {
       "alias": "Dufec",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 33,
-      "total": 648,
-      "rank": 19,
-      "finance": -4000
+      "playerPoints": 34,
+      "total": 676,
+      "rank": 18,
+      "finance": -3750
     },
     {
       "alias": "Kašpec",
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 19.5,
-      "total": 641.5,
+      "total": 674.5,
+      "rank": 19,
+      "finance": -4000
+    },
+    {
+      "alias": "Grubis",
+      "roundWins": 2,
+      "exactDoubles": 0,
+      "playerPoints": 46.5,
+      "total": 668.5,
       "rank": 20,
       "finance": -4250
     },
@@ -89656,44 +89999,44 @@
       "alias": "Dominick Z.",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 37,
-      "total": 614,
+      "playerPoints": 37.5,
+      "total": 655.5,
       "rank": 21,
       "finance": -4500
-    },
-    {
-      "alias": "Luke",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 32,
-      "total": 610,
-      "rank": 22,
-      "finance": -4750
     },
     {
       "alias": "Maara",
       "roundWins": 0,
       "exactDoubles": 2,
-      "playerPoints": 24,
-      "total": 604,
+      "playerPoints": 27.5,
+      "total": 640.5,
+      "rank": 22,
+      "finance": -4750
+    },
+    {
+      "alias": "Mezňa",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 47.5,
+      "total": 639.5,
       "rank": 23,
       "finance": -5000
+    },
+    {
+      "alias": "Luke",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 33,
+      "total": 639,
+      "rank": 24,
+      "finance": -5250
     },
     {
       "alias": "Hasťa",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 62,
-      "total": 589,
-      "rank": 24,
-      "finance": -5250
-    },
-    {
-      "alias": "Mezňa",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 38,
-      "total": 580,
+      "total": 620,
       "rank": 25,
       "finance": -5500
     },
@@ -89701,8 +90044,8 @@
       "alias": "Pavel",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 45.5,
-      "total": 572.5,
+      "playerPoints": 49,
+      "total": 617,
       "rank": 26,
       "finance": -5750
     },
@@ -89711,7 +90054,7 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 26.5,
-      "total": 570.5,
+      "total": 601.5,
       "rank": 27,
       "finance": -6000
     }
@@ -89728,18 +90071,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-31T15:18:56.882788+00:00",
-  "fingerprint": "3a158d5b9015195d554cb6548ac6658ab753e157c479e6decbbec0fc69025f3c",
+  "generatedAt": "2026-10-31T17:55:45.271488+00:00",
+  "fingerprint": "0d1706d114d6410d117170cf2fe8d3f5ec3f6c8aa1d6703bed257886cfe81451",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-31T15:18:56.883647+00:00",
-    "lastDataChangeAt": "2026-10-31T15:18:56.882788+00:00",
-    "fingerprint": "3a158d5b9015195d554cb6548ac6658ab753e157c479e6decbbec0fc69025f3c",
+    "lastSuccessfulRunAt": "2026-10-31T17:55:45.272240+00:00",
+    "lastDataChangeAt": "2026-10-31T17:55:45.271488+00:00",
+    "fingerprint": "0d1706d114d6410d117170cf2fe8d3f5ec3f6c8aa1d6703bed257886cfe81451",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-31T15:18:12.370721+00:00",
+      "footballFetchedAt": "2026-10-31T17:54:25.999539+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-31T15:18:08.931Z"
+      "whatsappFetchedAt": "2026-10-31T17:54:23.090Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -89762,8 +90105,8 @@
         "statuses": {
           "did_not_play": 25,
           "manual_override": 7,
-          "pending": 43,
-          "resolved": 411
+          "pending": 19,
+          "resolved": 435
         },
         "methods": {
           "exact": 155,
