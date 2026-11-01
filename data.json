@@ -90297,18 +90297,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-10-31T23:20:59.882579+00:00",
+  "generatedAt": "2026-11-01T09:08:48.378327+00:00",
   "fingerprint": "49a41b613176d9c3bb22c80d25f60e9e7e4f701ea3505c248bb2f216da4bc741",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-31T23:20:59.883591+00:00",
-    "lastDataChangeAt": "2026-10-31T23:20:59.882579+00:00",
+    "lastSuccessfulRunAt": "2026-11-01T09:08:48.379118+00:00",
+    "lastDataChangeAt": "2026-11-01T09:08:48.378327+00:00",
     "fingerprint": "49a41b613176d9c3bb22c80d25f60e9e7e4f701ea3505c248bb2f216da4bc741",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-31T23:19:24.122075+00:00",
+      "footballFetchedAt": "2026-11-01T09:08:03.751429+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-10-31T23:19:23.148Z"
+      "whatsappFetchedAt": "2026-11-01T09:08:03.019Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
