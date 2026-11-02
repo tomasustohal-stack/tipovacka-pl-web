@@ -1561,7 +1561,7 @@
       "catalogId": "espn:291307",
       "name": "Brennan Johnson",
       "team": "Everton",
-      "position": "Attacking Midfielder Right"
+      "position": "Substitute"
     },
     {
       "providerId": "302162",
@@ -1603,7 +1603,7 @@
       "catalogId": "espn:283586",
       "name": "Jake O'Brien",
       "team": "Everton",
-      "position": "Center Left Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "276220",
@@ -1652,7 +1652,7 @@
       "catalogId": "espn:311963",
       "name": "Merlin Röhl",
       "team": "Everton",
-      "position": "Right Back"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "4946",
@@ -2989,7 +2989,7 @@
       "catalogId": "espn:296622",
       "name": "Anthony Elanga",
       "team": "Newcastle United",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "359108",
@@ -3031,7 +3031,7 @@
       "catalogId": "espn:172836",
       "name": "Jacob Murphy",
       "team": "Newcastle United",
-      "position": "Attacking Midfielder Right"
+      "position": "Substitute"
     },
     {
       "providerId": "286090",
@@ -3052,7 +3052,7 @@
       "catalogId": "espn:202232",
       "name": "Joelinton",
       "team": "Newcastle United",
-      "position": "Left Midfielder"
+      "position": "Right Midfielder"
     },
     {
       "providerId": "414116",
@@ -3143,7 +3143,7 @@
       "catalogId": "espn:323986",
       "name": "Nico González",
       "team": "Newcastle United",
-      "position": "Right Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "384372",
@@ -90306,18 +90306,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-11-02T09:22:59.819735+00:00",
-  "fingerprint": "e024a1f7f5503cc91b9fb25432921c307db5342f5b5248fff7148d6b2f309f36",
+  "generatedAt": "2026-11-02T20:19:58.755143+00:00",
+  "fingerprint": "01e3446e93258bbcde2af1bd28ae3b710326a6dcd87fb04e335f27de9aa63645",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-02T09:22:59.820658+00:00",
-    "lastDataChangeAt": "2026-11-02T09:22:59.819735+00:00",
-    "fingerprint": "e024a1f7f5503cc91b9fb25432921c307db5342f5b5248fff7148d6b2f309f36",
+    "lastSuccessfulRunAt": "2026-11-02T20:19:58.755915+00:00",
+    "lastDataChangeAt": "2026-11-02T20:19:58.755143+00:00",
+    "fingerprint": "01e3446e93258bbcde2af1bd28ae3b710326a6dcd87fb04e335f27de9aa63645",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-02T09:22:11.420843+00:00",
+      "footballFetchedAt": "2026-11-02T20:19:09.836492+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-11-02T09:22:10.947Z"
+      "whatsappFetchedAt": "2026-11-02T20:19:09.059Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
