@@ -28629,12 +28629,21 @@
           "away": "Everton",
           "id": "newcastle-everton",
           "kickoff": "2026-11-02T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Everton",
+              "scorer": "Thierno Barry",
+              "assist": "",
+              "minute": "49'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401878762"
         }
       ],
@@ -29565,7 +29574,7 @@
             12,
             5,
             5,
-            0
+            5
           ],
           "playerPoints": [
             0,
@@ -29635,7 +29644,7 @@
               "total": 3.5
             }
           ],
-          "total": 62.5,
+          "total": 67.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -29880,7 +29889,7 @@
             30,
             5,
             11,
-            0
+            11
           ],
           "playerPoints": [
             1,
@@ -29931,9 +29940,9 @@
               "total": 0
             }
           ],
-          "total": 92,
+          "total": 103,
           "exactDouble": 1,
-          "roundWinner": false,
+          "roundWinner": true,
           "submitted": true
         },
         {
@@ -29966,7 +29975,7 @@
             12,
             4,
             0,
-            0
+            5
           ],
           "playerPoints": [
             6,
@@ -30036,7 +30045,7 @@
               "total": 3.5
             }
           ],
-          "total": 70.5,
+          "total": 75.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -30071,7 +30080,7 @@
             15,
             10,
             11,
-            0
+            5
           ],
           "playerPoints": [
             1,
@@ -30135,7 +30144,7 @@
               "total": 3.5
             }
           ],
-          "total": 72.5,
+          "total": 77.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -31243,7 +31252,7 @@
             15,
             0,
             5,
-            0
+            11
           ],
           "playerPoints": [
             6,
@@ -31313,14 +31322,14 @@
               "total": 0
             }
           ],
-          "total": 57,
+          "total": 68,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
-      "complete": false,
-      "max": 97.5,
+      "complete": true,
+      "max": 103,
       "tipsRevealed": true
     },
     {
@@ -90055,7 +90064,7 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 51,
-      "total": 813,
+      "total": 818,
       "rank": 1,
       "finance": 20000
     },
@@ -90150,13 +90159,31 @@
       "finance": -2000
     },
     {
+      "alias": "Kašpec",
+      "roundWins": 1,
+      "exactDoubles": 3,
+      "playerPoints": 20.5,
+      "total": 732.5,
+      "rank": 12,
+      "finance": -2250
+    },
+    {
+      "alias": "Rommmik26",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 50,
+      "total": 730,
+      "rank": 13,
+      "finance": -2500
+    },
+    {
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 41,
       "total": 729,
-      "rank": 12,
-      "finance": -2250
+      "rank": 14,
+      "finance": -2750
     },
     {
       "alias": "Pospec",
@@ -90164,32 +90191,14 @@
       "exactDoubles": 0,
       "playerPoints": 50.5,
       "total": 726.5,
-      "rank": 13,
-      "finance": -2500
-    },
-    {
-      "alias": "Rommmik26",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 50,
-      "total": 725,
-      "rank": 14,
-      "finance": -2750
+      "rank": 15,
+      "finance": -3000
     },
     {
       "alias": "Závodka",
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 37.5,
-      "total": 721.5,
-      "rank": 15,
-      "finance": -3000
-    },
-    {
-      "alias": "Kašpec",
-      "roundWins": 0,
-      "exactDoubles": 3,
-      "playerPoints": 20.5,
       "total": 721.5,
       "rank": 16,
       "finance": -3250
@@ -90231,20 +90240,20 @@
       "finance": -4250
     },
     {
+      "alias": "Luke",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 36.5,
+      "total": 683.5,
+      "rank": 21,
+      "finance": -4500
+    },
+    {
       "alias": "Dominick Z.",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 43.5,
       "total": 681.5,
-      "rank": 21,
-      "finance": -4500
-    },
-    {
-      "alias": "Luke",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 36.5,
-      "total": 678.5,
       "rank": 22,
       "finance": -4750
     },
@@ -90289,35 +90298,35 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 32.5,
-      "total": 627.5,
+      "total": 638.5,
       "rank": 27,
       "finance": -6000
     }
   ],
   "news": {
-    "round": 8,
+    "round": 9,
     "groupMoment": {
-      "nick": "Závodka",
-      "submittedAt": "2026-01-17T13:32:39.000Z",
-      "text": "Gio je nejakej den kdy nedrzis sklenicku sana v ruce?🙂",
-      "reactions": 22,
-      "comments": 12
+      "nick": "Andy",
+      "submittedAt": "2026-01-07T19:50:18.000Z",
+      "text": "Už hraje za Leeds",
+      "reactions": 21,
+      "comments": 11
     }
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-11-02T20:19:58.755143+00:00",
-  "fingerprint": "01e3446e93258bbcde2af1bd28ae3b710326a6dcd87fb04e335f27de9aa63645",
+  "generatedAt": "2026-11-03T02:53:44.088196+00:00",
+  "fingerprint": "d0c6b42d7b6c2addf57899604b9a0cc39b5d54c3b05ab4a787af88e3fa89e199",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-02T20:19:58.755915+00:00",
-    "lastDataChangeAt": "2026-11-02T20:19:58.755143+00:00",
-    "fingerprint": "01e3446e93258bbcde2af1bd28ae3b710326a6dcd87fb04e335f27de9aa63645",
+    "lastSuccessfulRunAt": "2026-11-03T02:53:44.088629+00:00",
+    "lastDataChangeAt": "2026-11-03T02:53:44.088196+00:00",
+    "fingerprint": "d0c6b42d7b6c2addf57899604b9a0cc39b5d54c3b05ab4a787af88e3fa89e199",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-02T20:19:09.836492+00:00",
+      "footballFetchedAt": "2026-11-03T02:53:04.282507+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-11-02T20:19:09.059Z"
+      "whatsappFetchedAt": "2026-11-03T02:53:03.174Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
