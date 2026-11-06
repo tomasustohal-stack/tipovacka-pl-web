@@ -31449,12 +31449,45 @@
           "away": "Coventry",
           "id": "everton-coventry",
           "kickoff": "2026-11-06T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Coventry",
+              "scorer": "Yann Gboho",
+              "assist": "",
+              "minute": "52'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Everton",
+              "scorer": "Thierno Barry",
+              "assist": "Vitaliy Mykolenko",
+              "minute": "56'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Everton",
+              "scorer": "Thierno Barry",
+              "assist": "",
+              "minute": "61'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Everton",
+              "scorer": "Kiernan Dewsbury-Hall",
+              "assist": "Thierno Barry",
+              "minute": "81'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401879242"
         },
         {
@@ -31517,7 +31550,7 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
@@ -31563,7 +31596,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -31596,16 +31629,16 @@
             0,
             0,
             0,
-            0,
+            11,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -31614,7 +31647,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -31632,9 +31665,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
               "status": "pending",
@@ -31642,7 +31694,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 25,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -31675,16 +31727,16 @@
             0,
             0,
             0,
-            0,
+            11,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -31693,7 +31745,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -31711,9 +31763,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
               "status": "pending",
@@ -31721,7 +31792,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 25,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -31754,17 +31825,17 @@
             0,
             0,
             0,
-            0,
+            11,
             0,
             0
           ],
           "playerPoints": [
             0,
-            0
+            8
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -31780,7 +31851,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -31795,12 +31866,31 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 3,
+                  "points": 6
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 8
             }
           ],
-          "total": 0,
+          "total": 19,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -31833,7 +31923,7 @@
             0,
             0,
             0,
-            0,
+            4,
             0,
             0
           ],
@@ -31879,7 +31969,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 4,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -31912,7 +32002,7 @@
             0,
             0,
             0,
-            0,
+            10,
             0,
             0
           ],
@@ -31958,7 +32048,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 10,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -31991,7 +32081,7 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
@@ -32037,7 +32127,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32070,17 +32160,17 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
           "playerPoints": [
             0,
-            0
+            8
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -32096,7 +32186,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -32111,12 +32201,31 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 3,
+                  "points": 6
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 8
             }
           ],
-          "total": 0,
+          "total": 20,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32149,17 +32258,17 @@
             0,
             0,
             0,
-            0,
+            11,
             0,
             0
           ],
           "playerPoints": [
             0,
-            0
+            8
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -32175,7 +32284,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -32190,12 +32299,31 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 3,
+                  "points": 6
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 8
             }
           ],
-          "total": 0,
+          "total": 19,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32228,16 +32356,16 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -32246,7 +32374,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -32264,9 +32392,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
               "status": "pending",
@@ -32274,7 +32421,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 26,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32307,16 +32454,16 @@
             0,
             0,
             0,
-            0,
+            10,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -32325,7 +32472,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -32343,9 +32490,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
               "status": "pending",
@@ -32353,7 +32519,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 24,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32386,17 +32552,17 @@
             0,
             0,
             0,
-            0,
+            11,
             0,
             0
           ],
           "playerPoints": [
             0,
-            0
+            8
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -32412,7 +32578,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -32427,12 +32593,31 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 3,
+                  "points": 6
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 8
             }
           ],
-          "total": 0,
+          "total": 19,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32465,7 +32650,7 @@
             0,
             0,
             0,
-            0,
+            10,
             0,
             0
           ],
@@ -32511,7 +32696,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 10,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32544,17 +32729,17 @@
             0,
             0,
             0,
-            0,
+            15,
             0,
             0
           ],
           "playerPoints": [
             0,
-            0
+            8
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -32570,7 +32755,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -32585,12 +32770,31 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 3,
+                  "points": 6
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 8
             }
           ],
-          "total": 0,
+          "total": 23,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32623,7 +32827,7 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
@@ -32669,7 +32873,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32702,7 +32906,7 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
@@ -32748,7 +32952,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32781,7 +32985,7 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
@@ -32827,7 +33031,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32860,7 +33064,7 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
@@ -32906,7 +33110,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -32939,7 +33143,7 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
@@ -32985,7 +33189,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -33018,16 +33222,16 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -33036,7 +33240,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -33054,9 +33258,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
               "status": "pending",
@@ -33064,7 +33287,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 26,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -33097,7 +33320,7 @@
             0,
             0,
             0,
-            0,
+            10,
             0,
             0
           ],
@@ -33143,7 +33366,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 10,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -33176,17 +33399,17 @@
             0,
             0,
             0,
-            0,
+            11,
             0,
             0
           ],
           "playerPoints": [
             0,
-            0
+            8
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -33202,7 +33425,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -33217,12 +33440,31 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 3,
+                  "points": 6
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 8
             }
           ],
-          "total": 0,
+          "total": 19,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -33255,7 +33497,7 @@
             0,
             0,
             0,
-            0,
+            10,
             0,
             0
           ],
@@ -33301,7 +33543,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 10,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -33334,16 +33576,16 @@
             0,
             0,
             0,
-            0,
+            11,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -33352,7 +33594,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -33370,9 +33612,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
               "status": "pending",
@@ -33380,7 +33641,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 25,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -33413,7 +33674,7 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
@@ -33459,7 +33720,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -33492,7 +33753,7 @@
             0,
             0,
             0,
-            0,
+            12,
             0,
             0
           ],
@@ -33538,7 +33799,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -33571,16 +33832,16 @@
             0,
             0,
             0,
-            0,
+            11,
             0,
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -33589,7 +33850,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Everton",
@@ -33607,9 +33868,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
               "status": "pending",
@@ -33617,14 +33897,14 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 25,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 0,
+      "max": 26,
       "tipsRevealed": true
     },
     {
@@ -90333,8 +90613,8 @@
       "alias": "Dvorek",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 51,
-      "total": 818,
+      "playerPoints": 65,
+      "total": 844,
       "rank": 1,
       "finance": 20000
     },
@@ -90342,8 +90622,8 @@
       "alias": "Richi",
       "roundWins": 0,
       "exactDoubles": 3,
-      "playerPoints": 42.5,
-      "total": 775.5,
+      "playerPoints": 50.5,
+      "total": 794.5,
       "rank": 2,
       "finance": 15750
     },
@@ -90351,8 +90631,8 @@
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 52,
-      "total": 760,
+      "playerPoints": 66,
+      "total": 784,
       "rank": 3,
       "finance": 12250
     },
@@ -90361,106 +90641,106 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 35,
-      "total": 759,
+      "total": 771,
       "rank": 4,
       "finance": 9250
+    },
+    {
+      "alias": "Pelix",
+      "roundWins": 0,
+      "exactDoubles": 2,
+      "playerPoints": 57.5,
+      "total": 764.5,
+      "rank": 5,
+      "finance": 6500
     },
     {
       "alias": "Andy",
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 42.5,
-      "total": 751.5,
-      "rank": 5,
-      "finance": 6500
+      "total": 763.5,
+      "rank": 6,
+      "finance": 3750
     },
     {
       "alias": "Peloš",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 51,
-      "total": 750,
-      "rank": 6,
-      "finance": 3750
+      "total": 762,
+      "rank": 7,
+      "finance": 2500
+    },
+    {
+      "alias": "JR",
+      "roundWins": 0,
+      "exactDoubles": 3,
+      "playerPoints": 58.5,
+      "total": 754.5,
+      "rank": 8,
+      "finance": 1250
+    },
+    {
+      "alias": "Bajgi",
+      "roundWins": 0,
+      "exactDoubles": 3,
+      "playerPoints": 75,
+      "total": 754,
+      "rank": 9,
+      "finance": -1500
+    },
+    {
+      "alias": "Rommmik26",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 58,
+      "total": 753,
+      "rank": 10,
+      "finance": -1750
     },
     {
       "alias": "Aleš M.",
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 20.5,
-      "total": 740.5,
-      "rank": 7,
-      "finance": 2500
+      "total": 752.5,
+      "rank": 11,
+      "finance": -2000
+    },
+    {
+      "alias": "Pospec",
+      "roundWins": 1,
+      "exactDoubles": 0,
+      "playerPoints": 64.5,
+      "total": 751.5,
+      "rank": 12,
+      "finance": -2250
     },
     {
       "alias": "Mudras",
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 47,
-      "total": 740,
-      "rank": 8,
-      "finance": 1250
-    },
-    {
-      "alias": "Pelix",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 43.5,
-      "total": 738.5,
-      "rank": 9,
-      "finance": -1500
-    },
-    {
-      "alias": "JR",
-      "roundWins": 0,
-      "exactDoubles": 3,
-      "playerPoints": 50.5,
-      "total": 735.5,
-      "rank": 10,
-      "finance": -1750
-    },
-    {
-      "alias": "Bajgi",
-      "roundWins": 0,
-      "exactDoubles": 3,
-      "playerPoints": 67,
-      "total": 735,
-      "rank": 11,
-      "finance": -2000
+      "total": 750,
+      "rank": 13,
+      "finance": -2500
     },
     {
       "alias": "Kašpec",
       "roundWins": 1,
       "exactDoubles": 3,
       "playerPoints": 20.5,
-      "total": 732.5,
-      "rank": 12,
-      "finance": -2250
-    },
-    {
-      "alias": "Rommmik26",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 50,
-      "total": 730,
-      "rank": 13,
-      "finance": -2500
-    },
-    {
-      "alias": "Giorgio",
-      "roundWins": 0,
-      "exactDoubles": 1,
-      "playerPoints": 41,
-      "total": 729,
+      "total": 742.5,
       "rank": 14,
       "finance": -2750
     },
     {
-      "alias": "Pospec",
-      "roundWins": 1,
-      "exactDoubles": 0,
-      "playerPoints": 50.5,
-      "total": 726.5,
+      "alias": "Usťa",
+      "roundWins": 0,
+      "exactDoubles": 3,
+      "playerPoints": 57.5,
+      "total": 738,
       "rank": 15,
       "finance": -3000
     },
@@ -90469,25 +90749,25 @@
       "roundWins": 1,
       "exactDoubles": 2,
       "playerPoints": 37.5,
-      "total": 721.5,
+      "total": 733.5,
       "rank": 16,
       "finance": -3250
-    },
-    {
-      "alias": "Usťa",
-      "roundWins": 0,
-      "exactDoubles": 3,
-      "playerPoints": 49.5,
-      "total": 719,
-      "rank": 17,
-      "finance": -3500
     },
     {
       "alias": "Mráva",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 56.5,
-      "total": 708,
+      "playerPoints": 70.5,
+      "total": 733,
+      "rank": 17,
+      "finance": -3500
+    },
+    {
+      "alias": "Giorgio",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 41,
+      "total": 733,
       "rank": 18,
       "finance": -3750
     },
@@ -90496,7 +90776,7 @@
       "roundWins": 2,
       "exactDoubles": 0,
       "playerPoints": 52.5,
-      "total": 699.5,
+      "total": 711.5,
       "rank": 19,
       "finance": -4000
     },
@@ -90505,7 +90785,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 34,
-      "total": 696,
+      "total": 708,
       "rank": 20,
       "finance": -4250
     },
@@ -90514,43 +90794,43 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 36.5,
-      "total": 683.5,
+      "total": 695.5,
       "rank": 21,
       "finance": -4500
+    },
+    {
+      "alias": "Maara",
+      "roundWins": 0,
+      "exactDoubles": 2,
+      "playerPoints": 41.5,
+      "total": 693.5,
+      "rank": 22,
+      "finance": -4750
     },
     {
       "alias": "Dominick Z.",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 43.5,
-      "total": 681.5,
-      "rank": 22,
-      "finance": -4750
-    },
-    {
-      "alias": "Maara",
-      "roundWins": 0,
-      "exactDoubles": 2,
-      "playerPoints": 27.5,
-      "total": 668.5,
+      "total": 691.5,
       "rank": 23,
       "finance": -5000
+    },
+    {
+      "alias": "Pavel",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 58,
+      "total": 678,
+      "rank": 24,
+      "finance": -5250
     },
     {
       "alias": "Mezňa",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 47.5,
-      "total": 661.5,
-      "rank": 24,
-      "finance": -5250
-    },
-    {
-      "alias": "Pavel",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 50,
-      "total": 658,
+      "total": 671.5,
       "rank": 25,
       "finance": -5500
     },
@@ -90559,7 +90839,7 @@
       "roundWins": 0,
       "exactDoubles": 2,
       "playerPoints": 63,
-      "total": 656,
+      "total": 668,
       "rank": 26,
       "finance": -5750
     },
@@ -90567,8 +90847,8 @@
       "alias": "Škardis",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 32.5,
-      "total": 638.5,
+      "playerPoints": 46.5,
+      "total": 663.5,
       "rank": 27,
       "finance": -6000
     }
@@ -90585,18 +90865,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-11-06T20:04:45.082280+00:00",
-  "fingerprint": "83ee6515bdc43ac8ed4fefc2b52db184d2a4307db10de298581cc2b53032032e",
+  "generatedAt": "2026-11-06T23:03:41.085731+00:00",
+  "fingerprint": "f1e4b4981c16b494cf1fb96b52c511338d28f08540909c43c4c2675c73c1e0f9",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-06T20:04:45.082754+00:00",
-    "lastDataChangeAt": "2026-11-06T20:04:45.082280+00:00",
-    "fingerprint": "83ee6515bdc43ac8ed4fefc2b52db184d2a4307db10de298581cc2b53032032e",
+    "lastSuccessfulRunAt": "2026-11-06T23:03:41.086467+00:00",
+    "lastDataChangeAt": "2026-11-06T23:03:41.085731+00:00",
+    "fingerprint": "f1e4b4981c16b494cf1fb96b52c511338d28f08540909c43c4c2675c73c1e0f9",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-06T20:03:04.259550+00:00",
+      "footballFetchedAt": "2026-11-06T23:02:50.102378+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-11-06T20:03:02.954Z"
+      "whatsappFetchedAt": "2026-11-06T23:02:49.404Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -90619,8 +90899,8 @@
         "statuses": {
           "did_not_play": 26,
           "manual_override": 7,
-          "pending": 54,
-          "resolved": 453
+          "pending": 41,
+          "resolved": 466
         },
         "methods": {
           "exact": 155,
