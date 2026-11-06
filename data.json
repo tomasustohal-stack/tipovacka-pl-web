@@ -31974,7 +31974,7 @@
         },
         {
           "alias": "Pavel",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32043,7 +32043,7 @@
         },
         {
           "alias": "Richi",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32181,7 +32181,7 @@
         },
         {
           "alias": "Jayda",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32319,7 +32319,7 @@
         },
         {
           "alias": "Kašpec",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32388,7 +32388,7 @@
         },
         {
           "alias": "Rommmik26",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32526,7 +32526,7 @@
         },
         {
           "alias": "Grubis",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32802,7 +32802,7 @@
         },
         {
           "alias": "Pelix",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -33147,7 +33147,7 @@
         },
         {
           "alias": "RossoNero",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -33285,7 +33285,7 @@
         },
         {
           "alias": "Škardis",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -90315,18 +90315,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-11-06T09:19:50.556273+00:00",
-  "fingerprint": "ab139835e32ac453707a026200013e46a73cf388c1f8e90ff2f9ae711037dcf2",
+  "generatedAt": "2026-11-06T17:27:51.865767+00:00",
+  "fingerprint": "5697f9c7a90eace52c4b757dd8d51e15db2952d9ad6e8913cb7c4121a8088d25",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-06T09:19:50.557406+00:00",
-    "lastDataChangeAt": "2026-11-06T09:19:50.556273+00:00",
-    "fingerprint": "ab139835e32ac453707a026200013e46a73cf388c1f8e90ff2f9ae711037dcf2",
+    "lastSuccessfulRunAt": "2026-11-06T17:27:51.866636+00:00",
+    "lastDataChangeAt": "2026-11-06T17:27:51.865767+00:00",
+    "fingerprint": "5697f9c7a90eace52c4b757dd8d51e15db2952d9ad6e8913cb7c4121a8088d25",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-06T09:19:02.424654+00:00",
+      "footballFetchedAt": "2026-11-06T17:27:04.518798+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-11-06T09:19:01.567Z"
+      "whatsappFetchedAt": "2026-11-06T17:27:02.991Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
