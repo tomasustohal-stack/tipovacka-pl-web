@@ -31905,7 +31905,7 @@
         },
         {
           "alias": "Závodka",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32250,7 +32250,7 @@
         },
         {
           "alias": "JR",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32457,7 +32457,7 @@
         },
         {
           "alias": "Luke",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32595,7 +32595,7 @@
         },
         {
           "alias": "Hasťa",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -32664,7 +32664,7 @@
         },
         {
           "alias": "Peloš",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -33078,7 +33078,7 @@
         },
         {
           "alias": "Mráva",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -33216,7 +33216,7 @@
         },
         {
           "alias": "Aleš M.",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -43538,7 +43538,7 @@
           "home": "Nottingham",
           "away": "Everton",
           "id": "nottingham-everton",
-          "kickoff": "2026-12-19T15:00Z",
+          "kickoff": "2026-12-20T14:00Z",
           "completed": false,
           "homeGoals": null,
           "awayGoals": null,
@@ -90315,18 +90315,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-11-03T02:53:44.088196+00:00",
-  "fingerprint": "d0c6b42d7b6c2addf57899604b9a0cc39b5d54c3b05ab4a787af88e3fa89e199",
+  "generatedAt": "2026-11-06T09:19:50.556273+00:00",
+  "fingerprint": "ab139835e32ac453707a026200013e46a73cf388c1f8e90ff2f9ae711037dcf2",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-03T02:53:44.088629+00:00",
-    "lastDataChangeAt": "2026-11-03T02:53:44.088196+00:00",
-    "fingerprint": "d0c6b42d7b6c2addf57899604b9a0cc39b5d54c3b05ab4a787af88e3fa89e199",
+    "lastSuccessfulRunAt": "2026-11-06T09:19:50.557406+00:00",
+    "lastDataChangeAt": "2026-11-06T09:19:50.556273+00:00",
+    "fingerprint": "ab139835e32ac453707a026200013e46a73cf388c1f8e90ff2f9ae711037dcf2",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-03T02:53:04.282507+00:00",
+      "footballFetchedAt": "2026-11-06T09:19:02.424654+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-11-03T02:53:03.174Z"
+      "whatsappFetchedAt": "2026-11-06T09:19:01.567Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
