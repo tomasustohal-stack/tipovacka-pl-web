@@ -1603,7 +1603,7 @@
       "catalogId": "espn:283586",
       "name": "Jake O'Brien",
       "team": "Everton",
-      "position": "Right Back"
+      "position": "Substitute"
     },
     {
       "providerId": "276220",
@@ -1652,7 +1652,7 @@
       "catalogId": "espn:311963",
       "name": "Merlin Röhl",
       "team": "Everton",
-      "position": "Attacking Midfielder Right"
+      "position": "Right Back"
     },
     {
       "providerId": "4946",
@@ -1687,7 +1687,7 @@
       "catalogId": "espn:340640",
       "name": "Tyler Dibling",
       "team": "Everton",
-      "position": "Substitute"
+      "position": "Attacking Midfielder Right"
     },
     {
       "providerId": "368864",
@@ -31491,24 +31491,23 @@
       "entries": [
         {
           "alias": "Andy",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:3",
+            "1:2",
+            "1:2",
+            "3:0",
+            "1:2",
+            "2:2",
+            "2:1",
+            "2:1",
+            "1:3",
+            "3:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Alexander Isak",
+            "Kai Havertz"
           ],
           "matchPoints": [
             0,
@@ -31536,48 +31535,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Pospec",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "1:1",
+            "2:0",
+            "1:2",
+            "1:2",
+            "1:1",
+            "2:0",
+            "1:2",
+            "2:0"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Thierno Barry",
+            "Morgan Rogers"
           ],
           "matchPoints": [
             0,
@@ -31605,48 +31614,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Morgan Rogers",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Maara",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "1:2",
+            "2:0",
+            "1:2",
+            "2:1",
+            "2:1",
+            "2:0",
+            "1:2",
+            "3:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Thierno Barry",
+            "Alexander Isak"
           ],
           "matchPoints": [
             0,
@@ -31674,48 +31693,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Usťa",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:3",
+            "2:2",
+            "2:1",
+            "3:0",
+            "1:2",
+            "1:2",
+            "2:1",
+            "2:0",
+            "0:2",
+            "2:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Kai Havertz",
+            "Thierno Barry"
           ],
           "matchPoints": [
             0,
@@ -31743,48 +31772,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Giorgio",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:1",
+            "1:2",
+            "2:0",
+            "1:2",
+            "1:1",
+            "1:1",
+            "1:1",
+            "1:2",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Kai Havertz",
+            "Alexander Isak"
           ],
           "matchPoints": [
             0,
@@ -31812,48 +31851,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mudras",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "0:2",
+            "1:2",
+            "1:1",
+            "3:1",
+            "0:2",
+            "1:1",
+            "2:2",
+            "1:0",
+            "1:2",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Morgan Rogers",
+            "Alexander Isak"
           ],
           "matchPoints": [
             0,
@@ -31881,48 +31930,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Morgan Rogers",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Závodka",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "2:2",
+            "1:2",
+            "2:0",
+            "3:2",
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:3",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Brian Brobbey",
+            "Bryan Mbeumo"
           ],
           "matchPoints": [
             0,
@@ -31950,48 +32009,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Sunderland",
+              "sourceName": "Brian Brobbey",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester United",
+              "sourceName": "Bryan Mbeumo",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Pavel",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "0:2",
+            "1:2",
+            "1:2",
+            "3:0",
+            "1:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:2",
+            "3:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Kai Havertz",
+            "Thierno Barry"
           ],
           "matchPoints": [
             0,
@@ -32019,48 +32088,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Richi",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:3",
+            "2:2",
+            "1:2",
+            "3:0",
+            "1:2",
+            "2:1",
+            "1:1",
+            "2:0",
+            "1:2",
+            "3:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Alexander Isak",
+            "Thierno Barry"
           ],
           "matchPoints": [
             0,
@@ -32088,48 +32167,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Dvorek",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:1",
+            "1:2",
+            "2:0",
+            "1:2",
+            "1:1",
+            "2:1",
+            "2:1",
+            "1:2",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Thierno Barry",
+            "Bryan Mbeumo"
           ],
           "matchPoints": [
             0,
@@ -32157,48 +32246,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester United",
+              "sourceName": "Bryan Mbeumo",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Jayda",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:0",
+            "1:2",
+            "2:0",
+            "0:1",
+            "2:1",
+            "2:1",
+            "1:0",
+            "0:2",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Thierno Barry",
+            "Alexander Isak"
           ],
           "matchPoints": [
             0,
@@ -32226,48 +32325,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "JR",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "2:1",
+            "0:2",
+            "3:0",
+            "1:2",
+            "1:1",
+            "2:1",
+            "2:0",
+            "1:2",
+            "2:0"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Kai Havertz",
+            "Thierno Barry"
           ],
           "matchPoints": [
             0,
@@ -32295,48 +32404,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Kašpec",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:3",
+            "0:2",
+            "1:2",
+            "2:0",
+            "0:2",
+            "2:1",
+            "1:1",
+            "1:0",
+            "0:2",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 1,
           "players": [
-            "",
-            ""
+            "Kai Havertz",
+            "David Raya"
           ],
           "matchPoints": [
             0,
@@ -32364,48 +32483,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "David Raya",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Rommmik26",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:3",
+            "1:1",
+            "1:2",
+            "2:0",
+            "1:2",
+            "1:1",
+            "2:1",
+            "3:1",
+            "1:3",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Alexander Isak",
+            "Thierno Barry"
           ],
           "matchPoints": [
             0,
@@ -32433,48 +32562,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Luke",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:3",
+            "1:1",
+            "1:2",
+            "2:1",
+            "1:2",
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:3",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 0,
           "players": [
-            "",
-            ""
+            "Alexander Isak",
+            "Matheus Cunha"
           ],
           "matchPoints": [
             0,
@@ -32502,48 +32641,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester United",
+              "sourceName": "Matheus Cunha",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Grubis",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "1:2",
+            "3:0",
+            "1:2",
+            "2:2",
+            "1:1",
+            "2:1",
+            "1:1",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Kai Havertz",
+            "Pascal Gross"
           ],
           "matchPoints": [
             0,
@@ -32571,48 +32720,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Brighton & Hove Albion",
+              "sourceName": "Pascal Gross",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Hasťa",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "1:2",
+            "3:0",
+            "1:2",
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:3",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Alexander Isak",
+            "Kai Havertz"
           ],
           "matchPoints": [
             0,
@@ -32640,48 +32799,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Peloš",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "1:2",
+            "3:0",
+            "1:2",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Alexander Isak",
+            "Kai Havertz"
           ],
           "matchPoints": [
             0,
@@ -32709,48 +32878,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Dufec",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:3",
+            "1:2",
+            "1:1",
+            "3:0",
+            "1:2",
+            "2:2",
+            "1:0",
+            "2:1",
+            "1:3",
+            "2:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 0,
           "players": [
-            "",
-            ""
+            "Kai Havertz",
+            "Matheus Cunha"
           ],
           "matchPoints": [
             0,
@@ -32778,48 +32957,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester United",
+              "sourceName": "Matheus Cunha",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Pelix",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "1:2",
+            "3:0",
+            "1:2",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Thierno Barry",
+            "Evanilson"
           ],
           "matchPoints": [
             0,
@@ -32847,48 +33036,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Evanilson",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Dominick Z.",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:3",
+            "1:1",
+            "1:1",
+            "3:1",
+            "1:2",
+            "1:1",
+            "2:1",
+            "1:0",
+            "1:2",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Kai Havertz",
+            "Alexander Isak"
           ],
           "matchPoints": [
             0,
@@ -32916,48 +33115,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Bajgi",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "0:2",
+            "1:2",
+            "1:2",
+            "3:0",
+            "1:2",
+            "1:1",
+            "2:1",
+            "2:0",
+            "0:2",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Alexander Isak",
+            "Thierno Barry"
           ],
           "matchPoints": [
             0,
@@ -32985,48 +33194,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mezňa",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "0:2",
+            "1:2",
+            "1:2",
+            "2:0",
+            "1:2",
+            "1:2",
+            "2:1",
+            "1:0",
+            "1:2",
+            "2:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Kai Havertz",
+            "Cole Palmer"
           ],
           "matchPoints": [
             0,
@@ -33054,48 +33273,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Kai Havertz",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Chelsea",
+              "sourceName": "Cole Palmer",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mráva",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:1",
+            "1:1",
+            "3:0",
+            "1:2",
+            "1:0",
+            "2:1",
+            "2:0",
+            "1:1",
+            "2:0"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Thierno Barry",
+            "Noni Madueke"
           ],
           "matchPoints": [
             0,
@@ -33123,48 +33352,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Noni Madueke",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "RossoNero",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "0:2",
+            "1:2",
+            "1:2",
+            "3:0",
+            "0:2",
+            "1:2",
+            "1:1",
+            "2:1",
+            "1:2",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Martin Ødegaard",
+            "Marcus Tavernier"
           ],
           "matchPoints": [
             0,
@@ -33192,48 +33431,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Arsenal",
+              "sourceName": "Martin Ødegaard",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Marcus Tavernier",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Aleš M.",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:1",
+            "1:2",
+            "2:0",
+            "0:2",
+            "1:1",
+            "1:1",
+            "2:1",
+            "1:3",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Evanilson",
+            "Alexander Isak"
           ],
           "matchPoints": [
             0,
@@ -33261,48 +33510,58 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AFC Bournemouth",
+              "sourceName": "Evanilson",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Alexander Isak",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Škardis",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "0:2",
+            "1:1",
+            "1:2",
+            "2:0",
+            "1:2",
+            "0:2",
+            "2:1",
+            "2:0",
+            "1:3",
+            "2:0"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Thierno Barry",
+            "Nicolas Jackson"
           ],
           "matchPoints": [
             0,
@@ -33330,32 +33589,43 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Everton",
+              "sourceName": "Thierno Barry",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Aston Villa",
+              "sourceName": "Nicolas Jackson",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         }
       ],
       "complete": false,
       "max": 0,
-      "tipsRevealed": false
+      "tipsRevealed": true
     },
     {
       "round": 11,
@@ -90315,18 +90585,18 @@
   },
   "missingRound1": [],
   "master": "Google Sheets",
-  "generatedAt": "2026-11-06T18:36:41.410957+00:00",
-  "fingerprint": "9e125a8e25620aeb0ff45098af6231578670b59a8587458e6cfa7d2691ca5a29",
+  "generatedAt": "2026-11-06T20:04:45.082280+00:00",
+  "fingerprint": "83ee6515bdc43ac8ed4fefc2b52db184d2a4307db10de298581cc2b53032032e",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-06T18:36:41.411362+00:00",
-    "lastDataChangeAt": "2026-11-06T18:36:41.410957+00:00",
-    "fingerprint": "9e125a8e25620aeb0ff45098af6231578670b59a8587458e6cfa7d2691ca5a29",
+    "lastSuccessfulRunAt": "2026-11-06T20:04:45.082754+00:00",
+    "lastDataChangeAt": "2026-11-06T20:04:45.082280+00:00",
+    "fingerprint": "83ee6515bdc43ac8ed4fefc2b52db184d2a4307db10de298581cc2b53032032e",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-06T18:36:02.173299+00:00",
+      "footballFetchedAt": "2026-11-06T20:03:04.259550+00:00",
       "emailFetchedAt": "2026-09-13T07:04:05.771909+00:00",
-      "whatsappFetchedAt": "2026-11-06T18:36:01.183Z"
+      "whatsappFetchedAt": "2026-11-06T20:03:02.954Z"
     },
     "whatsappFile": "WhatsApp Chat - PREMIER LEAGUE 2026_2027 (4).zip",
     "whatsappLastMessageAt": "2026-09-04T18:52:57.000Z",
@@ -90349,12 +90619,13 @@
         "statuses": {
           "did_not_play": 26,
           "manual_override": 7,
+          "pending": 54,
           "resolved": 453
         },
         "methods": {
           "exact": 155,
           "manual_override": 2,
-          "provider_id": 217,
+          "provider_id": 271,
           "unique_abbreviated_name": 16,
           "unique_name_token": 96
         },
